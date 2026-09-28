@@ -14,7 +14,15 @@
 | **Reborn as an independent studio** | **Tuesday, September 6, 2005**: a **$525 million** non-recourse credit facility with **Merrill Lynch**, put together by **David Maisel** |
 | **Headquarters (2007)** | 9242 Beverly Blvd, Beverly Hills, on the floor above a Mercedes-Benz dealership |
 
-**Why 1996 is the right year:** it gave Marvel a studio name to carry through the bankruptcy years (1996–1998). Blade (1998), X-Men (2000) and Spider-Man (2002) proved the audience was there, but other studios owned those films. The 2005 Merrill Lynch deal changed that: for the first time, **Marvel finances and owns its own movies.** The loan was secured by the film rights to ten characters and properties: **Captain America, The Avengers, Nick Fury, Black Panther, Ant-Man, Cloak & Dagger, Doctor Strange, Hawkeye, Power Pack and Shang-Chi.** Iron Man, Thor and the Hulk came back to Marvel in 2005–2006.
+**Why 1996 is the right year:** Marvel spent the bankruptcy years (1996–1998) being offered money for its characters by every studio in town. Arad set up Marvel Studios so the company would **never sell a single film right.** Studios wanted to rent Spider-Man, the X-Men, the Fantastic Four and Blade, and Marvel turned all of them down. The 2005 Merrill Lynch deal was the payoff: **Marvel finances and owns its own movies.** The loan was secured by the film rights to ten characters and properties, which are only a small part of a library of more than 5,000 that Marvel owns outright: **Captain America, The Avengers, Nick Fury, Black Panther, Ant-Man, Cloak & Dagger, Doctor Strange, Hawkeye, Power Pack and Shang-Chi.**
+
+---
+
+## 1A. THE RIGHTS: MARVEL OWNS EVERYTHING (LOCKED)
+- **Marvel owns 100% of its characters.** No film rights have ever been sold or licensed. That includes Spider-Man, the X-Men and every mutant, the Fantastic Four, Doctor Doom, Galactus, the Silver Surfer, Namor, Blade, Daredevil, the Punisher, Ghost Rider and everyone else.
+- **There are no earlier Marvel theatrical films.** No *Blade* (1998), *X-Men* (2000), *Spider-Man* (2002), *Daredevil* (2003), *Hulk* (2003) or *Fantastic Four* (2005). Every character appears on screen for the first time in this universe.
+- **This is the first shared cinematic universe in film history.** No studio has tried anything like it. The industry has no word for it yet, and the fans will have to invent one.
+- **What this means for Thanos:** Galactus, the Silver Surfer, Mephisto, Adam Warlock, Doctor Doom, the mutants and the Fantastic Four are all available at full comic power for the Infinity Saga. **Nobody is left out, and nobody is nerfed.**
 
 ---
 
@@ -27,7 +35,7 @@
 | **Age on Day One of our story (March 12, 2007)** | **33** |
 | **Unofficial title** | **Keeper of the Codex**: the one person with final say on continuity |
 
-**Why Feige:** he started as Lauren Shuler Donner's assistant on *X-Men* (2000) and has worked on every Marvel film since. He's the only executive in town who reads the comics as primary source material instead of treating them as IP. He is patient, low-ego and always wears a baseball cap. He also has the one trait this plan depends on: **he can keep a secret for five years.**
+**Why Feige:** he started as Lauren Shuler Donner's assistant on *Volcano* (1997) and *You've Got Mail* (1998). He joined Marvel Studios in 2000, when it had no films and no plans to make any. For seven years he has been developing all of them on paper. He's the only executive in town who reads the comics as primary source material instead of treating them as IP. He is patient, low-ego and always wears a baseball cap. He also has the one trait this plan depends on: **he can keep a secret for five years.**
 
 **Chain of command (2007):**
 - **David Maisel**, Chairman, Marvel Studios (financing architect)
@@ -43,7 +51,7 @@
 - 2005 deal: Paramount distributes and markets for a flat fee (about 8%). **Marvel keeps ownership, final cut and the sequel rights.**
 - Paramount is hungry, reorganizing under Brad Grey, and doesn't ask for creative control. It's the ideal partner for a studio with a secret.
 - **Covers:** Phase 1 through 2011.
-- *The Incredible Hulk* (2008) is the exception. **Universal** keeps distribution because of its prior Hulk rights deal.
+- **Covers every Phase 1 film, *The Incredible Hulk* included.** Marvel has never licensed a character to another studio, so no outside studio holds a claim on any film.
 
 ### Acquirer: **THE WALT DISNEY COMPANY**
 - **Monday, August 31, 2009**: Disney announces it is acquiring Marvel Entertainment for **about $4.0 billion** in cash and stock. CEO **Bob Iger** (b. Feb 10, 1951, age 58) closes the deal on December 31, 2009.

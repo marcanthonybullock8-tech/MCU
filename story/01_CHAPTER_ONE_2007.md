@@ -56,7 +56,7 @@
 > Weird question. Marvel ALSO has Hulk shooting this summer with Norton. Two movies, same year, same studio. Anyone else think they're connected?
 
 > **XxWolverineXx** — *Mar 12 2007, 12:22 PM*
-> @Mjolnir_Worthy no. That's not how movies work. Different directors, different distributors. Calm down.
+> @Mjolnir_Worthy no. That's not how movies work. Different directors, different casts. Studios don't do that. Calm down.
 
 **TWITTER** *(SXSW Interactive, Austin, TX. Twitter's usage explodes this week)*
 > **@geekdad_atx** — *4:51 PM Mar 12th, 2007*
@@ -431,12 +431,16 @@ Stan opens it. One page. He reads it. His Sharpie stops moving.
           Hulk on the news...
 
                     FEIGE
-          We don't have the Fantastic Four.
-          Or Spider-Man. Yet.
+          Every one of them, Stan. We never
+          sold a single one. Not Spidey,
+          not the X-Men, not the Four.
+          Everybody's still home.
 
                     STAN
                (grinning)
-          "Yet." I like this guy.
+          Every studio in town laughed at
+          us for turning down their money.
+          Let's see who's laughing in 2019.
                (hands the page back)
           You know what we called it in the
           '60s? The Marvel Universe. The
@@ -459,8 +463,8 @@ Stan opens it. One page. He reads it. His Sharpie stops moving.
 ## ▌ HEADLINES: SPRING 2007
 
 > **VARIETY** | *Thursday, April 12, 2007*
-> **NORTON'S 'HULK' SETS TORONTO SUMMER START; UNIVERSAL DISTRIBS**
-> *Leterrier helms. Marvel stresses the pic is "not a sequel" to Ang Lee's 2003 film.*
+> **NORTON'S 'HULK' SETS TORONTO SUMMER START; PARAMOUNT DISTRIBS**
+> *Leterrier helms the first live-action Hulk film. Marvel promises "the Hulk from the comics, with no limits on how strong he gets."*
 
 > **AIN'T IT COOL NEWS** | *April 30, 2007*
 > **Moriarty here with a WHISPER from the Iron Man set...**
