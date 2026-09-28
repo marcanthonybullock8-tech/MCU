@@ -14,7 +14,7 @@
 | Gwyneth Paltrow | Sept 27, 1972 | **34** |
 | Terrence Howard | Mar 11, 1969 | **38** (turned 38 yesterday) |
 | Jeff Bridges | Dec 4, 1949 | **57** |
-| Samuel L. Jackson | Dec 21, 1948 | **58** |
+| Kurt Russell | Mar 17, 1951 | **55** (56 on Mar 17) |
 | Stan Lee | Dec 28, 1922 | **84** |
 
 ---
@@ -337,7 +337,7 @@ Favreau puts his fork down.
 
                     FEIGE (V.O.)
           They'll stay for this one.
-          Samuel L. Jackson. Eye patch.
+          Kurt Russell. Eye patch. Cigar.
           Tony's living room.
 
                     FAVREAU
@@ -345,10 +345,14 @@ Favreau puts his fork down.
           Nick Fury.
 
                     FEIGE (V.O.)
-          Bryan Hitch drew him as Sam
-          Jackson in The Ultimates back in
-          2002. Sam knows. He's been
-          waiting five years for this call.
+          The real one. Jack Kirby's
+          Fury. Sergeant of the Howling
+          Commandos, Normandy, 1944. The
+          Infinity Formula keeps him at
+          fifty-five for sixty years. Kurt's
+          worn an eye patch before. He
+          said yes before I finished the
+          sentence.
 
                     FAVREAU
           And he says what?

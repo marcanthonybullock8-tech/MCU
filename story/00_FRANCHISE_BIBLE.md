@@ -26,6 +26,23 @@
 
 ---
 
+## 1B. CONTINUITY: EARTH-616 (LOCKED)
+The whole universe is adapted from **Earth-616**, the main Marvel Comics continuity. Earth-1610 (Ultimate), movie-only versions and "reimagined" origins are not allowed. Where the 616 comics have updated a detail over time (Marvel's sliding timescale), we use the latest 616 version.
+
+**Earth-616 anchors:**
+| Character | 616 canon we follow |
+|---|---|
+| **Nick Fury** | Jack Kirby's Fury: WWII sergeant of the **Howling Commandos**, lost his eye to a grenade and later became Director of **S.H.I.E.L.D.** (Supreme Headquarters, International Espionage, Law-enforcement Division). The **Infinity Formula** keeps him in his fifties. **Cast: Kurt Russell.** |
+| **Iron Man** | Tony Stark, captured by insurgents and builds the Mark I with **Ho Yinsen**. The war is Afghanistan (the sliding-timescale update in *Extremis*, 2005). **Obadiah Stane is Iron Monger**, and the **Mandarin** and his ten rings of alien origin are part of Tony's world. |
+| **The Hulk** | Bruce Banner is caught in the blast of the **gamma bomb** while saving **Rick Jones**. The madder Hulk gets, the stronger Hulk gets, **with no upper limit.** Hulk is part of the Avengers from day one. |
+| **Thor** | The Odinson, sent to Earth by Odin to learn humility, first living as the mortal **Dr. Donald Blake**. **Mjolnir** is enchanted with "Whosoever holds this hammer, if he be worthy..." |
+| **Captain America** | Steve Rogers, Project: Rebirth, **Dr. Abraham Erskine**, with **Bucky Barnes** at his side. He is lost at the end of the war and **frozen in ice until the Avengers find him.** |
+| **The Avengers** | The founding line-up from *Avengers* #1 (1963): **Iron Man, Thor, the Hulk, Ant-Man (Hank Pym) and the Wasp (Janet van Dyne).** They form to fight **Loki.** Cap is thawed out later and joins. |
+| **Mutants** | Born with the X-gene. **Charles Xavier and Magneto (Max Eisenhardt)** are there from the start. |
+| **Thanos** | Jim Starlin's 616 Thanos (see Section 7). |
+
+---
+
 ## 2. THE ARCHITECT: KEVIN FEIGE
 
 | | |
