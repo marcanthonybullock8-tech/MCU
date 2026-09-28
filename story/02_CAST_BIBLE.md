@@ -272,7 +272,7 @@ She's spent six years hearing *"not the type,"* and for every possible type: too
 ---
 
 ### 🎬 TAYIA BOYD
-**MARVEL ROLE: 🔒 TBD (held for the showrunner)**
+**MARVEL ROLE (LOCKED): Virginia "Pepper" Potts** *(Earth-616: Tony's executive assistant, later CEO of Stark Industries, and eventually the armored hero **Rescue**, with no nerfs)*
 
 | | |
 |---|---|
@@ -285,6 +285,8 @@ She's spent six years hearing *"not the type,"* and for every possible type: too
 
 **2007 problem: typecasting**
 She's the lead's funny best friend on a mid-rated network sitcom (***Two Doors Down***, NBC, 2005–present). Casting sees her as *"the sassy best friend,"* which is the part she's been playing since she was nine. She's ready to be the lead.
+
+**Why she's Pepper:** Tony and Pepper's back-and-forth is the most important relationship in Iron Man's corner of the universe, and Tayia and Marc-Anthony have been doing that rhythm on screen since they were nine. With them it's instinct, not acting.
 
 ---
 
