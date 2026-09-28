@@ -4,3 +4,8 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
 
 - [Franchise Bible](story/00_FRANCHISE_BIBLE.md): locked canon
 - [Chapter One (2007)](story/01_CHAPTER_ONE_2007.md)
+
+## PDFs
+Every story document is also rendered as a PDF in [`pdf/`](pdf/). To regenerate them after editing or adding a chapter, run:
+
+    pip install markdown && python3 tools/build_pdfs.py
