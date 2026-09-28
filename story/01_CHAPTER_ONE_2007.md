@@ -509,7 +509,7 @@ sketch. Six empty slots.
 
                                               CUT TO BLACK.
 
-                    SUPER: "1 YEAR, 11 MONTHS UNTIL
+                    SUPER: "11 MONTHS UNTIL
                     IRON MAN OPENS."
 
                     (beat)
