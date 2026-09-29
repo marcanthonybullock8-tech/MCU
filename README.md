@@ -31,6 +31,13 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #20: Doctor Strange](story/films/P3-03_DOCTOR_STRANGE.md)
   - [Film #21: Guardians of the Galaxy: Cosmic Avengers](story/films/P3-04_GUARDIANS_OF_THE_GALAXY_COSMIC_AVENGERS.md)
   - [Film #22: Wolverine](story/films/P3-05_WOLVERINE.md)
+  - [Film #23: Thor: The Twilight Sword](story/films/P3-06_THOR_THE_TWILIGHT_SWORD.md)
+  - [Film #24: Planet Hulk](story/films/P3-07_PLANET_HULK.md)
+  - [Film #25: Avengers: The Infinity Gauntlet](story/films/P3-08_AVENGERS_THE_INFINITY_GAUNTLET.md)
+  - [Film #26: Captain Marvel](story/films/P3-09_CAPTAIN_MARVEL.md)
+  - [Film #27: Warlock](story/films/P3-10_WARLOCK.md)
+  - [Film #28: Avengers Forever](story/films/P3-11_AVENGERS_FOREVER.md)
+  - [Film #29: The Amazing Spider-Man 2](story/films/P3-12_THE_AMAZING_SPIDER-MAN_2.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs

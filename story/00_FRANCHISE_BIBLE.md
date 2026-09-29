@@ -165,7 +165,7 @@ Taken directly from Starlin's run, *The Thanos Quest* → *The Infinity Gauntlet
   - **Final shot of Phase 1** (*The Avengers*): a purple hand, a golden glove with six empty settings, Death at his side, and one line: *"...is to court Death."*
   - *The Gems stay off Earth in Phase 1. On 616 they're scattered across the cosmos among the Elders of the Universe until **The Thanos Quest**.*
 - **Phase 2:** *The Thanos Quest.* He starts collecting.
-- **Phase 3:** *The Infinity Gauntlet*, a two-part finale.
+- **Phase 3 (locked in the dossiers):** *Civil War* breaks the heroes apart; Mephisto convinces Thanos to take "half of everything"; **the snap** (*Avengers: The Infinity Gauntlet*, 2018); **five lost years**; **Warlock** comes out of the Soul Gem; **Cap's last stand** and **Warlock's reversal** (*Avengers Forever*, 2019). **Thanos becomes a farmer. Death never chooses him.** The saga ends with *The Amazing Spider-Man 2*.
 
 ---
 
