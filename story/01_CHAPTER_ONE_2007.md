@@ -1,6 +1,6 @@
 # CHAPTER ONE: "THE LAST PAGE ISN'T IN THE SCRIPT"
 ### Mockumentary Pilot: DRAFT
-### 🔒 STATUS: **This is a reworked draft and NOT the start of our story.** The real-world story begins only when the showrunner gives the word.
+### 🗄️ STATUS: **SUPERSEDED DRAFT (reference only).** The real story began with [Chapter One: "The Brainiac Kid"](chapters/CH01_THE_BRAINIAC_KID.md) (2006). The March 2007 events in this draft will be rewritten when the story reaches them.
 
 *March 12 – May 31, 2007*
 

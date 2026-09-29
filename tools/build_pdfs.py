@@ -44,5 +44,5 @@ def build(md_path):
 
 if __name__ == "__main__":
     os.makedirs(os.path.join(ROOT, "pdf"), exist_ok=True)
-    for path in sorted(glob.glob(os.path.join(ROOT, "story", "*.md")) + glob.glob(os.path.join(ROOT, "story", "films", "*.md")) + glob.glob(os.path.join(ROOT, "story", "series", "*.md"))):
+    for path in sorted(glob.glob(os.path.join(ROOT, "story", "*.md")) + glob.glob(os.path.join(ROOT, "story", "films", "*.md")) + glob.glob(os.path.join(ROOT, "story", "series", "*.md")) + glob.glob(os.path.join(ROOT, "story", "chapters", "*.md"))):
         build(path)

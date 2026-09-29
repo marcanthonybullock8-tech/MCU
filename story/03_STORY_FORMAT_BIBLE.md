@@ -1,5 +1,5 @@
 # STORY FORMAT BIBLE: THE REAL-WORLD STORY
-### STATUS: 🔒 LOCKED. **The real-world story has NOT started.** It begins only when the showrunner gives the word.
+### STATUS: 🔒 LOCKED (format). ✅ **THE REAL-WORLD STORY HAS STARTED** with Chapter One, "The Brainiac Kid" (April 28 – September 29, 2006).
 
 > This document covers **our story about the people making the MCU**: the actors, the families, the executives and the fans. That's separate from the MCU films themselves, which follow the Franchise Bible.
 
@@ -9,7 +9,7 @@
 
 **Structure:** an **ensemble story** with **Marc-Anthony Bullock as the primary protagonist.** His journey is the spine and every chapter touches it. Around him the POV rotates among the ensemble: Amond, Tayia, Esther, Tyrese, Harmony, Tyler, Elxa, Grace, Arianna, the Donohue–Bullock family, Kevin Feige and the executives, and the fans.
 
-**The mockumentary conceit:** a documentary crew is embedded with the ensemble. **The footage is sealed** under Marvel NDAs as a time capsule of the secret, to be released only after the Infinity Saga ends. That's why people are candid on camera about a secret the public doesn't know yet.
+**The mockumentary conceit:** a documentary crew is embedded with the ensemble. **Origin (canon, Chapter One):** the independent crew started following Marc-Anthony in **April 2006** for a film about child stars growing up. Marvel discovered them at his screen test and **sealed the footage by agreement on Friday, August 18, 2006.** Earlier Marvel scenes come from **Kevin Feige's personal Handycam** ("the Feige Tapes"), donated to the documentary. **The footage is sealed** under Marvel NDAs as a time capsule of the secret, to be released only after the Infinity Saga ends. That's why people are candid on camera about a secret the public doesn't know yet.
 
 ### The toolkit
 | Device | How we use it |
@@ -95,4 +95,4 @@ It should make you laugh out loud and then hit you in the chest two pages later.
 | **The chorus** | The press and the fans. XxWolverineXx has been locked in as a recurring skeptic since Chapter One. |
 
 ---
-**🔒 NOT STARTED. Waiting for the showrunner's go.**
+**✅ STARTED.** [Chapter One: "The Brainiac Kid"](chapters/CH01_THE_BRAINIAC_KID.md)

@@ -1,6 +1,6 @@
 # THE WORLD BIBLE: AMERICA & HOLLYWOOD, UP TO DAY ONE
 ### The real-world story's world, as it stands on **Monday, March 12, 2007**
-### STATUS: 🔒 LOCKED as world canon. **The real-world story itself has NOT started.** This is the world it will start in.
+### STATUS: 🔒 LOCKED as world canon. ✅ **The real-world story has started** (Chapter One opens April 28, 2006, in this world).
 
 > **How to read this document.** Our world is **the real world**, with its real history, real people, real headlines and real prices. **Three pebbles** have been dropped into it. Everything unique about this world is **a ripple from one of those three pebbles.** If something isn't a ripple, it happened exactly the way it happened in real life.
 
@@ -271,4 +271,4 @@ Everything below **happened in this world**, and everyone knows it. It's **the a
 ## CHECKLIST
 - [x] The three pebbles (what's different, and why) · [x] The country on Day One, with real history and where the pebbles touch it · [x] A world without Marvel movies · [x] The Cape Curse · [x] The fans · [x] Hollywood's studios and power map · [x] Donohue Entertainment · [x] The unwritten rules each character breaks · [x] Black Hollywood in 2007 · [x] Real and fictional media · [x] The pop-culture almanac · [x] Marvel Studios on Day One · [x] The horizon
 
-**🔒 The real-world story is still NOT started. This is the world it will begin in, whenever the showrunner gives the word.**
+**✅ The story has started: see [Chapter One](chapters/CH01_THE_BRAINIAC_KID.md).**

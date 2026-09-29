@@ -3,7 +3,7 @@
 An alternate-history, real-world chronicle of the birth of the Marvel Cinematic Universe, starting in 2007.
 
 - [Franchise Bible](story/00_FRANCHISE_BIBLE.md): locked canon
-- [Chapter One (2007)](story/01_CHAPTER_ONE_2007.md): mockumentary pilot draft (🔒 story not started)
+- [Chapter One (2007)](story/01_CHAPTER_ONE_2007.md): superseded pilot draft (reference only)
 - [Cast Bible](story/02_CAST_BIBLE.md): 🔓 unlocked
 - [Film Dossier Template](story/04_FILM_DOSSIER_TEMPLATE.md): required fields for every MCU film
 - [Phase 1 Slate](story/05_PHASE_ONE_SLATE.md)
@@ -79,8 +79,10 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #58: Avengers: God Emperor Doom (finale, Part One)](story/films/P6-10_AVENGERS_GOD_EMPEROR_DOOM.md)
   - [Series: Master of Kung Fu (Disney+)](story/series/P6-S2_MASTER_OF_KUNG_FU.md)
   - [Film #59: Secret Wars (finale, Part Two)](story/films/P6-11_SECRET_WARS.md)
-- [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
+- [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story
 - [World Bible: America & Hollywood up to Day One](story/13_WORLD_BIBLE_2007.md): the country, the industry, Donohue Entertainment, and a world without Marvel movies (March 12, 2007)
+- **THE REAL-WORLD STORY** ✅ started
+  - [Chapter One: "The Brainiac Kid"](story/chapters/CH01_THE_BRAINIAC_KID.md): April 28 – September 29, 2006. Marvel announces *Iron Man*; Marc-Anthony Bullock is cast as Tony Stark.
 
 ## PDFs
 Every story document is also rendered as a PDF in [`pdf/`](pdf/). To regenerate them after editing or adding a chapter, run:
