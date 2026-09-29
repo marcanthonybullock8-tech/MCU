@@ -18,7 +18,7 @@ Paul Rudd|Doug Jones|Laurence Fishburne|Ralph Ineson|Julia Garner|Ciarán Hinds|
 Danai Gurira|Letitia Wright|Angela Bassett|Forest Whitaker|Daniel Kaluuya|Winston Duke|John Kani|Benedict Cumberbatch|
 Chiwetel Ejiofor|Benedict Wong|Tilda Swinton|Charlize Theron|Liam Neeson|Michael Rooker|Sylvester Stallone|Hugh Jackman|Tao Okamoto|
 Hiroyuki Sanada|Rila Fukushima|Clancy Brown|Karl Urban|Cate Blanchett|Taika Waititi|Lashana Lynch|Mark Strong|Anson Mount|Brie Larson|
-Chris Evans|Annette Bening|Jude Law|Danny DeVito|Willem Dafoe|Emma Stone|Dane DeHaan|Denis Leary|Zendaya""".replace("\n", "").split("|")
+Chris Evans|Annette Bening|Jude Law|Danny DeVito|Willem Dafoe|Emma Stone|Dane DeHaan|Denis Leary|Zendaya|Caleb Landry Jones|Blair Redford|Alexandra Shipp|Daniel Cudmore|Kodi Smit-McPhee""".replace("\n", "").split("|")
 
 def cast_section(text):
     m = re.search(r"## 2\. OWNERSHIP(.*?)\n## 3\.", text, re.S)

@@ -39,23 +39,24 @@ ROLES = {
  "Hiroyuki Sanada":"Shingen Yashida","Rila Fukushima":"Yukio","Clancy Brown":"Surtur","Karl Urban":"Skurge","Cate Blanchett":"Hela",
  "Taika Waititi":"Korg","Lashana Lynch":"Caiera","Mark Strong":"The Red King","Anson Mount":"Black Bolt","Chris Evans":"Mar-Vell",
  "Annette Bening":"Supreme Intelligence","Jude Law":"Yon-Rogg","Willem Dafoe":"Norman Osborn / Green Goblin","Emma Stone":"Gwen Stacy",
- "Dane DeHaan":"Harry Osborn","Denis Leary":"Capt. George Stacy","Zendaya":"Mary Jane Watson",
+ "Dane DeHaan":"Harry Osborn","Denis Leary":"Capt. George Stacy","Zendaya":"Mary Jane Watson","Caleb Landry Jones":"Banshee","Blair Redford":"Thunderbird",
 }
 
 nums = {t: i + 1 for i, (_, t, _) in enumerate(A.films)}
 
 def row(name, hits):
-    per = [sum(1 for p, _ in hits if p == k) for k in (1, 2, 3)]
+    per = [sum(1 for p, _ in hits if p == k) for k in PH]
     phases = sum(1 for c in per if c)
     films = ", ".join(f"#{nums[t]}" for _, t in hits)
-    return f"| **{name}** | {ROLES.get(name,'')} | **{len(hits)}** | **{phases}** | {per[0]} | {per[1]} | {per[2]} | {films} |"
+    return f"| **{name}** | {ROLES.get(name,'')} | **{len(hits)}** | **{phases}** | " + " | ".join(str(c) for c in per) + f" | {films} |"
 
-HEAD = "| Actor | Role(s) | Films | Phases | P1 | P2 | P3 | Film #s |\n|---|---|---|---|---|---|---|---|"
+PH = sorted({p for p, _, _ in A.films})
+HEAD = "| Actor | Role(s) | Films | Phases | " + " | ".join(f"P{p}" for p in PH) + " | Film #s |\n|" + "---|" * (5 + len(PH))
 fic = sorted(A.tally(A.FICTIONAL), key=lambda x: (-len(x[1]), x[0]))
 real = sorted(A.tally(A.REAL), key=lambda x: (-len(x[1]), x[0]))
 
 out = ["# SAGA APPEARANCES: EVERY ACTOR, EVERY FILM",
-       "### The Infinity Saga (2008–2019): 29 films, 3 phases",
+       f"### Every MCU film so far: {len(A.films)} films, {len({p for p, _, _ in A.films})} phases",
        "*Generated from the cast sections of the 29 film dossiers (`tools/build_appearances_doc.py`). Voice roles, cameos, and mid- and post-credit appearances all count.*",
        "", "---", "", "## FILM KEY", "| # | Film | Phase |", "|---|---|---|"]
 def nice(t):
@@ -65,9 +66,9 @@ out += [f"| {nums[t]} | {nice(t)} | {p} |" for p, t, _ in A.films]
 out += ["", "---", "", f"## THE FICTIONAL ENSEMBLE ({len(fic)} actors)", HEAD] + [row(n, h) for n, h in fic]
 out += ["", "---", "", f"## REAL-LIFE ACTORS ({len(real)} actors)", HEAD] + [row(n, h) for n, h in real]
 out += ["", "---", "", "## TOTALS",
-        f"- **{len(fic) + len(real)} actors** across **29 films.**",
-        f"- **Most appearances overall:** Stan Lee, in **all 29** (cameos).",
+        f"- **{len(fic) + len(real)} actors** across **{len(A.films)} films.**",
+        f"- **Most appearances overall:** {real[0][0]}, in **{len(real[0][1])}** films.",
         f"- **Most appearances by a fictional ensemble actor:** {fic[0][0]}, **{len(fic[0][1])} films.**",
-        f"- **In all three phases:** " + ", ".join(n for n, h in fic + real if len({p for p, _ in h}) == 3) + "."]
+        f"- **In three or more phases:** " + ", ".join(n for n, h in fic + real if len({p for p, _ in h}) >= 3) + "."]
 open(os.path.join(A.ROOT, "story", "08_SAGA_APPEARANCES.md"), "w", encoding="utf-8").write("\n".join(out) + "\n")
 print("written")
