@@ -69,6 +69,15 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #49: Old Man Logan](story/films/P6-01_OLD_MAN_LOGAN.md)
   - [Film #50: Spider-Man: Renew Your Vows](story/films/P6-02_SPIDER-MAN_RENEW_YOUR_VOWS.md)
   - [Series: Ghost Racers (Disney+)](story/series/P6-S1_GHOST_RACERS.md)
+  - [Film #51: Scarlet Witch: House of M](story/films/P6-03_SCARLET_WITCH_HOUSE_OF_M.md)
+  - [Film #52: Iron Man: Armor Wars](story/films/P6-04_IRON_MAN_ARMOR_WARS.md)
+  - [Film #53: X-Men: Age of Apocalypse](story/films/P6-05_X-MEN_AGE_OF_APOCALYPSE.md)
+  - [Film #54: Captain America: Planet Hulk](story/films/P6-06_CAPTAIN_AMERICA_PLANET_HULK.md)
+  - [Film #55: Avengers: Battleworld](story/films/P6-07_AVENGERS_BATTLEWORLD.md)
+  - [Film #56: Black Panther: The Infinity Gauntlet](story/films/P6-08_BLACK_PANTHER_THE_INFINITY_GAUNTLET.md)
+  - [Film #57: Captain Marvel and the Carol Corps](story/films/P6-09_CAPTAIN_MARVEL_AND_THE_CAROL_CORPS.md)
+  - [Film #58: Avengers: God Emperor Doom (finale, Part One)](story/films/P6-10_AVENGERS_GOD_EMPEROR_DOOM.md)
+  - [Film #59: Secret Wars (finale, Part Two)](story/films/P6-11_SECRET_WARS.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
