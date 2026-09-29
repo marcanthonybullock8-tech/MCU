@@ -1,5 +1,5 @@
 # PHASE 1 SLATE (2008–2012): 8 FILMS
-### Status: ✅ all 8 slots filled. Each film still needs its full Film Dossier before it's locked. Each film gets a full Film Dossier before it's locked.
+### Status: ✅ all 8 slots filled. Each film still needs its full Film Dossier before it's locked.
 
 | # | Title | Release date | Owner | Dossier |
 |---|---|---|---|---|
