@@ -1,18 +1,141 @@
 # CHAPTER ONE: "THE LAST PAGE ISN'T IN THE SCRIPT"
-### March – May 2007
+### Mockumentary Pilot: DRAFT
+### 🔒 STATUS: **This is a reworked draft and NOT the start of our story.** The real-world story begins only when the showrunner gives the word.
+
+*March 12 – May 31, 2007*
 
 ---
 
-## ▌ TIMELINE: AGES ON DAY ONE (MONDAY, MARCH 12, 2007)
+```
+                         BLACK SCREEN.
+
+                         TITLE CARD:
+
+     "The following footage was recorded between 2007 and
+     2019 by an independent documentary crew with access
+     to the people who made it.
+
+     It was sealed under agreement with Marvel Studios
+     and could not be shown until the story was finished."
+
+                         CUT TO:
+```
+
+---
+
+## ▌ COLD OPEN
+
+```
+ARCHIVAL FOOTAGE — "BRAINIAC" (DISNEY CHANNEL), SEASON 2,
+EPISODE 7: "SCIENCE FAIR-Y TALE"
+ORIGINAL AIR DATE: OCTOBER 11, 1996
+
+Grainy 4:3 video. Canned laugh track. A cardboard-and-tinfoil
+"robot suit" stands on a science fair table.
+
+MARCUS HAYES, played by a 14-year-old MARC-ANTHONY BULLOCK
+(looks about 9), in a bow tie, presents it to three unimpressed
+JUDGES.
+
+                    MARCUS (MARC-ANTHONY, 14)
+          Ladies and gentlemen of the
+          science community... one day,
+          a man will fly in a suit of
+          armor!
+
+The helmet falls off and lands on a judge's foot.
+
+                    JUDGE
+          Ow!
+
+                    MARCUS
+          ...Not today. But one day.
+
+                                              (LAUGH TRACK)
+
+                         HARD CUT TO:
+```
+
+```
+EXT. ALABAMA HILLS, LONE PINE, CALIFORNIA — "AFGHANISTAN"
+CAVE SET — DAY
+MONDAY, MARCH 12, 2007 — 6:47 AM PT
+
+Handheld documentary camera. Wind. Real red rock. Real dust.
+
+The MARK I, 90 pounds of hammered, bolted, practical steel,
+stands on a stand. Ugly on purpose.
+
+A man in a torn, bloodstained tank top stands in front of it,
+eating a gas-station honey bun. It's MARC-ANTHONY BULLOCK, 25.
+He looks 19.
+
+He notices the camera, points at the suit, then at the lens.
+
+                    MARC-ANTHONY
+          Eleven years. Called it.
+
+He takes a bite of the honey bun.
+```
+
+---
+
+## ▌ TALKING HEAD
+
+```
+INT. PRODUCTION TRAILER — LONE PINE — DAY
+
+    LOWER THIRD:  MARC-ANTHONY BULLOCK
+                  Actor, "Tony Stark" · Age 25
+
+Still in costume. Fake blood on his collarbone. Legs pulled up
+in a folding chair like a kid.
+
+                    MARC-ANTHONY
+          So my whole life I've been two
+          things. I've been "the Brainiac
+          kid," and then after the HBO
+          special, I was "the Brainiac kid
+          who says [BLEEP] on television."
+               (beat)
+          Those are my two settings. Those
+          are the only two things Hollywood
+          thinks I am. Cute... and filthy.
+               (grins)
+          And to be fair, I'm very good
+          at both.
+               (the grin fades a little)
+          I turned down eleven comedies
+          last year. Eleven. One of them,
+          I swear to God, I get hit in the
+          [BLEEP] by a golf cart on the
+          poster. That's the poster.
+          That's the whole marketing
+          campaign. My [BLEEP] and a golf
+          cart.
+               (beat)
+          And then Kevin Feige calls and
+          says, "Do you want to be Tony
+          Stark?" And I said...
+               (looks off, genuinely moved)
+          ...I said "[BLEEP] yes" so loud
+          my grandmother heard it from
+          across town. She called my mom
+          to complain.
+```
+
+---
+
+## ▌ THE LEDGER: AGES ON DAY ONE (MONDAY, MARCH 12, 2007)
 
 | Person | Born | Age |
 |---|---|---|
-| Kevin Feige | June 2, 1973 | **33** |
-| Avi Arad | Aug 1, 1948 | **58** |
-| Jon Favreau | Oct 19, 1966 | **40** |
 | Marc-Anthony Bullock | Jan 5, 1982 | **25** *(looks 19–20)* |
 | Tayia Boyd | Feb 3, 1982 | **25** *(looks 19)* |
 | Amond Baker | Feb 10, 1982 | **25** *(looks 19)* |
+| Kevin Feige | June 2, 1973 | **33** |
+| Avi Arad | Aug 1, 1948 | **58** |
+| Jon Favreau | Oct 19, 1966 | **40** |
 | Don Cheadle | Nov 29, 1964 | **42** |
 | Jeff Bridges | Dec 4, 1949 | **57** |
 | Samuel L. Jackson | Dec 21, 1948 | **58** |
@@ -20,7 +143,7 @@
 
 ---
 
-## ▌ HOLLYWOOD TRADES
+## ▌ MEDIA INSERT: THE TRADES
 
 > **VARIETY** | *Monday, March 12, 2007*
 > **MARVEL UPS FEIGE TO PRODUCTION PREZ**
@@ -36,7 +159,175 @@
 
 ---
 
-## ▌ THE FANS
+## ▌ SCENE 1
+
+```
+EXT. ALABAMA HILLS — CAVE SET — CONTINUOUS
+MONDAY, MARCH 12, 2007 — 7:02 AM PT
+
+JON FAVREAU (40), director, baseball cap, walkie on his hip,
+circles the Mark I like it's a used car. Marc-Anthony knocks
+on the chest plate. CLANG.
+
+                    MARC-ANTHONY
+          That's real.
+
+                    FAVREAU
+          That's real.
+
+                    MARC-ANTHONY
+          I'm going to be inside that.
+
+                    FAVREAU
+          You said no stunt double. I wrote
+          it down. I had it notarized.
+
+                    MARC-ANTHONY
+               (grinning)
+          I say a lot of things at 6 AM.
+          Yesterday I told a PA I'd name my
+          firstborn after her. I meant it.
+          I'm having like nine kids, Jon.
+          Somebody's getting named Brenda.
+
+The camera finds a young PA with a clipboard, BRENDA (22). She
+looks into the lens and mouths: "He's serious."
+
+Marc-Anthony runs his hand along a weld seam. His face changes.
+
+                    MARC-ANTHONY (CONT'D)
+          Tony built this in a cave. With
+          scraps. With a box of scraps.
+          If it looks like a stunt guy is
+          in there, the whole movie's a
+          lie.
+
+                    FAVREAU
+          So you're in.
+
+                    MARC-ANTHONY
+          Fourteen months, Jon. Fourteen
+          months of golf carts.
+               (knocks on the steel again)
+          I'm in.
+
+A STUNT COORDINATOR hustles over with a harness rig.
+
+                    STUNT COORDINATOR
+          We rigged it for his weight plus
+          ninety. Two guys on safety lines.
+          If he goes down, he goes down
+          slow.
+
+                    MARC-ANTHONY
+          Story of my career. Child star
+          to "where is he now" in slow
+          motion.
+
+A golf cart pulls up. Marc-Anthony flinches at it on reflex,
+then looks at the camera.
+
+                    MARC-ANTHONY (CONT'D)
+          See? Trauma.
+
+TAYIA BOYD (25, looks 19) climbs out in a Stark Industries
+blazer with a parka over it, holding two coffees. She hands
+one to Favreau and keeps the other.
+
+                    MARC-ANTHONY (CONT'D)
+          Where's mine?
+
+                    TAYIA
+          Pepper doesn't get Tony coffee
+          until page forty.
+
+                    MARC-ANTHONY
+               (to Favreau)
+          She's been doing this to me since
+          we were nine.
+
+                    TAYIA
+          And you've been walking into it
+          since you were nine.
+               (sips; eyes the Mark I)
+          Well. Welcome to the big leagues,
+          Brainiac.
+
+Favreau watches them. A small, pleased smile. He clicks his
+walkie.
+
+                    FAVREAU
+               (into walkie)
+          Keep B-camera on those two. All
+          day. Whenever they're talking.
+
+He notices the DOCUMENTARY CAMERA doing the same thing.
+
+                    FAVREAU (CONT'D)
+               (to the doc camera)
+          You too, apparently.
+```
+
+---
+
+## ▌ TALKING HEAD
+
+```
+INT. PRODUCTION TRAILER — LONE PINE — DAY
+
+    LOWER THIRD:  TAYIA BOYD
+                  Actor, "Pepper Potts" · Age 25
+
+Parka zipped up to her chin. Coffee still in hand.
+
+                    TAYIA
+          People ask what it's like working
+          with Marc again. I've known him
+          since "SPLAT!" We were nine. He
+          ate a crayon on our first day for
+          twenty dollars. He gave the
+          twenty dollars to the boom guy
+          because the boom guy's kid had
+          a birthday.
+               (beat)
+          That's him. That's the whole
+          man. Disgusting, and the nicest
+          person you'll ever meet.
+               (sips coffee)
+          I'm still not getting him coffee.
+```
+
+---
+
+## ▌ TALKING HEAD
+
+```
+INT. VIDEO VILLAGE TENT — LONE PINE — DAY
+
+    LOWER THIRD:  JON FAVREAU
+                  Director, "Iron Man" · Age 40
+
+                    FAVREAU
+          The studio's question was, "Can
+          the Brainiac kid carry a $140
+          million movie?" And I said, have
+          you WATCHED "Brainiac"? That kid
+          was carrying a Disney Channel
+          sitcom at thirteen with a laugh
+          track and a talking robot dog.
+          The robot dog was terrible, and
+          he made it work.
+               (beat)
+          Tony Stark is the smartest,
+          funniest guy in the room, and
+          he's hiding something. That's
+          Marc. I didn't cast an actor.
+          I cast a guy.
+```
+
+---
+
+## ▌ MEDIA INSERT: THE FANS
 
 **SUPERHEROHYPE.COM FORUMS › *Iron Man (2008)* › "PRINCIPAL PHOTOGRAPHY BEGINS — DISCUSSION THREAD"**
 *Page 1 of 47*
@@ -63,121 +354,11 @@
 > Weird question. Marvel ALSO has Hulk shooting this summer, and the rumor is Amond Baker for Banner. Amond Baker. Marc-Anthony's best friend since they were five. Two movies, same year, same studio. Anyone else think they're connected?
 
 > **XxWolverineXx** — *Mar 12 2007, 12:22 PM*
-> @Mjolnir_Worthy no. That's not how movies work. Different directors, different distributors. The Baker thing is just two friends who both needed work. Calm down.
+> @Mjolnir_Worthy no. That's not how movies work. Different directors, different casts. The Baker thing is just two friends who both needed work. Calm down.
 
 **TWITTER** *(SXSW Interactive, Austin, TX. Twitter's usage explodes this week)*
 > **@geekdad_atx** — *4:51 PM Mar 12th, 2007*
 > at SXSW, everyone twittering about twitter. meanwhile Iron Man started filming today and nobody here cares. wrong room.
-
----
-
-## ▌ SCENE 1
-
-```
-EXT. OWENS VALLEY / LONE PINE, CALIFORNIA — "AFGHANISTAN" CAVE SET — DAY
-MONDAY, MARCH 12, 2007 — 6:47 AM PT
-
-Wind rips across the Alabama Hills. Red rock. Real dust. A real
-cave mouth, dressed with real Stark Industries crates. No green
-screen anywhere.
-
-A 90-pound suit of hammered, bolted steel, the MARK I, stands
-on a stand. It's practical, it weighs what it looks like it
-weighs, and it is ugly on purpose.
-
-JON FAVREAU (40), director, baseball cap, walkie on his hip,
-circles it like it's a car he's thinking about buying.
-
-MARC-ANTHONY BULLOCK (25, looks 19) walks up in a torn,
-bloodstained tank top, eating a gas-station honey bun. He
-knocks on the chest plate. It CLANGS.
-
-                    MARC-ANTHONY
-          That's real.
-
-                    FAVREAU
-          That's real.
-
-                    MARC-ANTHONY
-          I'm going to be inside that.
-
-                    FAVREAU
-          You said no stunt double. I wrote
-          it down. I had it notarized.
-
-                    MARC-ANTHONY
-               (grinning)
-          I say a lot of things at 6 AM.
-          Yesterday I told a PA I'd name my
-          firstborn after her. I meant it.
-          I'm having like nine kids, Jon.
-          Somebody's getting named Brenda.
-
-He runs his hand along a weld seam, then gets serious.
-
-                    MARC-ANTHONY (CONT'D)
-          Tony built this in a cave. With
-          scraps. With a box of scraps.
-          If it looks like a stunt guy is
-          in there, the whole movie's a
-          lie.
-
-                    FAVREAU
-          So you're in.
-
-                    MARC-ANTHONY
-          Fourteen months, Jon. Fourteen
-          months of scripts where I get hit
-          in the nuts by a golf cart. Eleven
-          of them. I said no eleven times.
-               (knocks on the steel again)
-          I'm in.
-
-A STUNT COORDINATOR hustles over with a harness rig.
-
-                    STUNT COORDINATOR
-          We rigged it for his weight plus
-          ninety. Two guys on safety lines.
-          If he goes down, he goes down
-          slow.
-
-                    MARC-ANTHONY
-          Story of my career. Child star
-          to "where is he now" in slow
-          motion.
-
-A golf cart pulls up. TAYIA BOYD (25, looks 19), in a Stark
-Industries blazer and a parka over it, climbs out holding two
-coffees. She hands one to Favreau and keeps the other.
-
-                    MARC-ANTHONY (CONT'D)
-          Where's mine?
-
-                    TAYIA
-          Pepper doesn't get Tony coffee
-          until page forty.
-
-                    MARC-ANTHONY
-               (to Favreau)
-          She's been doing this to me since
-          we were nine.
-
-                    TAYIA
-          And you've been walking into it
-          since you were nine.
-               (sips; eyes the Mark I)
-          Well. Welcome to the big leagues,
-          Brainiac.
-
-Favreau watches them. A small, pleased smile. He clicks his
-walkie.
-
-                    FAVREAU
-               (into walkie)
-          Keep rolling B-camera on those
-          two. All day. Whenever they're
-          talking.
-```
 
 ---
 
@@ -191,11 +372,40 @@ Downstairs, through the floor, a Mercedes salesman is closing
 a deal. Up here: cramped offices, a coffee maker from 1994,
 long boxes of comics stacked against every wall.
 
-KEVIN FEIGE (33), Angels cap, bottle of Diet Coke, stands in
-front of a WHITEBOARD taped over with butcher paper.
+KEVIN FEIGE (33), Angels cap, Diet Coke, stands in front of a
+WHITEBOARD covered with taped-up butcher paper.
 
-DAVID MAISEL (mid-40s, suit, no tie) closes the door and locks
-it.
+DAVID MAISEL (mid-40s, suit, no tie) comes in, starts to close
+the door, and stops. He points at the DOCUMENTARY CAMERA.
+
+                    MAISEL
+          Kevin. Them?
+
+                    FEIGE
+          Them.
+
+                    MAISEL
+          In here?
+
+                    FEIGE
+          Especially in here.
+               (to the camera, very polite)
+          Everything you film in this room
+          is sealed. You signed the paper.
+          Nobody sees it until 2019.
+
+                    MAISEL
+          Why would we even—
+
+                    FEIGE
+          Because if this works, somebody's
+          going to want to know how it
+          started. And if it doesn't...
+               (shrugs)
+          ...it'll make a really good
+          cautionary tale.
+
+Maisel sighs, locks the door, and gives in.
 
                     MAISEL
           Congratulations, Mr. President
@@ -211,8 +421,9 @@ it.
 Feige tears the paper down.
 
 Underneath: TEN CHARACTER NAMES, the Merrill Lynch collateral,
-plus IRON MAN, HULK and THOR in red marker. Arrows everywhere.
-All of them lead to one word circled three times in the middle:
+plus IRON MAN, HULK, THOR, ANT-MAN and WASP in red marker.
+Arrows everywhere. All of them lead to one word circled three
+times in the middle:
 
                          AVENGERS
 
@@ -247,16 +458,23 @@ All of them lead to one word circled three times in the middle:
           Hulk movie. Nobody has to notice.
           Until they do.
 
-Maisel steps closer. He sees something in the lower-right
-corner of the board, a small sketch in purple marker:
+Maisel steps closer and spots something in the lower-right
+corner of the board: a small sketch in purple marker.
 
 A GAUNTLET. SIX EMPTY SLOTS.
 
+The doc camera PUSHES IN on it. Feige notices and, without
+looking, flips a sheet of butcher paper down over it.
+
+                    FEIGE (CONT'D)
+               (to the camera)
+          Not yet.
+
                     MAISEL
-          What's that?
+          What's under there?
 
                     FEIGE
-          That's 2019.
+          2019.
 
                     MAISEL
                (laughs)
@@ -264,31 +482,12 @@ A GAUNTLET. SIX EMPTY SLOTS.
           2009.
 
                     FEIGE
-          Then it won't matter. But if we
-          do...
-               (taps the glove)
-          Starlin. The Infinity Gauntlet.
-          Thanos wipes out half the
-          universe to impress Death because
-          he's in love with her. We do it
-          exactly like the comic. No
-          watered-down version. No "he
-          wants to save resources."
-          He's a nihilist in love with a
-          goddess.
-
-                    MAISEL
-          You're going to pitch Paramount a
-          love story between a purple
-          alien and the Grim Reaper.
-
-                    FEIGE
-          I'm not pitching anybody anything.
+          Then it won't matter.
                (beat)
-          That's rule one. Nobody outside
-          this room says "universe." Not to
-          agents, not to the trades, not to
-          the actors. The contracts say
+          Rule one. Nobody outside this
+          room says "universe." Not to
+          agents, not to the trades, not
+          to the actors. The contracts say
           "sequel options." The audience
           finds this on their own.
 
@@ -336,6 +535,46 @@ Maisel heads for the door, then stops.
           And he's going to leave it in
           good hands. I'll make sure of
           that.
+
+Maisel leaves. Feige looks at the camera for a long moment.
+
+                    FEIGE (CONT'D)
+          You didn't see the glove.
+```
+
+---
+
+## ▌ TALKING HEAD
+
+```
+INT. MARVEL STUDIOS — FEIGE'S OFFICE — DAY
+
+    LOWER THIRD:  KEVIN FEIGE
+                  President of Production, Marvel Studios · Age 33
+
+Angels cap. Diet Coke. Long boxes behind him.
+
+                    FEIGE
+          Every studio in town has asked
+          to license our characters at
+          some point. Spider-Man. The
+          X-Men. The Fantastic Four. We
+          said no every time. People
+          thought we were crazy. People
+          still think we're crazy.
+               (beat)
+          The comics have always been one
+          world. Spider-Man swings past the
+          Baxter Building. The Hulk is on
+          the news in Daredevil's
+          neighborhood. That's what makes
+          Marvel, Marvel.
+               (beat)
+          So why would the movies be any
+          different?
+               (small smile)
+          That's all I'm going to say on
+          camera. Even this camera.
 ```
 
 ---
@@ -346,9 +585,11 @@ Maisel heads for the door, then stops.
 INT. FAVREAU'S PRODUCTION TRAILER — LONE PINE — NIGHT
 MONDAY, MARCH 12, 2007 — 8:40 PM PT
 
-Favreau has storyboards spread across a folding table and is
-eating cold craft-services pasta. His flip phone BUZZES.
-CALLER ID: "KEVIN F."
+Storyboards everywhere. Favreau is eating cold craft-services
+pasta. His flip phone BUZZES. CALLER ID: "KEVIN F."
+
+The DOC CAMERA is in the corner. Favreau glances at it, then
+puts the call on speaker.
 
                     FAVREAU
           Day one's in the can. Nobody died.
@@ -356,12 +597,16 @@ CALLER ID: "KEVIN F."
           takes.
 
                     FEIGE (V.O.)
-               (over phone)
+               (over speaker)
           Eleven?
 
                     FAVREAU
           He refused to come out. Said Tony
-          wouldn't come out.
+          wouldn't come out. Then he did a
+          seven-minute bit in the suit
+          about a TSA agent that I can't
+          ever let anyone hear. The grips
+          were crying.
 
                     FEIGE (V.O.)
           That's why we hired him.
@@ -387,8 +632,7 @@ Favreau puts his fork down.
                     FEIGE (V.O.)
           They'll stay for this one.
           Samuel L. Jackson. Eye patch.
-          Cigar.
-          Tony's living room.
+          Cigar. Tony's living room.
 
                     FAVREAU
                (slow)
@@ -420,11 +664,19 @@ Favreau puts his fork down.
           "I'm here to talk to you about
           the Avengers Initiative."
 
-A long silence. Favreau looks at the storyboard of the Mark I
-he spent all day shooting.
+A long silence. Favreau slowly turns and looks straight into
+the doc camera.
 
                     FAVREAU
-          Kevin. What are we making?
+          Kevin. There's a camera crew in
+          my trailer.
+
+                    FEIGE (V.O.)
+          I know. They're cleared.
+
+                    FAVREAU
+               (to the camera)
+          ...What are we making?
 
                     FEIGE (V.O.)
           A great Iron Man movie. That's
@@ -443,6 +695,13 @@ he spent all day shooting.
                     FEIGE (V.O.)
           Then nobody will think it's real.
           Perfect.
+
+Favreau hangs up. He writes on a napkin, "R.B.P. — N.F.", folds
+it, and puts it in his wallet. He looks at the camera.
+
+                    FAVREAU
+          You're not allowed to film my
+          wallet.
 ```
 
 ---
@@ -454,14 +713,15 @@ INT. STAN LEE'S OFFICE — POW! ENTERTAINMENT — BEVERLY HILLS
 WEDNESDAY, MARCH 21, 2007 — 2:00 PM PT
 
 STAN LEE (84), in tinted glasses, is signing a stack of
-posters with a black Sharpie. FEIGE sits across from him
+posters with a black Sharpie. Feige sits across from him
 holding a single envelope.
 
                     STAN
-          Kevin! The man in the hat! What
-          brings the President of
-          Production to see an old
-          huckster?
+               (spotting the doc camera)
+          A camera crew! Kevin, you
+          shouldn't have. Which is my good
+          side? Trick question. They're
+          both fantastic.
 
                     FEIGE
           Your cameo. Iron Man.
@@ -523,7 +783,166 @@ Stan opens it. One page. He reads it. His Sharpie stops moving.
 
 ---
 
-## ▌ HEADLINES: SPRING 2007
+## ▌ TALKING HEAD
+
+```
+INT. STAN LEE'S OFFICE — CONTINUOUS
+
+    LOWER THIRD:  STAN LEE
+                  Co-Creator, Marvel Comics · Age 84
+
+                    STAN
+          I've heard a lot of pitches in
+          sixty-five years. Most of them
+          started with "What if we made it
+          darker?" or "What if we made it
+          like the other guy's?"
+               (taps the table)
+          This one was "What if we did it
+          exactly the way you did it?"
+               (beat)
+          Nobody's ever pitched me that
+          before.
+               (leans into the camera)
+          Face front, True Believers.
+          Something's coming.
+```
+
+---
+
+## ▌ SCENE 5
+
+```
+INT. AMOND BAKER'S APARTMENT — INGLEWOOD, CA — NIGHT
+WEDNESDAY, APRIL 11, 2007 — 11:58 PM PT
+
+A small one-bedroom. A framed Juilliard diploma leans against
+the wall because he never bought a nail. A poster for "Baker's
+Dozen" (cancelled) is taped over a water stain.
+
+AMOND BAKER (25, looks 19) sits on the couch completely still,
+staring at a flip phone on the coffee table.
+
+Next to him, still in fake-blood makeup from a night shoot,
+MARC-ANTHONY eats cereal out of the box.
+
+                    MARC-ANTHONY
+          It's gonna ring.
+
+                    AMOND
+          It's midnight.
+
+                    MARC-ANTHONY
+          Kevin said the announcement's in
+          the morning. They'll call before
+          the trades get it. That's how it
+          works.
+
+                    AMOND
+          You don't know how it works.
+
+                    MARC-ANTHONY
+          I have a 250 IQ.
+
+                    AMOND
+          You have a 250 IQ and you're
+          eating Froot Loops out of the
+          box with your hand at midnight.
+
+                    MARC-ANTHONY
+          Those aren't mutually exclusive,
+          Amond.
+
+Silence. The phone doesn't ring. Amond's jaw tightens and his
+hands grip his knees. The doc camera catches it: something
+building under the calm.
+
+                    MARC-ANTHONY (CONT'D)
+               (softer)
+          Hey. Look at me.
+               (Amond does)
+          You went to Juilliard at twenty
+          when everybody told you to do
+          another sitcom. You did the hard
+          thing. You always do the hard
+          thing. They saw your tape. Nobody
+          watches your tape and says no.
+
+                    AMOND
+          Nine months, Marc.
+
+                    MARC-ANTHONY
+          Fourteen for me. You're
+          catching up. Don't get cocky.
+
+Amond almost laughs.
+
+The phone RINGS. Both of them jump. Cereal goes everywhere.
+
+Amond stares at the caller ID. "MARVEL STUDIOS." He can't move.
+
+                    MARC-ANTHONY (CONT'D)
+          ANSWER IT. ANSWER THE [BLEEP]—
+
+                    AMOND
+               (answering, very calm)
+          This is Amond.
+               (listens)
+          ...Yes.
+               (listens)
+          ...Yes, sir.
+               (listens; his eyes fill)
+          Thank you. Thank you, Mr. Feige.
+
+He hangs up and sets the phone down very carefully, like it's
+made of glass. He looks at Marc-Anthony.
+
+                    AMOND (CONT'D)
+          I'm Bruce Banner.
+
+Marc-Anthony SCREAMS, tackles him off the couch, and they go
+down in a pile of Froot Loops.
+
+The upstairs neighbor BANGS on the ceiling.
+
+                    MARC-ANTHONY
+               (to the ceiling)
+          HE'S THE HULK, DEBORAH!
+```
+
+---
+
+## ▌ TALKING HEAD
+
+```
+INT. AMOND BAKER'S APARTMENT — LATER
+
+    LOWER THIRD:  AMOND BAKER
+                  Actor, "Bruce Banner" · Age 25
+
+There's still a Froot Loop in his hair. His voice is quiet and
+even.
+
+                    AMOND
+          People think Banner is about the
+          anger. It's not. It's about how
+          much work it takes to keep it
+          down. Every day. Being polite.
+          Being small. Being who they need
+          you to be so nobody gets scared.
+               (beat)
+          I've been doing that my whole
+          career.
+               (small smile)
+          Now I get to let it out.
+               (beat)
+          Marc cried more than I did. Put
+          that in.
+```
+
+---
+
+## ▌ MEDIA INSERT: SPRING 2007
 
 > **VARIETY** | *Thursday, April 12, 2007*
 > **AMOND BAKER TO PLAY BRUCE BANNER IN 'THE INCREDIBLE HULK'; PARAMOUNT DISTRIBS**
@@ -546,13 +965,15 @@ Stan opens it. One page. He reads it. His Sharpie stops moving.
 
 ---
 
-## ▌ SCENE 5 (CLOSING)
+## ▌ SCENE 6 (CLOSING)
 
 ```
 INT. MARVEL STUDIOS — FEIGE'S OFFICE — NIGHT
 THURSDAY, MAY 31, 2007 — 11:52 PM PT
 
-The building is empty. The Mercedes showroom below is dark.
+The building is empty. The Mercedes showroom below is dark. The
+doc camera sits on a tripod in the corner, unmanned, still
+rolling.
 
 FEIGE (33) is alone. AVI ARAD's farewell card is propped on the
 desk: "Don't screw up my toys. — Avi."
@@ -562,30 +983,67 @@ Hand-lettered on the spine:
 
                       THE CODEX
 
-He opens it. The first tab: IRON MAN — MAY 2, 2008.
-Last tab, still blank except for a date:
+The first tab: IRON MAN — MAY 2, 2008.
+The last tab is blank except for a date:
 
                       MAY 2019
 
 He picks up a purple marker and writes one line on the blank
-page:
+page. We can't read it from here.
 
-   "He courts Death. She never answers. That's the whole saga."
+He closes the binder and locks the drawer. On his way out he
+stops at the tripod, looks into the lens, and reaches for the
+record button.
 
-He closes the binder. Locks the drawer. Turns off the light.
-
-In the dark, the whiteboard still shows the purple gauntlet
-sketch. Six empty slots.
+                    FEIGE
+          Goodnight.
 
                                               CUT TO BLACK.
-
-                    SUPER: "11 MONTHS UNTIL
-                    IRON MAN OPENS."
-
-                    (beat)
-
-                    SUPER: "12 YEARS UNTIL HE SNAPS."
 ```
 
 ---
-**END OF CHAPTER ONE**
+
+## ▌ TAG: TALKING HEAD
+
+```
+INT. PRODUCTION TRAILER — LONE PINE — NIGHT
+(RECORDED MARCH 12, 2007 — 11:14 PM PT)
+
+    LOWER THIRD:  MARC-ANTHONY BULLOCK
+                  Actor, "Tony Stark" · Age 25
+
+Out of costume. Hoodie. Exhausted. Bruises on his shoulders from
+the Mark I straps. For the first time, no joke is ready.
+
+                    MARC-ANTHONY
+          What if it flops?
+               (beat)
+          Like, really. Not a funny
+          question. If this flops, I'm the
+          Brainiac kid forever. That's the
+          headline on my... on my
+          everything.
+               (long pause)
+          But then I think... I want kids.
+          A lot of kids. Like, a
+          ridiculous amount. A basketball
+          team. Two basketball teams.
+               (smiles)
+          And one day one of them is gonna
+          find this movie. And they're
+          gonna look at me in that suit and
+          go, "Daddy did that?"
+               (beat)
+          So it can't flop.
+               (beat)
+          ...Somebody's getting named
+          Brenda.
+
+                                              CUT TO BLACK.
+
+                         SUPER:
+                "11 MONTHS UNTIL IRON MAN OPENS."
+```
+
+---
+**END OF CHAPTER ONE (DRAFT). 🔒 Our story has NOT started.**
