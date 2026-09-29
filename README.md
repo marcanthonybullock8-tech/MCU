@@ -80,6 +80,7 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Series: Master of Kung Fu (Disney+)](story/series/P6-S2_MASTER_OF_KUNG_FU.md)
   - [Film #59: Secret Wars (finale, Part Two)](story/films/P6-11_SECRET_WARS.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
+- [World Bible: America & Hollywood up to Day One](story/13_WORLD_BIBLE_2007.md): the country, the industry, Donohue Entertainment, and a world without Marvel movies (March 12, 2007)
 
 ## PDFs
 Every story document is also rendered as a PDF in [`pdf/`](pdf/). To regenerate them after editing or adding a chapter, run:
