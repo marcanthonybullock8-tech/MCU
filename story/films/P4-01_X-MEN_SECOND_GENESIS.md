@@ -1,6 +1,6 @@
 # FILM DOSSIER: X-MEN: SECOND GENESIS
 ### Phase 4 · Film #1 (Saga Two, Film #1 · Overall Film #30)
-### Status: ✅ DOSSIER COMPLETE. ⏳ **Waiting on the showrunner's real-actor casting picks** (see Section 2).
+### Status: ✅ DOSSIER COMPLETE (awaiting showrunner lock)
 
 ---
 
@@ -41,14 +41,12 @@
 | **Doctor Doom** *(post-credit)* | Robert Downey Jr. | 56 |
 | **Mephisto** *(post-credit)* | Ciarán Hinds | 68 |
 
-### Real-actor cast: ⏳ SHOWRUNNER'S PICKS
-*On 616 in 1975, the new X-Men are **young adults** (Colossus is 19). **Bold = recommended.***
-
-| Character | Options (age at release) | Notes |
+### Real-actor cast: ✅ LOCKED (the showrunner's picks)
+| Character | Actor | Age at release |
 |---|---|---|
-| **Ororo Munroe / Storm** | **Alexandra Shipp (29)** · Halle Berry (54) | Shipp is close to Storm's 616 age in 1975 |
-| **Piotr Rasputin / Colossus** | **Daniel Cudmore (40)** · Stefan Kapičić (voice only, 42) | Cudmore is the only live-action Colossus |
-| **Kurt Wagner / Nightcrawler** | **Kodi Smit-McPhee (25)** · Alan Cumming (56) | Smit-McPhee is the right age for the 1975 team |
+| **Ororo Munroe / Storm** | **Alexandra Shipp** | 29 |
+| **Piotr Rasputin / Colossus** | **Daniel Cudmore** | 40 |
+| **Kurt Wagner / Nightcrawler** | **Kodi Smit-McPhee** | 25 |
 
 *A tribute to Stan Lee, who died in 2018: a **Stan Lee mural** in the Kenyan village where Storm is found.*
 
@@ -171,4 +169,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ⏳ Real-actor casting picks
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ Real-actor casting locked

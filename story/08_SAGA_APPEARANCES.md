@@ -128,7 +128,7 @@
 | **Tony Revolori** | Flash Thompson | **2** | **2** | 0 | 1 | 1 | 0 | #13, #29 |
 | **Tye Sheridan** | Cyclops | **2** | **2** | 1 | 0 | 0 | 1 | #7, #30 |
 | **Adewale Akinnuoye-Agbaje** | Kurse | **1** | **1** | 0 | 1 | 0 | 0 | #10 |
-| **Alexandra Shipp** |  | **1** | **1** | 0 | 0 | 0 | 1 | #30 |
+| **Alexandra Shipp** | Storm | **1** | **1** | 0 | 0 | 0 | 1 | #30 |
 | **Alfred Molina** | Doctor Octopus | **1** | **1** | 0 | 1 | 0 | 0 | #13 |
 | **Angela Bassett** | Ramonda | **1** | **1** | 0 | 0 | 1 | 0 | #19 |
 | **Annette Bening** | Supreme Intelligence | **1** | **1** | 0 | 0 | 1 | 0 | #26 |
@@ -145,7 +145,7 @@
 | **Colm Feore** | Laufey | **1** | **1** | 1 | 0 | 0 | 0 | #3 |
 | **Danai Gurira** | Okoye | **1** | **1** | 0 | 0 | 1 | 0 | #19 |
 | **Dane DeHaan** | Harry Osborn | **1** | **1** | 0 | 0 | 1 | 0 | #29 |
-| **Daniel Cudmore** |  | **1** | **1** | 0 | 0 | 0 | 1 | #30 |
+| **Daniel Cudmore** | Colossus | **1** | **1** | 0 | 0 | 0 | 1 | #30 |
 | **Daniel Kaluuya** | W'Kabi | **1** | **1** | 0 | 0 | 1 | 0 | #19 |
 | **Denis Leary** | Capt. George Stacy | **1** | **1** | 0 | 0 | 1 | 0 | #29 |
 | **Dennis Haysbert** | Vernon van Dyne | **1** | **1** | 1 | 0 | 0 | 0 | #4 |
@@ -165,7 +165,7 @@
 | **Jude Law** | Yon-Rogg | **1** | **1** | 0 | 0 | 1 | 0 | #26 |
 | **Julia Garner** | Shalla-Bal | **1** | **1** | 0 | 1 | 0 | 0 | #17 |
 | **Karl Urban** | Skurge | **1** | **1** | 0 | 0 | 1 | 0 | #23 |
-| **Kodi Smit-McPhee** |  | **1** | **1** | 0 | 0 | 0 | 1 | #30 |
+| **Kodi Smit-McPhee** | Nightcrawler | **1** | **1** | 0 | 0 | 0 | 1 | #30 |
 | **Lashana Lynch** | Caiera | **1** | **1** | 0 | 0 | 1 | 0 | #24 |
 | **Laura Harrier** | Liz Allan | **1** | **1** | 0 | 1 | 0 | 0 | #13 |
 | **Letitia Wright** | Shuri | **1** | **1** | 0 | 0 | 1 | 0 | #19 |
