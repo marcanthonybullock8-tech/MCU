@@ -1,5 +1,5 @@
 # PHASE 1 SLATE (2008–2012): 8 FILMS
-### Status: being built. Each film gets a full Film Dossier before it's locked.
+### Status: ✅ all 8 slots filled. Each film still needs its full Film Dossier before it's locked. Each film gets a full Film Dossier before it's locked.
 
 | # | Title | Release date | Owner | Dossier |
 |---|---|---|---|---|
@@ -10,7 +10,7 @@
 | 5 | **Iron Man 2** | **Friday, May 7, 2010** | Marc-Anthony Bullock | ⏳ pending |
 | 6 | **Captain America** | **Friday, July 22, 2011** | Tyrese Avery 🔒 | ⏳ pending |
 | 7 | **X-Men** | **Friday, November 4, 2011** | The X-Men ensemble (real actors, showrunner's picks) · Grace Bullock 🔒 as the Scarlet Witch | ⏳ pending |
-| 8 | *TBD* | | | |
+| 8 | **The Avengers** | **Friday, May 4, 2012** | The ensemble (Marc-Anthony Bullock top-billed) | ⏳ pending |
 
 ---
 
@@ -62,6 +62,12 @@
   4. **It makes the world bigger.** After technology, gamma, gods, size-changing science and a super-soldier, the last kind of hero is **born, not made.** Mutants give the Avengers a world they share with a feared minority, and Marvel's biggest social theme.
 - **Release date: Friday, November 4, 2011.** It opens the holiday corridor again, fifteen weeks after *Captain America*. The competition is *Tower Heist* (the same day), and it comes two weeks ahead of *The Twilight Saga: Breaking Dawn – Part 1* (November 18).
 - **Casting note:** under the Casting Rules, the X-Men and Magneto are played by **real actors, and the showrunner picks** where more than one real actor played a role. Quicksilver is a showrunner's pick too. **Grace Bullock (Wanda) must be unlocked** before casting in 2010.
+
+## FILM #8: THE AVENGERS (Phase 1 finale)
+- **Comics:** ***The Avengers* #1** (September 1963, Lee & Kirby), the founding against Loki, and ***The Avengers* #4** (March 1964), where the team finds Captain America in the ice.
+- **Release date: Friday, May 4, 2012.** The first Friday in May, Marvel's summer-opening slot from *Iron Man* on. It gets **eleven weeks** of clear room before *The Dark Knight Rises* (July 20). *The Amazing Spider-Man* (July 3) doesn't exist in our reality, because Spider-Man belongs to Marvel.
+- **Distributor: Walt Disney Studios Motion Pictures.** Disney bought Paramount's distribution rights after the 2009 acquisition, so this is the first MCU film released by Disney.
+- **Why May 4 works:** it's four years to the weekend after *Iron Man*, and the eight-film plan comes together at the start of summer. The Phase 1 final shot is a purple hand, a golden glove, and ***"To challenge them... is to court Death."***
 
 ---
 ### Phase 1 so far: the founders come first
