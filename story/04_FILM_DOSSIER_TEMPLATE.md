@@ -109,3 +109,15 @@
 - [ ] Whose film / franchise it is
 - [ ] When and where it's set in the MCU timeline
 - [ ] **First film only:** how it kicks everything off
+
+---
+
+## SERIES DOSSIERS (Disney+)
+Series get the **same dossier**, with these additions to Section 1:
+| Field | Entry |
+|---|---|
+| **Premiere / finale** | *(day and date)* |
+| **Episodes** | *(count, plus an episode schedule table)* |
+| **Episode runtime** | |
+| **Release pattern** | *(weekly or all at once, and which day)* |
+| **Rating** | *(TV rating)* |

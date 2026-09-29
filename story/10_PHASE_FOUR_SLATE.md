@@ -10,15 +10,15 @@
 | 3 | **Doctor Strange: The Black Priests** | **Friday, May 6, 2022** | Benedict Cumberbatch | ✅ [complete](films/P4-03_DOCTOR_STRANGE_THE_BLACK_PRIESTS.md) |
 | 4 | **The Inhumans** | **Friday, July 8, 2022** | Anson Mount | ✅ [complete](films/P4-04_THE_INHUMANS.md) |
 | 5 | **Spider-Man: Kraven's Last Hunt** | **Friday, December 16, 2022** | Tom Holland | ✅ [complete](films/P4-05_SPIDER-MAN_KRAVENS_LAST_HUNT.md) |
-| 6 | *TBD* | | | |
-| 7 | *TBD* | | | |
+| 6 | **Thor: The Halls of Hel** | **Friday, May 5, 2023** | Esther Smilley | ✅ [complete](films/P4-06_THOR_THE_HALLS_OF_HEL.md) |
+| 7 | **Black Panther: Doomwar** | **Friday, November 3, 2023** | Letitia Wright | ✅ [complete](films/P4-07_BLACK_PANTHER_DOOMWAR.md) |
 | 8 | *TBD* | | | |
 | 9 | *TBD* | | | |
 
 ## DISNEY+ SERIES (limit: 2 this phase)
 | # | Title | Premiere | Owner | Dossier |
 |---|---|---|---|---|
-| S1 | *TBD* | | | |
+| S1 | **Ms. Marvel** (8 episodes) | **Wed, June 7 → Wed, July 26, 2023** (weekly) | Iman Vellani | ✅ [complete](series/P4-S1_MS_MARVEL.md) |
 | S2 | *TBD* | | | |
 
 ---
@@ -51,3 +51,21 @@
 ## PHASE 4 FILM #5: SPIDER-MAN: KRAVEN'S LAST HUNT
 - **Release date: Friday, December 16, 2022.** A holiday event release, the same slot the real *Spider-Man: No Way Home* used in 2021.
 - **Comics:** *ASM Annual* #21 (**the wedding**) and **"Kraven's Last Hunt"** (1987).
+
+## PHASE 4 SERIES #1: MS. MARVEL (Disney+)
+- **Character:** **Kamala Khan / Ms. Marvel.** First appearance: *Captain Marvel* vol. 7 #14 (2013); her own series is ***Ms. Marvel* vol. 3 #1** (2014), G. Willow Wilson & Adrian Alphona.
+- **Why she's the first series:**
+  1. **She's the direct payoff of *The Inhumans***: her cocoon was in its post-credit scene.
+  2. **She's the best street-level, ground-floor view of a world changed by Terrigen**, and the Incursions show up in her own fan fiction.
+  3. **She suits the series format**: family, school and Jersey City need **episodes**, not two hours.
+  4. On 616 she **becomes an Avenger**, which is seeded for later.
+- **Schedule: 8 episodes, Wednesdays, June 7 to July 26, 2023**, 48–56 minutes each. Disney+ released new episodes on Wednesdays at the time.
+
+## PHASE 4 FILM #6: THOR: THE HALLS OF HEL
+- **Release date: Friday, May 5, 2023.** The first Friday in May.
+- **Comics:** Simonson's *Thor* #360–362: **Hela's curse** and **Skurge at Gjallerbru** (promised in *Thor: The Twilight Sword*).
+- **In memory:** Ray Stevenson (Volstagg) died on May 21, 2023, sixteen days after release.
+
+## PHASE 4 FILM #7: BLACK PANTHER: DOOMWAR
+- **Release date: Friday, November 3, 2023.** Marvel's fall slot.
+- **Comics:** ***Doomwar*** (2010) and Shuri's *Black Panther* vol. 5 (2009). **Doom invades Wakanda**, and **Shuri makes Wakanda's vibranium inert** to stop him.

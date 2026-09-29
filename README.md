@@ -46,6 +46,9 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #32: Doctor Strange: The Black Priests](story/films/P4-03_DOCTOR_STRANGE_THE_BLACK_PRIESTS.md)
   - [Film #33: The Inhumans](story/films/P4-04_THE_INHUMANS.md)
   - [Film #34: Spider-Man: Kraven's Last Hunt](story/films/P4-05_SPIDER-MAN_KRAVENS_LAST_HUNT.md)
+  - [Series: Ms. Marvel (Disney+)](story/series/P4-S1_MS_MARVEL.md)
+  - [Film #35: Thor: The Halls of Hel](story/films/P4-06_THOR_THE_HALLS_OF_HEL.md)
+  - [Film #36: Black Panther: Doomwar](story/films/P4-07_BLACK_PANTHER_DOOMWAR.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
