@@ -55,7 +55,7 @@
 | **Stan Lee** *(cameo: a man at a protest holding a sign reading "WHOSE SIDE ARE YOU ON?")* | – | Stan Lee | 93 |
 
 *Casting notes:*
-- *Bill Foster: the Casting Rules give the role to **Laurence Fishburne**, the only real actor to have played him. Fishburne also **voices the Silver Surfer.** The two roles never share a scene. ⚠️ Flagged for the showrunner.*
+- *Bill Foster: the Casting Rules give the role to **Laurence Fishburne**, the only real actor to have played him. Fishburne also **voices the Silver Surfer.** The two roles never share a scene. ✅ **Locked by the showrunner: Fishburne plays both.***
 - *Ragnarok: **Esther Smilley** plays the clone of her own Thor, a cold, empty copy.*
 - *The Punisher: Jon Bernthal, the longest-serving and most iconic of the four real actors (Bernthal, Thomas Jane, Dolph Lundgren, Ray Stevenson).*
 

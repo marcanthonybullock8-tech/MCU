@@ -36,7 +36,7 @@
 | **Mephisto** *(post-credit)* | Ciarán Hinds | 63 |
 | **Stan Lee** *(cameo: a man on a bus reading Aldous Huxley, laughing)* | Stan Lee | 93 |
 
-*⚠️ Casting note: on 616, the Ancient One is **an elderly Tibetan man.** Tilda Swinton is the only real actor to have played the role, so the Casting Rules give it to her. Everything else about the character (history, powers, wisdom, and death) is 100% 616. **Flagged for the showrunner.***
+*⚠️ Casting note: on 616, the Ancient One is **an elderly Tibetan man.** Tilda Swinton is the only real actor to have played the role, so the Casting Rules give it to her. Everything else about the character (history, powers, wisdom, and death) is 100% 616. ✅ **Locked by the showrunner: Swinton keeps the role.***
 
 ---
 
@@ -64,7 +64,7 @@
 **Changes and why:**
 | Change | Why |
 |---|---|
-| The Ancient One is played by Tilda Swinton | The Casting Rules. See the note above. |
+| The Ancient One is played by Tilda Swinton | The Casting Rules, confirmed by the showrunner. |
 | The Eye of Agamotto is a **wisdom and truth-revealing** amulet (616), **not** an Infinity Gem | 616 accurate. The MCU's Gems are the six Thanos holds. |
 
 #### POWERS & ABILITIES
