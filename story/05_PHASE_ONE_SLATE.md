@@ -8,7 +8,7 @@
 | 3 | **Thor** | **Friday, May 1, 2009** | Esther Smilley 🔒 | ⏳ pending |
 | 4 | **Ant-Man** *(with the Wasp; final title set in the dossier)* | **Friday, November 6, 2009** | Tyler Chapman 🔒 (Elxa Bullock co-lead 🔒) | ⏳ pending |
 | 5 | **Iron Man 2** | **Friday, May 7, 2010** | Marc-Anthony Bullock | ⏳ pending |
-| 6 | *TBD* | | | |
+| 6 | **Captain America** | **Friday, July 22, 2011** | Tyrese Avery 🔒 | ⏳ pending |
 | 7 | *TBD* | | | |
 | 8 | *TBD* | | | |
 
@@ -44,6 +44,14 @@
 - **Character:** Tony Stark / Iron Man, the first sequel.
 - **Release date: Friday, May 7, 2010.** The first Friday in May, two years after the original. It pays off the Mandarin's rings and "Next time, baby."
 
+## FILM #6: CAPTAIN AMERICA
+- **Character:** Steve Rogers / Captain America. First appearance: ***Captain America Comics* #1** (March 1941, cover-dated), Joe Simon & Jack Kirby. The Avengers find him in the ice in ***Avengers* #4** (March 1964).
+- **Why sixth:**
+  1. **Cap closes out the founding era the way the comics did.** In 616 he wasn't a founder. He joined in *Avengers* #4 after the Avengers **found him frozen in the ice.** His film ends with Steve going into the ice, and *The Avengers* is where the team finds him.
+  2. **It's the MCU's only period piece.** A WWII war epic from 1941 to 1945 gives the saga its history: **Project: Rebirth** and **Dr. Abraham Erskine**, **Bucky Barnes**, the **Red Skull**, and **Sgt. Nick Fury and his Howling Commandos** (616: they fought beside Cap). That's also where Samuel L. Jackson's Fury history comes from.
+  3. **It sets up the Big Bad accurately to the comics.** The Red Skull's **Cosmic Cube** is the prize **Thanos went after first** in ***Captain Marvel* #27–33** (1973), before he ever went for the Gems. The Cube shows up in the Skull's hands in 1945, and Thanos will come for it.
+- **Release date: Friday, July 22, 2011.** It's the heart of summer, three weeks after Independence Day, and clear of *Transformers: Dark of the Moon* (June 29). Paramount distributes both films and wouldn't put them head to head. It also comes a week after the final *Harry Potter* (July 15), once that film's opening surge has passed.
+
 ---
 ### Phase 1 so far: the founders come first
-By *Iron Man 2*, **four of the five founding Avengers** (Iron Man, Hulk, Thor, Ant-Man) plus the Wasp have been introduced. Slots #6–8 are still open for Captain America (whom the Avengers find frozen in the ice, as in 616) and **The Avengers** (Film #8, 2012).
+By *Iron Man 2*, **four of the five founding Avengers** (Iron Man, Hulk, Thor, Ant-Man) plus the Wasp have been introduced. Slot #6 is **Captain America**, whom the Avengers find frozen in the ice as in 616. Slot #7 is still open, and **The Avengers** is Film #8 (2012).
