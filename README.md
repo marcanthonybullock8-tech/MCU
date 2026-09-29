@@ -56,6 +56,10 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #39: Ant-Man and the Wasp: Rage of Ultron](story/films/P5-01_ANT-MAN_AND_THE_WASP_RAGE_OF_ULTRON.md)
   - [Film #40: Captain Marvel: The Kree-Skrull War](story/films/P5-02_CAPTAIN_MARVEL_THE_KREE-SKRULL_WAR.md)
   - [Film #41: Guardians of the Galaxy: The Thanos Imperative](story/films/P5-03_GUARDIANS_OF_THE_GALAXY_THE_THANOS_IMPERATIVE.md)
+  - [Series: The Punisher: Welcome Back, Frank (Disney+)](story/series/P5-S1_THE_PUNISHER_WELCOME_BACK_FRANK.md)
+  - [Film #42: Doom](story/films/P5-04_DOOM.md)
+  - [Film #43: Ultimate Spider-Man](story/films/P5-05_ULTIMATE_SPIDER-MAN.md)
+  - [Film #44: World War Hulk](story/films/P5-06_WORLD_WAR_HULK.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs

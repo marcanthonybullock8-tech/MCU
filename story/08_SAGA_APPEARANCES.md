@@ -1,6 +1,6 @@
 # SAGA APPEARANCES: EVERY ACTOR, EVERY FILM
-### Every MCU film so far: 41 films, 5 phases
-*Generated from the cast sections of the 41 film dossiers (`tools/build_appearances_doc.py`). Voice roles, cameos, and mid- and post-credit appearances all count.*
+### Every MCU film so far: 44 films, 5 phases
+*Generated from the cast sections of the 44 film dossiers (`tools/build_appearances_doc.py`). Voice roles, cameos, and mid- and post-credit appearances all count.*
 
 ---
 
@@ -48,46 +48,50 @@
 | 39 | Ant-Man and the Wasp: Rage of Ultron | 5 |
 | 40 | Captain Marvel: The Kree-Skrull War | 5 |
 | 41 | Guardians of the Galaxy: The Thanos Imperative | 5 |
+| 42 | Doom | 5 |
+| 43 | Ultimate Spider-Man | 5 |
+| 44 | World War Hulk | 5 |
 
 ---
 
 ## THE FICTIONAL ENSEMBLE (10 actors)
 | Actor | Role(s) | Films | Phases | P1 | P2 | P3 | P4 | P5 | Film #s |
 |---|---|---|---|---|---|---|---|---|---|
-| **Marc-Anthony Bullock** | Tony Stark / Iron Man | **23** | **5** | 5 | 5 | 7 | 4 | 2 | #1, #2, #4, #5, #8, #9, #10, #13, #15, #16, #18, #21, #24, #25, #27, #28, #29, #32, #34, #36, #38, #39, #40 |
-| **Tyrese Avery** | Steve Rogers / Captain America | **15** | **5** | 2 | 4 | 5 | 2 | 2 | #6, #8, #11, #12, #15, #16, #18, #23, #25, #27, #28, #32, #38, #39, #40 |
+| **Marc-Anthony Bullock** | Tony Stark / Iron Man | **24** | **5** | 5 | 5 | 7 | 4 | 3 | #1, #2, #4, #5, #8, #9, #10, #13, #15, #16, #18, #21, #24, #25, #27, #28, #29, #32, #34, #36, #38, #39, #40, #44 |
+| **Tyrese Avery** | Steve Rogers / Captain America | **16** | **5** | 2 | 4 | 5 | 2 | 3 | #6, #8, #11, #12, #15, #16, #18, #23, #25, #27, #28, #32, #38, #39, #40, #44 |
 | **Elxa Bullock** | Janet van Dyne / Wasp | **12** | **4** | 3 | 3 | 4 | 0 | 2 | #1, #4, #8, #10, #15, #16, #18, #23, #25, #28, #39, #40 |
-| **Esther Smilley** | Thor (and Ragnarok) | **11** | **4** | 2 | 3 | 5 | 1 | 0 | #3, #8, #10, #15, #16, #18, #23, #25, #27, #28, #35 |
+| **Esther Smilley** | Thor (and Ragnarok) | **12** | **5** | 2 | 3 | 5 | 1 | 1 | #3, #8, #10, #15, #16, #18, #23, #25, #27, #28, #35, #44 |
 | **Tyler Chapman** | Hank Pym / Ant-Man / Yellowjacket | **9** | **4** | 2 | 3 | 3 | 0 | 1 | #4, #8, #10, #15, #16, #18, #25, #28, #39 |
+| **Amond Baker** | Bruce Banner / Hulk | **8** | **4** | 2 | 1 | 4 | 0 | 1 | #2, #8, #9, #22, #24, #25, #28, #44 |
 | **Arianna Cummings** | Claire Barton / Hawkeye | **8** | **3** | 2 | 2 | 4 | 0 | 0 | #5, #8, #15, #16, #18, #23, #25, #28 |
 | **Harmony Divine** | Natasha Romanoff / Black Widow | **8** | **3** | 2 | 3 | 3 | 0 | 0 | #5, #8, #12, #15, #16, #18, #25, #28 |
 | **Tayia Boyd** | Pepper Potts | **8** | **3** | 3 | 2 | 3 | 0 | 0 | #1, #5, #8, #9, #16, #18, #25, #28 |
-| **Amond Baker** | Bruce Banner / Hulk | **7** | **3** | 2 | 1 | 4 | 0 | 0 | #2, #8, #9, #22, #24, #25, #28 |
 | **Grace Bullock** | Wanda Maximoff / Scarlet Witch | **7** | **4** | 1 | 2 | 3 | 1 | 0 | #7, #15, #16, #18, #25, #28, #33 |
 
 ---
 
-## REAL-LIFE ACTORS (169 actors)
+## REAL-LIFE ACTORS (172 actors)
 | Actor | Role(s) | Films | Phases | P1 | P2 | P3 | P4 | P5 | Film #s |
 |---|---|---|---|---|---|---|---|---|---|
 | **Stan Lee** | Cameos | **29** | **3** | 8 | 9 | 12 | 0 | 0 | #1, #2, #3, #4, #5, #6, #7, #8, #9, #10, #11, #12, #13, #14, #15, #16, #17, #18, #19, #20, #21, #22, #23, #24, #25, #26, #27, #28, #29 |
 | **Aubrey Plaza** | Mistress Death | **18** | **4** | 3 | 5 | 9 | 0 | 1 | #1, #6, #8, #9, #12, #14, #16, #17, #18, #21, #22, #23, #25, #26, #27, #28, #29, #41 |
 | **Josh Brolin** | Thanos | **15** | **5** | 1 | 6 | 6 | 1 | 1 | #8, #10, #12, #14, #15, #16, #17, #18, #21, #25, #26, #27, #28, #37, #41 |
-| **Pedro Pascal** | Reed Richards | **12** | **3** | 0 | 3 | 5 | 4 | 0 | #11, #13, #17, #18, #19, #24, #25, #28, #32, #33, #36, #38 |
-| **Samuel L. Jackson** | Nick Fury | **11** | **3** | 4 | 3 | 4 | 0 | 0 | #1, #5, #6, #8, #10, #12, #15, #18, #25, #26, #28 |
+| **Pedro Pascal** | Reed Richards / The Maker | **15** | **4** | 0 | 3 | 5 | 4 | 3 | #11, #13, #17, #18, #19, #24, #25, #28, #32, #33, #36, #38, #42, #43, #44 |
+| **Samuel L. Jackson** | Nick Fury | **12** | **4** | 4 | 3 | 4 | 0 | 1 | #1, #5, #6, #8, #10, #12, #15, #18, #25, #26, #28, #43 |
+| **Benedict Cumberbatch** | Doctor Strange / Dormammu | **9** | **3** | 0 | 0 | 4 | 3 | 2 | #20, #24, #25, #28, #32, #35, #38, #42, #44 |
+| **Ciarán Hinds** | Mephisto | **9** | **4** | 0 | 1 | 5 | 2 | 1 | #17, #18, #20, #21, #25, #28, #30, #35, #42 |
 | **Maximiliano Hernández** | Jasper Sitwell | **9** | **2** | 7 | 2 | 0 | 0 | 0 | #1, #2, #3, #4, #5, #7, #8, #9, #12 |
 | **Tenoch Huerta** | Namor | **9** | **5** | 2 | 1 | 2 | 3 | 1 | #6, #8, #11, #24, #28, #31, #32, #36, #41 |
-| **Ciarán Hinds** | Mephisto | **8** | **3** | 0 | 1 | 5 | 2 | 0 | #17, #18, #20, #21, #25, #28, #30, #35 |
 | **Paul Bettany** | The Vision | **8** | **3** | 0 | 2 | 4 | 0 | 2 | #15, #16, #18, #23, #25, #28, #39, #40 |
-| **Benedict Cumberbatch** | Doctor Strange / Dormammu | **7** | **2** | 0 | 0 | 4 | 3 | 0 | #20, #24, #25, #28, #32, #35, #38 |
+| **Robert Downey Jr.** | Doctor Doom | **8** | **4** | 0 | 1 | 1 | 5 | 1 | #11, #28, #30, #31, #32, #36, #38, #42 |
 | **Evan Peters** | Quicksilver | **7** | **4** | 1 | 2 | 3 | 1 | 0 | #7, #15, #16, #18, #25, #28, #33 |
 | **Joseph Quinn** | Johnny Storm | **7** | **3** | 0 | 3 | 3 | 1 | 0 | #11, #13, #17, #18, #25, #28, #38 |
-| **Robert Downey Jr.** | Doctor Doom | **7** | **3** | 0 | 1 | 1 | 5 | 0 | #11, #28, #30, #31, #32, #36, #38 |
+| **Tom Holland** | Peter Parker / Spider-Man | **7** | **4** | 0 | 1 | 4 | 1 | 1 | #13, #18, #25, #28, #29, #34, #43 |
 | **Chadwick Boseman** | T'Challa / Black Panther | **6** | **3** | 0 | 1 | 4 | 1 | 0 | #15, #18, #19, #25, #28, #36 |
 | **Don Cheadle** | Rhodey / War Machine | **6** | **3** | 2 | 1 | 3 | 0 | 0 | #1, #5, #9, #18, #25, #28 |
 | **Ebon Moss-Bachrach** | Ben Grimm | **6** | **3** | 0 | 2 | 3 | 1 | 0 | #11, #17, #18, #25, #28, #38 |
 | **Laurence Fishburne** | Silver Surfer (voice) / Goliath | **6** | **2** | 0 | 1 | 5 | 0 | 0 | #17, #18, #20, #25, #27, #28 |
-| **Tom Holland** | Peter Parker / Spider-Man | **6** | **3** | 0 | 1 | 4 | 1 | 0 | #13, #18, #25, #28, #29, #34 |
+| **Patrick Stewart** | Charles Xavier | **6** | **4** | 1 | 0 | 2 | 2 | 1 | #7, #22, #24, #30, #31, #44 |
 | **Vanessa Kirby** | Sue Storm | **6** | **3** | 0 | 2 | 3 | 1 | 0 | #11, #17, #18, #25, #28, #38 |
 | **Zoe Saldaña** | Gamora | **6** | **3** | 0 | 1 | 4 | 0 | 1 | #14, #21, #25, #27, #28, #41 |
 | **Bradley Cooper** | Rocket (voice) | **5** | **3** | 0 | 1 | 3 | 0 | 1 | #14, #21, #25, #28, #41 |
@@ -95,26 +99,25 @@
 | **Dave Bautista** | Drax | **5** | **3** | 0 | 1 | 3 | 0 | 1 | #14, #21, #25, #28, #41 |
 | **Doug Jones** | Silver Surfer | **5** | **2** | 0 | 1 | 4 | 0 | 0 | #17, #20, #25, #27, #28 |
 | **Karen Gillan** | Nebula | **5** | **3** | 0 | 1 | 3 | 0 | 1 | #14, #21, #25, #28, #41 |
-| **Patrick Stewart** | Charles Xavier | **5** | **3** | 1 | 0 | 2 | 2 | 0 | #7, #22, #24, #30, #31 |
+| **Michael Cera** | Rick Jones | **5** | **3** | 2 | 0 | 1 | 0 | 2 | #2, #8, #26, #40, #44 |
 | **Pom Klementieff** | Mantis | **5** | **3** | 0 | 1 | 3 | 0 | 1 | #14, #21, #25, #28, #41 |
 | **Sebastian Stan** | Bucky / Winter Soldier | **5** | **3** | 1 | 1 | 3 | 0 | 0 | #6, #12, #18, #25, #28 |
 | **Tom Hiddleston** | Loki | **5** | **4** | 2 | 1 | 1 | 1 | 0 | #3, #8, #10, #23, #35 |
 | **Vin Diesel** | Groot | **5** | **3** | 0 | 1 | 3 | 0 | 1 | #14, #21, #25, #28, #41 |
 | **Will Poulter** | Adam Warlock / Magus | **5** | **3** | 0 | 2 | 2 | 0 | 1 | #14, #17, #27, #28, #41 |
+| **Anson Mount** | Black Bolt | **4** | **3** | 0 | 0 | 1 | 2 | 1 | #24, #32, #33, #44 |
 | **Anthony Mackie** | Falcon | **4** | **2** | 0 | 1 | 3 | 0 | 0 | #12, #18, #25, #28 |
 | **Danny DeVito** | Pip the Troll | **4** | **3** | 0 | 0 | 2 | 1 | 1 | #27, #28, #37, #41 |
 | **Hugh Jackman** | Logan / Wolverine | **4** | **2** | 0 | 0 | 3 | 1 | 0 | #22, #25, #28, #30 |
 | **Idris Elba** | Heimdall | **4** | **4** | 1 | 1 | 1 | 1 | 0 | #3, #10, #23, #35 |
 | **Jaimie Alexander** | Sif | **4** | **4** | 1 | 1 | 1 | 1 | 0 | #3, #10, #23, #35 |
 | **Letitia Wright** | Shuri / Black Panther | **4** | **2** | 0 | 0 | 1 | 3 | 0 | #19, #31, #32, #36 |
-| **Michael Cera** | Rick Jones | **4** | **3** | 2 | 0 | 1 | 0 | 1 | #2, #8, #26, #40 |
 | **Natalie Portman** | Jane Foster | **4** | **4** | 1 | 1 | 1 | 1 | 0 | #3, #10, #23, #35 |
 | **Ray Stevenson** | Volstagg | **4** | **4** | 1 | 1 | 1 | 1 | 0 | #3, #10, #23, #35 |
 | **Rene Russo** | Frigga | **4** | **4** | 1 | 1 | 1 | 1 | 0 | #3, #10, #23, #35 |
 | **Rosemary Harris** | Aunt May | **4** | **3** | 0 | 1 | 2 | 1 | 0 | #13, #18, #29, #34 |
 | **Tadanobu Asano** | Hogun | **4** | **4** | 1 | 1 | 1 | 1 | 0 | #3, #10, #23, #35 |
 | **Zachary Levi** | Fandral | **4** | **4** | 1 | 1 | 1 | 1 | 0 | #3, #10, #23, #35 |
-| **Anson Mount** | Black Bolt | **3** | **2** | 0 | 0 | 1 | 2 | 0 | #24, #32, #33 |
 | **Anthony Hopkins** | Odin | **3** | **3** | 1 | 1 | 1 | 0 | 0 | #3, #10, #23 |
 | **Benedict Wong** | Wong | **3** | **2** | 0 | 0 | 2 | 1 | 0 | #20, #25, #32 |
 | **Brie Larson** | Carol Danvers / Captain Marvel | **3** | **2** | 0 | 0 | 2 | 0 | 1 | #26, #28, #40 |
@@ -134,6 +137,7 @@
 | **Annette Bening** | Supreme Intelligence | **2** | **2** | 0 | 0 | 1 | 0 | 1 | #26, #40 |
 | **Ben Hardy** | Angel | **2** | **2** | 1 | 0 | 0 | 1 | 0 | #7, #30 |
 | **Benicio del Toro** | The Collector | **2** | **1** | 0 | 2 | 0 | 0 | 0 | #10, #14 |
+| **Brian Tyree Henry** | Phastos / Jefferson Davis | **2** | **2** | 0 | 0 | 0 | 1 | 1 | #37, #43 |
 | **Cate Blanchett** | Hela | **2** | **2** | 0 | 0 | 1 | 1 | 0 | #23, #35 |
 | **Charlize Theron** | Clea | **2** | **2** | 0 | 0 | 1 | 1 | 0 | #20, #32 |
 | **Chris Evans** | Mar-Vell / Lord Mar-Vell | **2** | **2** | 0 | 0 | 1 | 0 | 1 | #26, #41 |
@@ -152,6 +156,7 @@
 | **Ralph Ineson** | Galactus | **2** | **2** | 0 | 1 | 1 | 0 | 0 | #17, #28 |
 | **Shawn Ashmore** | Iceman | **2** | **2** | 1 | 0 | 0 | 1 | 0 | #7, #30 |
 | **Sophie Turner** | Jean Grey | **2** | **2** | 1 | 0 | 0 | 1 | 0 | #7, #30 |
+| **Taika Waititi** | Korg | **2** | **2** | 0 | 0 | 1 | 0 | 1 | #24, #44 |
 | **Tilda Swinton** | The Ancient One | **2** | **2** | 0 | 0 | 1 | 1 | 0 | #20, #32 |
 | **Tony Leung** | The Mandarin | **2** | **2** | 1 | 1 | 0 | 0 | 0 | #5, #9 |
 | **Tye Sheridan** | Cyclops | **2** | **2** | 1 | 0 | 0 | 1 | 0 | #7, #30 |
@@ -167,7 +172,6 @@
 | **Ben Mendelsohn** | Talos | **1** | **1** | 0 | 0 | 0 | 0 | 1 | #40 |
 | **Bill Skarsgård** | Kro | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #37 |
 | **Blair Redford** | Thunderbird | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #30 |
-| **Brian Tyree Henry** | Phastos | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #37 |
 | **Caleb Landry Jones** | Banshee | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #30 |
 | **Chiwetel Ejiofor** | Baron Mordo | **1** | **1** | 0 | 0 | 1 | 0 | 0 | #20 |
 | **Christoph Waltz** | Baron Heinrich Zemo | **1** | **1** | 1 | 0 | 0 | 0 | 0 | #6 |
@@ -180,6 +184,7 @@
 | **Derek Luke** | Gabe Jones | **1** | **1** | 1 | 0 | 0 | 0 | 0 | #6 |
 | **Djimon Hounsou** | Attuma | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #31 |
 | **Don Lee** | Gilgamesh | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #37 |
+| **Donald Glover** | Aaron Davis / Prowler | **1** | **1** | 0 | 0 | 0 | 0 | 1 | #43 |
 | **Eme Ikwuakor** | Gorgon | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #33 |
 | **Emma Stone** | Gwen Stacy | **1** | **1** | 0 | 0 | 1 | 0 | 0 | #29 |
 | **Eva Green** | Llyra | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #31 |
@@ -207,9 +212,11 @@
 | **Laura Harrier** | Liz Allan | **1** | **1** | 0 | 1 | 0 | 0 | 0 | #13 |
 | **Lauren Ridloff** | Makkari | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #37 |
 | **Lee Pace** | Ronan | **1** | **1** | 0 | 0 | 0 | 0 | 1 | #40 |
+| **Lewis Pullman** | The Sentry | **1** | **1** | 0 | 0 | 0 | 0 | 1 | #44 |
 | **Lia McHugh** | Sprite | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #37 |
 | **Liam Neeson** | J'son | **1** | **1** | 0 | 0 | 1 | 0 | 0 | #21 |
 | **Liv Tyler** | Betty Ross | **1** | **1** | 1 | 0 | 0 | 0 | 0 | #2 |
+| **Luna Lauren Vélez** | Rio Morales | **1** | **1** | 0 | 0 | 0 | 0 | 1 | #43 |
 | **Mads Mikkelsen** | Aleksander Lukin | **1** | **1** | 0 | 1 | 0 | 0 | 0 | #12 |
 | **Mark Strong** | The Red King | **1** | **1** | 0 | 0 | 1 | 0 | 0 | #24 |
 | **Martin Sheen** | Uncle Ben | **1** | **1** | 0 | 1 | 0 | 0 | 0 | #13 |
@@ -229,7 +236,6 @@
 | **Shaun Toub** | Ho Yinsen | **1** | **1** | 1 | 0 | 0 | 0 | 0 | #1 |
 | **Stanley Tucci** | Dr. Erskine | **1** | **1** | 1 | 0 | 0 | 0 | 0 | #6 |
 | **Sylvester Stallone** | Starhawk | **1** | **1** | 0 | 0 | 1 | 0 | 0 | #21 |
-| **Taika Waititi** | Korg | **1** | **1** | 0 | 0 | 1 | 0 | 0 | #24 |
 | **Tao Okamoto** | Mariko Yashida | **1** | **1** | 0 | 0 | 1 | 0 | 0 | #22 |
 | **Teyonah Parris** | Monica Rambeau | **1** | **1** | 0 | 0 | 0 | 0 | 1 | #40 |
 | **Tim Blake Nelson** | Samuel Sterns | **1** | **1** | 1 | 0 | 0 | 0 | 0 | #2 |
@@ -243,7 +249,7 @@
 ---
 
 ## TOTALS
-- **179 actors** across **41 films.**
+- **182 actors** across **44 films.**
 - **Most appearances overall:** Stan Lee, in **29** films.
-- **Most appearances by a fictional ensemble actor:** Marc-Anthony Bullock, **23 films.**
-- **In three or more phases:** Marc-Anthony Bullock, Tyrese Avery, Elxa Bullock, Esther Smilley, Tyler Chapman, Arianna Cummings, Harmony Divine, Tayia Boyd, Amond Baker, Grace Bullock, Stan Lee, Aubrey Plaza, Josh Brolin, Pedro Pascal, Samuel L. Jackson, Tenoch Huerta, Ciarán Hinds, Paul Bettany, Evan Peters, Joseph Quinn, Robert Downey Jr., Chadwick Boseman, Don Cheadle, Ebon Moss-Bachrach, Tom Holland, Vanessa Kirby, Zoe Saldaña, Bradley Cooper, Chris Pratt, Dave Bautista, Karen Gillan, Patrick Stewart, Pom Klementieff, Sebastian Stan, Tom Hiddleston, Vin Diesel, Will Poulter, Danny DeVito, Idris Elba, Jaimie Alexander, Michael Cera, Natalie Portman, Ray Stevenson, Rene Russo, Rosemary Harris, Tadanobu Asano, Zachary Levi, Anthony Hopkins, Elizabeth Banks, J.K. Simmons, Sean Gunn, Terry Crews, Tony Revolori.
+- **Most appearances by a fictional ensemble actor:** Marc-Anthony Bullock, **24 films.**
+- **In three or more phases:** Marc-Anthony Bullock, Tyrese Avery, Elxa Bullock, Esther Smilley, Tyler Chapman, Amond Baker, Arianna Cummings, Harmony Divine, Tayia Boyd, Grace Bullock, Stan Lee, Aubrey Plaza, Josh Brolin, Pedro Pascal, Samuel L. Jackson, Benedict Cumberbatch, Ciarán Hinds, Tenoch Huerta, Paul Bettany, Robert Downey Jr., Evan Peters, Joseph Quinn, Tom Holland, Chadwick Boseman, Don Cheadle, Ebon Moss-Bachrach, Patrick Stewart, Vanessa Kirby, Zoe Saldaña, Bradley Cooper, Chris Pratt, Dave Bautista, Karen Gillan, Michael Cera, Pom Klementieff, Sebastian Stan, Tom Hiddleston, Vin Diesel, Will Poulter, Anson Mount, Danny DeVito, Idris Elba, Jaimie Alexander, Natalie Portman, Ray Stevenson, Rene Russo, Rosemary Harris, Tadanobu Asano, Zachary Levi, Anthony Hopkins, Elizabeth Banks, J.K. Simmons, Sean Gunn, Terry Crews, Tony Revolori.
