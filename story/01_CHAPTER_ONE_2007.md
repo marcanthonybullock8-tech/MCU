@@ -10,8 +10,9 @@
 | Kevin Feige | June 2, 1973 | **33** |
 | Avi Arad | Aug 1, 1948 | **58** |
 | Jon Favreau | Oct 19, 1966 | **40** |
-| Robert Downey Jr. | Apr 4, 1965 | **41** (42 on Apr 4) |
-| Gwyneth Paltrow | Sept 27, 1972 | **34** |
+| Marc-Anthony Bullock | Jan 5, 1982 | **25** *(looks 19–20)* |
+| Tayia Boyd | Feb 3, 1982 | **25** *(looks 19)* |
+| Amond Baker | Feb 10, 1982 | **25** *(looks 19)* |
 | Don Cheadle | Nov 29, 1964 | **42** |
 | Jeff Bridges | Dec 4, 1949 | **57** |
 | Samuel L. Jackson | Dec 21, 1948 | **58** |
@@ -26,8 +27,8 @@
 > *Longtime Arad lieutenant takes the reins as indie studio's first self-financed pic, 'Iron Man,' begins lensing today.*
 
 > **THE HOLLYWOOD REPORTER** | *March 12, 2007*
-> **'IRON MAN' ROLLS: Downey suits up as Marvel bets $140M on itself**
-> *Analysts question whether a comic company can survive without a studio's safety net. "If 'Iron Man' misses, Marvel's collateral is Captain America," said one financier. "Imagine explaining that to shareholders."*
+> **'IRON MAN' ROLLS: Marvel bets $140M on the 'Brainiac' kid**
+> *Marc-Anthony Bullock, 25, suits up in his first dramatic studio lead. Analysts question whether a comic company can survive without a studio's safety net. "If 'Iron Man' misses, Marvel's collateral is Captain America," said one financier. "Imagine explaining that to shareholders."*
 
 > **DEADLINE HOLLYWOOD DAILY (Nikki Finke)** | *March 12, 2007, 9:14 PM PT*
 > **TOLDJA: Marvel's Beverly Hills skeleton crew is making a play**
@@ -41,10 +42,16 @@
 *Page 1 of 47*
 
 > **ShellHead_1963** — *Mar 12 2007, 10:02 AM*
-> IT'S HAPPENING. Downey is Tony. I've said it since September. The man IS a recovering genius disaster. Casting of the decade.
+> IT'S HAPPENING. Marc-Anthony Bullock is Tony. I've said it since the announcement in September. The man played a genius for four years on Brainiac, he has an actual engineering degree, and he's the funniest person alive. Casting of the decade.
 
 > **XxWolverineXx** — *Mar 12 2007, 10:09 AM*
-> lol ok. B-list hero, a guy nobody's hired since Ally McBeal, and a studio that's never made a movie. See you at the $90M opening. Domestic TOTAL.
+> lol ok. B-list hero, a Disney Channel kid whose last movie was a frat comedy, and a studio that's never made a movie. See you at the $90M opening. Domestic TOTAL.
+
+> **PepperPottsFanClub** — *Mar 12 2007, 10:14 AM*
+> TAYIA BOYD AS PEPPER. Marcus and Keisha from Brainiac are BACK. If you watched that show you already know these two have the best comic timing on the planet. I'm not even worried.
+
+> **XxWolverineXx** — *Mar 12 2007, 10:16 AM*
+> @PepperPottsFanClub "I'm not even worried" is what my cousin said about Batman & Robin.
 
 > **Rhodey4WarMachine** — *Mar 12 2007, 10:31 AM*
 > Don Cheadle as Rhodey. Hotel Rwanda Don Cheadle. Pay attention to him. Mark my words, we see the silver suit by the sequel.
@@ -53,10 +60,10 @@
 > Only thing I care about: IS IT COMIC ACCURATE? Stane better BE Iron Monger. Don't give me some made-up villain.
 
 > **Mjolnir_Worthy** — *Mar 12 2007, 12:20 PM*
-> Weird question. Marvel ALSO has Hulk shooting this summer with Norton. Two movies, same year, same studio. Anyone else think they're connected?
+> Weird question. Marvel ALSO has Hulk shooting this summer, and the rumor is Amond Baker for Banner. Amond Baker. Marc-Anthony's best friend since they were five. Two movies, same year, same studio. Anyone else think they're connected?
 
 > **XxWolverineXx** — *Mar 12 2007, 12:22 PM*
-> @Mjolnir_Worthy no. That's not how movies work. Different directors, different casts. Studios don't do that. Calm down.
+> @Mjolnir_Worthy no. That's not how movies work. Different directors, different distributors. The Baker thing is just two friends who both needed work. Calm down.
 
 **TWITTER** *(SXSW Interactive, Austin, TX. Twitter's usage explodes this week)*
 > **@geekdad_atx** — *4:51 PM Mar 12th, 2007*
@@ -81,30 +88,34 @@ weighs, and it is ugly on purpose.
 JON FAVREAU (40), director, baseball cap, walkie on his hip,
 circles it like it's a car he's thinking about buying.
 
-ROBERT DOWNEY JR. (41) walks up in a torn, bloodstained tank
-top, drinking a green smoothie. He knocks on the chest plate.
-It CLANGS.
+MARC-ANTHONY BULLOCK (25, looks 19) walks up in a torn,
+bloodstained tank top, eating a gas-station honey bun. He
+knocks on the chest plate. It CLANGS.
 
-                    DOWNEY
+                    MARC-ANTHONY
           That's real.
 
                     FAVREAU
           That's real.
 
-                    DOWNEY
+                    MARC-ANTHONY
           I'm going to be inside that.
 
                     FAVREAU
           You said no stunt double. I wrote
           it down. I had it notarized.
 
-                    DOWNEY
+                    MARC-ANTHONY
                (grinning)
           I say a lot of things at 6 AM.
+          Yesterday I told a PA I'd name my
+          firstborn after her. I meant it.
+          I'm having like nine kids, Jon.
+          Somebody's getting named Brenda.
 
 He runs his hand along a weld seam, then gets serious.
 
-                    DOWNEY (CONT'D)
+                    MARC-ANTHONY (CONT'D)
           Tony built this in a cave. With
           scraps. With a box of scraps.
           If it looks like a stunt guy is
@@ -114,8 +125,12 @@ He runs his hand along a weld seam, then gets serious.
                     FAVREAU
           So you're in.
 
-                    DOWNEY
-          I've been out for ten years, Jon.
+                    MARC-ANTHONY
+          Fourteen months, Jon. Fourteen
+          months of scripts where I get hit
+          in the nuts by a golf cart. Eleven
+          of them. I said no eleven times.
+               (knocks on the steel again)
           I'm in.
 
 A STUNT COORDINATOR hustles over with a harness rig.
@@ -126,8 +141,42 @@ A STUNT COORDINATOR hustles over with a harness rig.
           If he goes down, he goes down
           slow.
 
-                    DOWNEY
-          Story of my career.
+                    MARC-ANTHONY
+          Story of my career. Child star
+          to "where is he now" in slow
+          motion.
+
+A golf cart pulls up. TAYIA BOYD (25, looks 19), in a Stark
+Industries blazer and a parka over it, climbs out holding two
+coffees. She hands one to Favreau and keeps the other.
+
+                    MARC-ANTHONY (CONT'D)
+          Where's mine?
+
+                    TAYIA
+          Pepper doesn't get Tony coffee
+          until page forty.
+
+                    MARC-ANTHONY
+               (to Favreau)
+          She's been doing this to me since
+          we were nine.
+
+                    TAYIA
+          And you've been walking into it
+          since you were nine.
+               (sips; eyes the Mark I)
+          Well. Welcome to the big leagues,
+          Brainiac.
+
+Favreau watches them. A small, pleased smile. He clicks his
+walkie.
+
+                    FAVREAU
+               (into walkie)
+          Keep rolling B-camera on those
+          two. All day. Whenever they're
+          talking.
 ```
 
 ---
@@ -303,7 +352,7 @@ CALLER ID: "KEVIN F."
 
                     FAVREAU
           Day one's in the can. Nobody died.
-          Downey was in the suit for eleven
+          Marc was in the suit for eleven
           takes.
 
                     FEIGE (V.O.)
@@ -477,8 +526,11 @@ Stan opens it. One page. He reads it. His Sharpie stops moving.
 ## ▌ HEADLINES: SPRING 2007
 
 > **VARIETY** | *Thursday, April 12, 2007*
-> **NORTON'S 'HULK' SETS TORONTO SUMMER START; PARAMOUNT DISTRIBS**
-> *Leterrier helms the first live-action Hulk film. Marvel promises "the Hulk from the comics, with no limits on how strong he gets."*
+> **AMOND BAKER TO PLAY BRUCE BANNER IN 'THE INCREDIBLE HULK'; PARAMOUNT DISTRIBS**
+> *Juilliard-trained former 'SPLAT!' star lands his first dramatic lead. Leterrier helms the first live-action Hulk film, Toronto summer start. Marvel promises "the Hulk from the comics, with no limits on how strong he gets."*
+
+> **SUPERHEROHYPE FORUMS** | *April 12, 2007, 9:03 AM*
+> **XxWolverineXx:** ok. Bullock AND Baker. Two SPLAT! kids. Two Marvel movies. Same year. ...fine. I'm a little worried now.
 
 > **AIN'T IT COOL NEWS** | *April 30, 2007*
 > **Moriarty here with a WHISPER from the Iron Man set...**

@@ -1,5 +1,9 @@
 # CAST BIBLE: THE ENSEMBLE
-### STATUS: 🔒 LOCKED. **These people are not in the story yet.** They enter only when the showrunner says so.
+### STATUS: 🔒 LOCKED. Each person enters the story only when the showrunner says so.
+
+| In the story (as of Chapter One) | Still locked |
+|---|---|
+| Marc-Anthony Bullock (Tony Stark, cast Sept 2006) · Tayia Boyd (Pepper Potts, cast Jan 2007) · Amond Baker (Bruce Banner, announced Apr 12, 2007) | Tyrese Avery · Esther Smilley · Harmony Divine · Tyler Chapman · Elxa Bullock · Grace Bullock · Arianna Cummings · the Donohue–Bullock family |
 
 > **Canon rules for this cast**
 > - All of the people listed here are **fictional African American actors** living in a real, diverse Hollywood. In 2007 Hollywood is still mostly white, especially in the executive suites.
@@ -112,9 +116,11 @@ His number-one goal, ahead of Oscars, money or anything else, is **a family. A b
 | 2004 | 22 | Buys into the **Google IPO** (August 2004) |
 | 2005 | 23 | Writes, directs and stars in ***The Long Way Home***, an indie drama about a father and son in Crenshaw. **Sundance Special Jury Prize**, and **Independent Spirit Award, Best First Screenplay.** It made $4.2M at the box office, which is a flop by studio standards. |
 | 2006 | 24 | HBO stand-up special ***Unsupervised***. Huge ratings, and a parents'-group boycott. He gives all his backend to Children's Hospital Los Angeles. |
+| **Sept 29, 2006** | 24 | **Cast as Tony Stark in *Iron Man*** (Marvel Studios / Paramount). The industry reaction: *"Marvel bet $140 million on the Brainiac kid."* |
+| **Mar 12, 2007** | 25 | *Iron Man* begins principal photography. He does his own stunts in the 90-lb practical Mark I. |
 
-**2007 problem: typecasting and a dry spell**
-He hasn't had a greenlit project in **14 months.** To the studios he's either *"the Brainiac kid"* or *"the Disney kid who curses now,"* so every script his agency sends is a comedy. He has turned down **eleven** of them. *The Long Way Home* proved he can do drama, but almost nobody saw it. He is too famous to be treated as a newcomer and too typecast to be taken seriously, and he's starting to wonder whether he'll ever be allowed to grow up on screen.
+**The problem Iron Man ended (typecasting and a dry spell)**
+Before Marvel called, he went **14 months** without a greenlit project (July 2005 – September 2006). To the studios he's either *"the Brainiac kid"* or *"the Disney kid who curses now,"* so every script his agency sends is a comedy. He has turned down **eleven** of them. *The Long Way Home* proved he can do drama, but almost nobody saw it. He was too famous to be treated as a newcomer and too typecast to be taken seriously. **Iron Man is his shot at proving he can grow up on screen, and half of Hollywood is waiting for him to fail.**
 
 **Relationships:**
 - **Amond Baker:** best friend since the cereal commercial in 1987. Brother. Right-hand man.
@@ -179,7 +185,7 @@ Her screen tests keep getting the same verdict: *"too big, too theatrical."* On 
 **Personality:** gentle, soft-spoken, anxious and thoughtful. He keeps his feelings under tight control, and when something finally breaks through, it's **frightening.** Directors who have seen it don't forget it. He's Marc's steady opposite: Marc is the explosion and Amond is the pressure underneath.
 
 **2007 problem: typecasting and a dry spell**
-His UPN sitcom ***Baker's Dozen*** was cancelled in 2006 when UPN merged into The CW. Hollywood still sees him as *"the funny best friend from SPLAT!"* Nobody has read his Juilliard reviews, and he has been out of work for nine months.
+His UPN sitcom ***Baker's Dozen*** was cancelled in 2006 when UPN merged into The CW. Hollywood still sees him as *"the funny best friend from SPLAT!"* Nobody has read his Juilliard reviews, and he has been out of work for nine months. **That ends on April 12, 2007, when Marvel announces him as Bruce Banner in *The Incredible Hulk*.** Filming starts in Toronto that summer.
 
 🔒 *Future canon: together with Harmony Divine in 2013, married 2015; daughter Lyric born April 20, 2014.*
 
@@ -293,7 +299,7 @@ She's spent six years hearing *"not the type,"* and for every possible type: too
 **Backstory:** She was on ***SPLAT!*** (1991–1995) with Marc and Amond, then played **Keisha Grant**, Marcus Hayes's best friend and rival, on ***Brainiac*** (1995–1999). She and Marc-Anthony have **excellent professional chemistry.** Their comic timing is so closely matched that *Brainiac* writers used to leave gaps in the script and let the two of them fill them. She's co-starred with him in three Disney Channel Original Movies and a Nickelodeon special.
 
 **2007 problem: typecasting**
-She's the lead's funny best friend on a mid-rated network sitcom (***Two Doors Down***, NBC, 2005–present). Casting sees her as *"the sassy best friend,"* which is the part she's been playing since she was nine. She's ready to be the lead.
+She's the lead's funny best friend on a mid-rated network sitcom (***Two Doors Down***, NBC, 2005–present). Casting sees her as *"the sassy best friend,"* which is the part she's been playing since she was nine. She's ready to be the lead. **In January 2007 she's cast as Pepper Potts** and shoots *Iron Man* during her sitcom's hiatus.
 
 **Why she's Pepper:** Tony and Pepper's back-and-forth is the most important relationship in Iron Man's corner of the universe, and Tayia and Marc-Anthony have been doing that rhythm on screen since they were nine. With them it's instinct, not acting.
 
