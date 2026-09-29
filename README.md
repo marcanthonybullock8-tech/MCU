@@ -27,6 +27,10 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #17: Silver Surfer](story/films/P2-09_SILVER_SURFER.md)
 - [Phase 3 Slate](story/07_PHASE_THREE_SLATE.md)
   - [Film #18: Captain America: Civil War](story/films/P3-01_CAPTAIN_AMERICA_CIVIL_WAR.md)
+  - [Film #19: Black Panther](story/films/P3-02_BLACK_PANTHER.md)
+  - [Film #20: Doctor Strange](story/films/P3-03_DOCTOR_STRANGE.md)
+  - [Film #21: Guardians of the Galaxy: Cosmic Avengers](story/films/P3-04_GUARDIANS_OF_THE_GALAXY_COSMIC_AVENGERS.md)
+  - [Film #22: Wolverine](story/films/P3-05_WOLVERINE.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
