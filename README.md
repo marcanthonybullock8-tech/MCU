@@ -7,7 +7,14 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
 - [Cast Bible](story/02_CAST_BIBLE.md): 🔓 unlocked
 - [Film Dossier Template](story/04_FILM_DOSSIER_TEMPLATE.md): required fields for every MCU film
 - [Phase 1 Slate](story/05_PHASE_ONE_SLATE.md)
-  - [Film #1: Iron Man dossier](story/films/P1-01_IRON_MAN.md)
+  - [Film #1: Iron Man](story/films/P1-01_IRON_MAN.md)
+  - [Film #2: The Incredible Hulk](story/films/P1-02_THE_INCREDIBLE_HULK.md)
+  - [Film #3: Thor](story/films/P1-03_THOR.md)
+  - [Film #4: Ant-Man and the Wasp](story/films/P1-04_ANT-MAN_AND_THE_WASP.md)
+  - [Film #5: Iron Man 2](story/films/P1-05_IRON_MAN_2.md)
+  - [Film #6: Captain America](story/films/P1-06_CAPTAIN_AMERICA.md)
+  - [Film #7: X-Men](story/films/P1-07_X-MEN.md)
+  - [Film #8: The Avengers](story/films/P1-08_THE_AVENGERS.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs

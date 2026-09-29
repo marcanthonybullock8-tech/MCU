@@ -155,7 +155,15 @@ It ramps up by phase, so audiences are gradually trained to expect connection:
 Taken directly from Starlin's run, *The Thanos Quest* → *The Infinity Gauntlet* → *The Infinity War*. It isn't the name of a franchise, so it can be said out loud. It's the name of a story, and the public won't learn it until the right moment.
 
 **Seeding plan:**
-- **Phase 1:** a Gem hides in plain sight. **Final shot of Phase 1:** a purple hand, a golden glove, and one line: *"To challenge them... is to court Death."*
+- **Phase 1 (locked in the dossiers):**
+  - **Mistress Death** appears unexplained at Yinsen's death (*Iron Man*) and turns away from Bucky (*Captain America*).
+  - **Titan** is detected three times (*Iron Man*, *Hulk*, *Thor*).
+  - Thanos's face is **glimpsed** twice (*Ant-Man and the Wasp*, *Captain America*).
+  - The **first mention of the Infinity Gems** comes from the Mandarin (*Iron Man 2*).
+  - The **Cosmic Cube**, Thanos's first target on 616, is built by A.I.M. (*Captain America*).
+  - Xavier senses **a mind smiling at Earth** (*X-Men*).
+  - **Final shot of Phase 1** (*The Avengers*): a purple hand, a golden glove with six empty settings, Death at his side, and one line: *"...is to court Death."*
+  - *The Gems stay off Earth in Phase 1. On 616 they're scattered across the cosmos among the Elders of the Universe until **The Thanos Quest**.*
 - **Phase 2:** *The Thanos Quest.* He starts collecting.
 - **Phase 3:** *The Infinity Gauntlet*, a two-part finale.
 

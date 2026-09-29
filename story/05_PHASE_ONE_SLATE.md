@@ -4,13 +4,13 @@
 | # | Title | Release date | Owner | Dossier |
 |---|---|---|---|---|
 | 1 | **Iron Man** | **Friday, May 2, 2008** | Marc-Anthony Bullock | ✅ [complete](films/P1-01_IRON_MAN.md) |
-| 2 | **The Incredible Hulk** | **Friday, June 13, 2008** | Amond Baker | ⏳ pending |
-| 3 | **Thor** | **Friday, May 1, 2009** | Esther Smilley | ⏳ pending |
-| 4 | **Ant-Man** *(with the Wasp; final title set in the dossier)* | **Friday, November 6, 2009** | Tyler Chapman (Elxa Bullock co-lead) | ⏳ pending |
-| 5 | **Iron Man 2** | **Friday, May 7, 2010** | Marc-Anthony Bullock | ⏳ pending |
-| 6 | **Captain America** | **Friday, July 22, 2011** | Tyrese Avery | ⏳ pending |
-| 7 | **X-Men** | **Friday, November 4, 2011** | The X-Men ensemble (real actors, showrunner's picks) · Grace Bullock as the Scarlet Witch | ⏳ pending |
-| 8 | **The Avengers** | **Friday, May 4, 2012** | The ensemble (Marc-Anthony Bullock top-billed) | ⏳ pending |
+| 2 | **The Incredible Hulk** | **Friday, June 13, 2008** | Amond Baker | ✅ [complete](films/P1-02_THE_INCREDIBLE_HULK.md) |
+| 3 | **Thor** | **Friday, May 1, 2009** | Esther Smilley | ✅ [complete](films/P1-03_THOR.md) |
+| 4 | **Ant-Man and the Wasp** | **Friday, November 6, 2009** | Tyler Chapman (Elxa Bullock co-lead) | ✅ [complete](films/P1-04_ANT-MAN_AND_THE_WASP.md) |
+| 5 | **Iron Man 2** | **Friday, May 7, 2010** | Marc-Anthony Bullock | ✅ [complete](films/P1-05_IRON_MAN_2.md) |
+| 6 | **Captain America** | **Friday, July 22, 2011** | Tyrese Avery | ✅ [complete](films/P1-06_CAPTAIN_AMERICA.md) |
+| 7 | **X-Men** | **Friday, November 4, 2011** | The X-Men ensemble (real actors, showrunner's picks) · Grace Bullock as the Scarlet Witch | ✅ [complete](films/P1-07_X-MEN.md) |
+| 8 | **The Avengers** | **Friday, May 4, 2012** | The ensemble (Marc-Anthony Bullock top-billed) | ✅ [complete](films/P1-08_THE_AVENGERS.md) |
 
 ---
 
@@ -49,7 +49,7 @@
 - **Why sixth:**
   1. **Cap closes out the founding era the way the comics did.** In 616 he wasn't a founder. He joined in *Avengers* #4 after the Avengers **found him frozen in the ice.** His film ends with Steve going into the ice, and *The Avengers* is where the team finds him.
   2. **It's the MCU's only period piece.** A WWII war epic from 1941 to 1945 gives the saga its history: **Project: Rebirth** and **Dr. Abraham Erskine**, **Bucky Barnes**, the **Red Skull**, and **Sgt. Nick Fury and his Howling Commandos** (616: they fought beside Cap). That's also where Samuel L. Jackson's Fury history comes from.
-  3. **It sets up the Big Bad accurately to the comics.** The Red Skull's **Cosmic Cube** is the prize **Thanos went after first** in ***Captain Marvel* #27–33** (1973), before he ever went for the Gems. The Cube shows up in the Skull's hands in 1945, and Thanos will come for it.
+  3. **It sets up the Big Bad accurately to the comics.** The **Cosmic Cube** is the prize **Thanos went after first** in ***Captain Marvel* #27–33** (1973), before he ever went for the Gems. On 616 it was built by **A.I.M.** in the modern era (*Tales of Suspense* #79, 1966), not in WWII, so it appears in the film's **present-day post-credit scene** in A.I.M.'s lab.
 - **Release date: Friday, July 22, 2011.** It's the heart of summer, three weeks after Independence Day, and clear of *Transformers: Dark of the Moon* (June 29). Paramount distributes both films and wouldn't put them head to head. It also comes a week after the final *Harry Potter* (July 15), once that film's opening surge has passed.
 
 ## FILM #7: X-MEN
