@@ -144,6 +144,9 @@ It ramps up by phase, so audiences are gradually trained to expect connection:
 - **Motivation:** he is **in love with Mistress Death.** He kills half of all life as a **courtship offering** to win her. **It is not about resources or overpopulation.** Death is a character in this saga, and she never speaks to him.
 - **Power level (no nerfs):** before he ever touches a Gem, Thanos can trade blows with the Hulk and Thor, knows cosmic science beyond Tony Stark, and is a master strategist. With the **Infinity Gauntlet** he is **omnipotent**. The heroes lose because the Gauntlet is literally godhood, not because they're weak.
 - **The six Infinity Gems** (called **"Gems"** on screen, never "Stones"): **Soul, Mind, Power, Space, Time, Reality.** The Soul Gem is tied to **Adam Warlock.**
+  - **Comic colors (locked):** Soul **green** · Mind **blue** · Power **red** · Space **purple** · Time **orange** · Reality **yellow**.
+  - **Origin:** first called **"Soul Gems"** (the Soul Gem debuted in *Marvel Premiere* #1, 1972). They were named the **Infinity Gems** in *Silver Surfer Annual* #2 and *The Thanos Quest* (1990). They are the remains of a single being that existed before the universe and chose to shatter itself.
+  - **The Gauntlet:** Thanos's **Infinity Gauntlet** is a plain gold glove with no special properties of its own. All the power comes from the Gems.
 - **His people:** **Gamora** (adopted daughter, "the deadliest woman in the galaxy"), **Nebula** (his self-proclaimed granddaughter), and **the Black Order.**
 - **The fatal flaw** (Starlin's thesis, spoken by Adam Warlock): *"Deep down, Thanos believes he doesn't deserve to win. He always leaves himself a way to lose."*
 - **Endgame players, all comic-accurate:** Adam Warlock, the Silver Surfer, Mephisto, Nebula, and cosmic entities at full power.
