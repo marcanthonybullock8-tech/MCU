@@ -1,6 +1,6 @@
 # FILM DOSSIER: SILVER SURFER
 ### Phase 2 · Film #9 (Saga Film #17) · **PHASE 2 FINALE**
-### Status: ✅ DOSSIER COMPLETE. ⏳ **Waiting on the showrunner's casting picks** (the FF and Mephisto; see Section 2).
+### Status: ✅ DOSSIER COMPLETE. ⏳ **Waiting on the showrunner's Mephisto pick** (see Section 2).
 
 ---
 
@@ -31,7 +31,7 @@
 | **Shalla-Bal** | Julia Garner | 21 |
 | **Alicia Masters** | Kerry Washington | 38 |
 | **Uatu the Watcher** | Jeffrey Wright | 49 |
-| **The Fantastic Four** | ⏳ *the FF picks from the Fantastic Four dossier* | – |
+| **Reed Richards / Sue Storm / Johnny Storm / Ben Grimm** | Pedro Pascal / Vanessa Kirby / Joseph Quinn / Ebon Moss-Bachrach | 40 / 27 / 22 / 38 |
 | **Adam Warlock** *(post-credit)* | Will Poulter | 22 |
 | **Thanos** | Josh Brolin | 47 |
 | **Death** | Aubrey Plaza | 31 |
@@ -155,4 +155,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ⏳ FF and Mephisto casting picks
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ FF cast · ⏳ Mephisto casting pick

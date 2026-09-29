@@ -1,6 +1,6 @@
 # FILM DOSSIER: FANTASTIC FOUR
 ### Phase 2 · Film #3 (Saga Film #11)
-### Status: ✅ DOSSIER COMPLETE. ⏳ **Waiting on the showrunner's real-actor casting picks** (see Section 2).
+### Status: ✅ DOSSIER COMPLETE (awaiting showrunner lock)
 
 ---
 
@@ -22,21 +22,21 @@
 ## 2. OWNERSHIP
 | Field | Entry |
 |---|---|
-| **Whose film / franchise is this?** | **The Fantastic Four ensemble** (real actors, the showrunner's picks). Marvel's first family has its own franchise. |
+| **Whose film / franchise is this?** | **The Fantastic Four ensemble**: Pedro Pascal, Vanessa Kirby, Joseph Quinn and Ebon Moss-Bachrach. Marvel's first family has its own franchise. |
 
-### Real-actor cast: ⏳ SHOWRUNNER'S PICKS
-*Ages are at release. **Bold = recommended.** On 616 in 1961, Reed is the oldest, Sue is in her twenties, and **Johnny is a teenager.***
-
-| Character | Options (age at release) | Notes |
+### Real-actor cast: ✅ LOCKED (the showrunner's picks)
+| Character | Actor | Age at release |
 |---|---|---|
-| **Reed Richards / Mr. Fantastic** | **Pedro Pascal (38)** · Ioan Gruffudd (40) · Miles Teller (26) | Pascal fits Reed as the older, graying genius |
-| **Sue Storm / the Invisible Woman** | **Vanessa Kirby (25)** · Jessica Alba (32) · Kate Mara (30) | Kirby matches Sue's 616 age |
-| **Johnny Storm / the Human Torch** | **Joseph Quinn (20)** · Chris Evans (32) · Michael B. Jordan (26) | Quinn is closest to 616's teenage Johnny |
-| **Ben Grimm / the Thing** *(on-set performance capture and practical prosthetic suit)* | **Ebon Moss-Bachrach (36)** · Michael Chiklis (50) · Jamie Bell (27) | Moss-Bachrach fits Ben as Reed's college roommate and a test pilot |
-| **Victor von Doom / Doctor Doom** | **Robert Downey Jr. (48)** · Julian McMahon (45) · Toby Kebbell (31) | **In our reality, Downey never played Tony Stark**, so he's free to be Doom. He has the gravitas of a monarch and a genius. |
-| **Alicia Masters** | **Kerry Washington (36)** | The only real actor to have played her |
-| **Harvey Elder / the Mole Man** | **Paul Walter Hauser (27)** | The only real actor to have played him |
-| **Uatu the Watcher** | **Jeffrey Wright (47)** | The only real actor to have played him |
+| **Reed Richards / Mr. Fantastic** | **Pedro Pascal** | 38 |
+| **Sue Storm / the Invisible Woman** | **Vanessa Kirby** | 25 |
+| **Johnny Storm / the Human Torch** | **Joseph Quinn** | 20 |
+| **Ben Grimm / the Thing** *(on-set performance capture and practical prosthetic suit)* | **Ebon Moss-Bachrach** | 36 |
+| **Victor von Doom / Doctor Doom** | **Robert Downey Jr.** | 48 |
+| **Alicia Masters** | **Kerry Washington** | 36 |
+| **Harvey Elder / the Mole Man** | **Paul Walter Hauser** | 27 |
+| **Uatu the Watcher** | **Jeffrey Wright** | 47 |
+
+*In our reality Robert Downey Jr. never played Tony Stark, so Doctor Doom is his signature Marvel role.*
 
 | Character | Actor | Age at release |
 |---|---|---|
@@ -158,4 +158,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ⏳ Real-actor casting picks
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ Real-actor casting locked

@@ -41,7 +41,7 @@
 | **J. Jonah Jameson** | J.K. Simmons | 59 |
 | **Dr. Otto Octavius / Doctor Octopus** | Alfred Molina | 60 |
 | **Liz Allan** | Laura Harrier | 24 |
-| **The Fantastic Four** *(cameo, per the FF picks)* | ⏳ | – |
+| **Reed Richards / Johnny Storm** *(cameo)* | Pedro Pascal / Joseph Quinn | 39 / 21 |
 | **Tony Stark** *(cameo)* | **Marc-Anthony Bullock** | 32 |
 | **Stan Lee** *(cameo: a man at a wrestling match who shouts "Get him, Crusher!")* | Stan Lee | 91 |
 

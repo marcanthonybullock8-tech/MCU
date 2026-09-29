@@ -5,7 +5,7 @@
 |---|---|---|---|---|
 | 1 | **Iron Man 3** | **Friday, May 3, 2013** | Marc-Anthony Bullock | ✅ [complete](films/P2-01_IRON_MAN_3.md) |
 | 2 | **Thor: Stormbreaker** | **Friday, July 26, 2013** | Esther Smilley | ✅ [complete](films/P2-02_THOR_STORMBREAKER.md) |
-| 3 | **Fantastic Four** | **Friday, November 8, 2013** | The FF ensemble (real actors, the showrunner's picks ⏳) | ✅ [complete](films/P2-03_FANTASTIC_FOUR.md) |
+| 3 | **Fantastic Four** | **Friday, November 8, 2013** | The FF ensemble: Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach | ✅ [complete](films/P2-03_FANTASTIC_FOUR.md) |
 | 4 | **Captain America: The Winter Soldier** | **Friday, April 4, 2014** | Tyrese Avery | ✅ [complete](films/P2-04_CAPTAIN_AMERICA_THE_WINTER_SOLDIER.md) |
 | 5 | **The Amazing Spider-Man** | **Friday, May 2, 2014** | Spider-Man's actor (real actor, the showrunner's pick ⏳) | ✅ [complete](films/P2-05_THE_AMAZING_SPIDER-MAN.md) |
 | 6 | **Guardians of the Galaxy** | **Friday, August 1, 2014** | The Guardians ensemble (Chris Pratt leads) | ✅ [complete](films/P2-06_GUARDIANS_OF_THE_GALAXY.md) |
@@ -31,7 +31,7 @@
   3. **They bring Doctor Doom**, the greatest villain Marvel has.
   4. **They balance the X-Men.** The FF are the heroes the public **loves**. The X-Men are the ones it fears.
 - **Release date: Friday, November 8, 2013.** Marvel's fall slot, **52 years almost to the month** after *FF* #1 (November 1961), in the slot *Thor: The Dark World* held in the real world (a film that doesn't exist in ours), two weeks ahead of *The Hunger Games: Catching Fire* (November 22).
-- **⏳ Casting:** the FF are played by real actors, and the showrunner picks. The recommendations are in the dossier.
+- **✅ Casting:** Pedro Pascal (Reed), Vanessa Kirby (Sue), Joseph Quinn (Johnny), Ebon Moss-Bachrach (Ben) and **Robert Downey Jr. as Doctor Doom.**
 
 ## PHASE 2 FILM #4: CAPTAIN AMERICA: THE WINTER SOLDIER
 - **Release date: Friday, April 4, 2014.** Early spring, with a clear runway before the summer season. It's Cap's first film set in the present day.
