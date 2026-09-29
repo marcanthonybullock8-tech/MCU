@@ -70,7 +70,7 @@
 
 ---
 
-## REAL-LIFE ACTORS (172 actors)
+## REAL-LIFE ACTORS (173 actors)
 | Actor | Role(s) | Films | Phases | P1 | P2 | P3 | P4 | P5 | Film #s |
 |---|---|---|---|---|---|---|---|---|---|
 | **Stan Lee** | Cameos | **29** | **3** | 8 | 9 | 12 | 0 | 0 | #1, #2, #3, #4, #5, #6, #7, #8, #9, #10, #11, #12, #13, #14, #15, #16, #17, #18, #19, #20, #21, #22, #23, #24, #25, #26, #27, #28, #29 |
@@ -233,6 +233,7 @@
 | **Salma Hayek** | Ajak | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #37 |
 | **Sam Rockwell** | Justin Hammer | **1** | **1** | 1 | 0 | 0 | 0 | 0 | #5 |
 | **Serinda Swan** | Medusa | **1** | **1** | 0 | 0 | 0 | 1 | 0 | #33 |
+| **Shameik Moore** | Miles Morales / Spider-Man | **1** | **1** | 0 | 0 | 0 | 0 | 1 | #43 |
 | **Shaun Toub** | Ho Yinsen | **1** | **1** | 1 | 0 | 0 | 0 | 0 | #1 |
 | **Stanley Tucci** | Dr. Erskine | **1** | **1** | 1 | 0 | 0 | 0 | 0 | #6 |
 | **Sylvester Stallone** | Starhawk | **1** | **1** | 0 | 0 | 1 | 0 | 0 | #21 |
@@ -249,7 +250,7 @@
 ---
 
 ## TOTALS
-- **182 actors** across **44 films.**
+- **183 actors** across **44 films.**
 - **Most appearances overall:** Stan Lee, in **29** films.
 - **Most appearances by a fictional ensemble actor:** Marc-Anthony Bullock, **24 films.**
 - **In three or more phases:** Marc-Anthony Bullock, Tyrese Avery, Elxa Bullock, Esther Smilley, Tyler Chapman, Amond Baker, Arianna Cummings, Harmony Divine, Tayia Boyd, Grace Bullock, Stan Lee, Aubrey Plaza, Josh Brolin, Pedro Pascal, Samuel L. Jackson, Benedict Cumberbatch, Ciarán Hinds, Tenoch Huerta, Paul Bettany, Robert Downey Jr., Evan Peters, Joseph Quinn, Tom Holland, Chadwick Boseman, Don Cheadle, Ebon Moss-Bachrach, Patrick Stewart, Vanessa Kirby, Zoe Saldaña, Bradley Cooper, Chris Pratt, Dave Bautista, Karen Gillan, Michael Cera, Pom Klementieff, Sebastian Stan, Tom Hiddleston, Vin Diesel, Will Poulter, Anson Mount, Danny DeVito, Idris Elba, Jaimie Alexander, Natalie Portman, Ray Stevenson, Rene Russo, Rosemary Harris, Tadanobu Asano, Zachary Levi, Anthony Hopkins, Elizabeth Banks, J.K. Simmons, Sean Gunn, Terry Crews, Tony Revolori.

@@ -9,7 +9,7 @@
 | 2 | **Captain Marvel: The Kree-Skrull War** | **Friday, May 2, 2025** | Brie Larson | ✅ [complete](films/P5-02_CAPTAIN_MARVEL_THE_KREE-SKRULL_WAR.md) |
 | 3 | **Guardians of the Galaxy: The Thanos Imperative** | **Friday, November 7, 2025** | The Guardians ensemble (Chris Pratt leads) | ✅ [complete](films/P5-03_GUARDIANS_OF_THE_GALAXY_THE_THANOS_IMPERATIVE.md) |
 | 4 | **Doom** | **Friday, May 1, 2026** | Robert Downey Jr. | ✅ [complete](films/P5-04_DOOM.md) |
-| 5 | **Ultimate Spider-Man** | **Friday, July 24, 2026** | Miles Morales's actor ⏳ | ✅ [complete](films/P5-05_ULTIMATE_SPIDER-MAN.md) |
+| 5 | **Ultimate Spider-Man** | **Friday, July 24, 2026** | Shameik Moore | ✅ [complete](films/P5-05_ULTIMATE_SPIDER-MAN.md) |
 | 6 | **World War Hulk** | **Friday, November 6, 2026** | Amond Baker | ✅ [complete](films/P5-06_WORLD_WAR_HULK.md) |
 | 7 | *TBD* | | | |
 | 8 | *TBD* | | | |
@@ -58,7 +58,7 @@
 - **Character:** **Miles Morales** of **Earth-1610**. First appearance: ***Ultimate Fallout* #4** (2011), Bendis & Pichelli.
 - **Why:** **the final Incursion of *Secret Wars* is Earth-616 against Earth-1610, the Ultimate Universe.** The audience has to **see that world and care about it** before it dies. Miles is **the one hero on 616 who survives *Secret Wars* and comes over into our universe.**
 - **Release date: Friday, July 24, 2026.** Mid-summer.
-- **⏳ Casting:** Miles is **Shameik Moore** (recommended, per the Casting Rules) or **a fresh teen**. Showrunner decision.
+- **✅ Casting (locked):** Miles is **Shameik Moore** (31, per the Casting Rules; voiced Miles in the *Spider-Verse* films).
 
 ## PHASE 5 FILM #6: WORLD WAR HULK
 - **Character:** **The Hulk** (Amond Baker's third film).

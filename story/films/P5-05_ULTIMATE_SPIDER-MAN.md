@@ -1,6 +1,6 @@
 # FILM DOSSIER: ULTIMATE SPIDER-MAN
 ### Phase 5 · Film #5 (Saga Two, Film #14 · Overall Film #43)
-### Status: ✅ DOSSIER COMPLETE. ⏳ **One casting decision needed** (Miles Morales; see Section 2).
+### Status: ✅ DOSSIER COMPLETE. ✅ **Casting locked:** Shameik Moore is Miles Morales.
 
 ---
 
@@ -23,11 +23,11 @@
 ## 2. OWNERSHIP
 | Field | Entry |
 |---|---|
-| **Whose film / franchise is this?** | **Miles Morales's actor** (see the decision below). The Miles Morales franchise starts here. |
+| **Whose film / franchise is this?** | **Shameik Moore.** The Miles Morales franchise starts here. |
 
 | Character | Actor | Age at release |
 |---|---|---|
-| **Miles Morales / Spider-Man** | ⚠️ *see the decision below* | – |
+| **Miles Morales / Spider-Man** | **Shameik Moore** *(voiced Miles in the Spider-Verse films)* | 31 |
 | **Aaron Davis / The Prowler** *(Miles's uncle)* | Donald Glover *(played Aaron Davis in live action)* | 42 |
 | **Jefferson Davis** *(Miles's father)* | Brian Tyree Henry *(voiced him; also plays Phastos)* | 44 |
 | **Rio Morales** *(Miles's mother)* | Luna Lauren Vélez *(voiced her)* | – |
@@ -36,13 +36,8 @@
 | **Nick Fury of Earth-1610** | Samuel L. Jackson | 77 |
 | **Peter Parker of Earth-616** *(post-credit)* | Tom Holland | 30 |
 
-### ⚠️ SHOWRUNNER DECISION: MILES MORALES
-| Option | Notes |
-|---|---|
-| **Shameik Moore (31)** | The **Casting Rules pick**: the only real actor to have played Miles (the voice in the *Spider-Verse* films). On 616 Miles is 13 at his debut (2011) and **around 16 as of 2015.** Moore would be **31 playing 16.** |
-| **Fresh teen casting** | 616-accurate on age. It would be a casting exception, like Mar-Vell. |
-
-**Recommendation:** **Shameik Moore.** The rule is the rule, and **Miles ages up** across Phase 6 and beyond (he's **17 by *Secret Wars***, and 18+ after it).
+### ✅ SHOWRUNNER DECISION (LOCKED): MILES MORALES = SHAMEIK MOORE
+Per Casting Rule 2, Miles goes to **Shameik Moore** (born **May 4, 1995**; **31** at release). He's the only real actor to have played Miles. He plays **16** here, and Miles **ages up** across Phase 6 and beyond (**17 by *Secret Wars***, 18+ after it). Miles is a **full-power** Spider-Man with the whole Ultimate kit. **Nobody gets nerfed.**
 
 *Casting note: Brian Tyree Henry plays two roles in the saga (Phastos and Jefferson Davis). They never share a scene, the same precedent as Laurence Fishburne.*
 
@@ -135,4 +130,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ⏳ Miles casting decision
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · [x] Miles casting decision (Shameik Moore)
