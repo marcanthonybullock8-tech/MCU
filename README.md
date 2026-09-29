@@ -60,6 +60,11 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #42: Doom](story/films/P5-04_DOOM.md)
   - [Film #43: Ultimate Spider-Man](story/films/P5-05_ULTIMATE_SPIDER-MAN.md)
   - [Film #44: World War Hulk](story/films/P5-06_WORLD_WAR_HULK.md)
+  - [Film #45: Captain America: Reborn](story/films/P5-07_CAPTAIN_AMERICA_REBORN.md)
+  - [Film #46: Iron Man: Doomquest](story/films/P5-08_IRON_MAN_DOOMQUEST.md)
+  - [Film #47: Thor: The God Butcher](story/films/P5-09_THOR_THE_GOD_BUTCHER.md)
+  - [Series: Moon Knight (Disney+)](story/series/P5-S2_MOON_KNIGHT.md)
+  - [Film #48: Avengers: Time Runs Out (Phase 5 finale)](story/films/P5-10_AVENGERS_TIME_RUNS_OUT.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs

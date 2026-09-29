@@ -1,6 +1,6 @@
 # PHASE 5 SLATE (2025–2027): 10 FILMS + 2 DISNEY+ SERIES
 ### The Secret Wars Saga, Part Two: **"Time Runs Out"**
-### Status: being built. Dossiers are written automatically as each title is added.
+### Status: ✅ SLATE COMPLETE (10 films + 2 series). All dossiers written.
 
 ## FILMS (the main story)
 | # | Title | Release date | Owner | Dossier |
@@ -11,16 +11,16 @@
 | 4 | **Doom** | **Friday, May 1, 2026** | Robert Downey Jr. | ✅ [complete](films/P5-04_DOOM.md) |
 | 5 | **Ultimate Spider-Man** | **Friday, July 24, 2026** | Shameik Moore | ✅ [complete](films/P5-05_ULTIMATE_SPIDER-MAN.md) |
 | 6 | **World War Hulk** | **Friday, November 6, 2026** | Amond Baker | ✅ [complete](films/P5-06_WORLD_WAR_HULK.md) |
-| 7 | *TBD* | | | |
-| 8 | *TBD* | | | |
-| 9 | *TBD* | | | |
-| 10 | *TBD* | | | |
+| 7 | **Captain America: Reborn** | **Friday, March 5, 2027** | Tyrese Avery | ✅ [complete](films/P5-07_CAPTAIN_AMERICA_REBORN.md) |
+| 8 | **Iron Man: Doomquest** | **Friday, May 7, 2027** | Marc-Anthony Bullock (RDJ billed second) | ✅ [complete](films/P5-08_IRON_MAN_DOOMQUEST.md) |
+| 9 | **Thor: The God Butcher** | **Friday, July 30, 2027** | Esther Smilley | ✅ [complete](films/P5-09_THOR_THE_GOD_BUTCHER.md) |
+| 10 | **Avengers: Time Runs Out** *(Phase 5 finale)* | **Friday, December 17, 2027** | The Avengers ensemble (Marc-Anthony Bullock & Tyrese Avery co-lead) | ✅ [complete](films/P5-10_AVENGERS_TIME_RUNS_OUT.md) |
 
 ## DISNEY+ SERIES (limit: 2 this phase)
 | # | Title | Premiere | Owner | Dossier |
 |---|---|---|---|---|
 | S1 | **The Punisher: Welcome Back, Frank** (10 episodes) | **Tue, March 3 → Tue, May 5, 2026** (weekly) | Jon Bernthal | ✅ [complete](series/P5-S1_THE_PUNISHER_WELCOME_BACK_FRANK.md) |
-| S2 | *TBD* | | | |
+| S2 | **Moon Knight** (8 episodes) | **Tue, September 14 → Tue, November 2, 2027** (weekly) | Oscar Isaac | ✅ [complete](series/P5-S2_MOON_KNIGHT.md) |
 
 ---
 
@@ -64,3 +64,30 @@
 - **Character:** **The Hulk** (Amond Baker's third film).
 - **Why:** *World War Hulk* is **the payoff to *Planet Hulk*** and **the downfall of the Illuminati.** When Cap exposes them, the Hulk comes back to judge them, and **the Illuminati are broken** just before the end.
 - **Release date: Friday, November 6, 2026.** Marvel's fall slot.
+
+## PHASE 5 FILM #7: CAPTAIN AMERICA: REBORN
+- **Character:** **Steve Rogers**, with **Bucky Barnes** taking up the shield (Tyrese Avery's fourth Cap film).
+- **Why:** Ed Brubaker's ***The Death of Captain America*** and ***Captain America: Reborn*** follow straight on from his *Winter Soldier*, which the MCU has already adapted. **The man who exposed the Illuminati is shot on the courthouse steps**, and **the gun is Doom's technology**, which sends Steve **outside time** and gives Doom **the data he needs to survive the end of everything.**
+- **Release date: Friday, March 5, 2027**, the week of the **20th anniversary** of *Captain America* #25 (March 7, 2007).
+
+## PHASE 5 FILM #8: IRON MAN: DOOMQUEST
+- **Character:** **Tony Stark** against **Doctor Doom**, one on one, for the first time.
+- **Why:** ***Doomquest*** (*Iron Man* #149–150, 1981) is **the definitive Iron Man vs. Doom story**, and it runs on **Doom's time platform**, which the saga has been seeding since 2013. Tony comes home knowing that **Rabum Alal, the god-doom, is Doom** (Hickman's *New Avengers*, 2015).
+- **Release date: Friday, May 7, 2027.** The first Friday in May, Iron Man's date since 2008.
+
+## PHASE 5 FILM #9: THOR: THE GOD BUTCHER
+- **Character:** **Thor**, three times over (young, present, and old King Thor), against **Gorr** (Christian Bale).
+- **Why:** Jason Aaron's ***God of Thunder*** is **the definitive modern Thor story**, and its subject, **someone murdering the gods**, is the exact shadow of *Time Runs Out*, where **the Beyonders kill the gods of the multiverse.** The post-credit scene is **the death of the Living Tribunal.**
+- **Release date: Friday, July 30, 2027.** High summer.
+
+## PHASE 5 SERIES #2: MOON KNIGHT (Disney+)
+- **Character:** **Marc Spector / Moon Knight.** First appearance: ***Werewolf by Night* #32** (1975).
+- **Why:** the franchise bible **held Moon Knight for the R-rated street-level label** so he'd never be watered down. **Oscar Isaac** is the only real actor to have played him. He's **the avatar of a god**, and **the gods are dying**, so Khonshu's fear brings the end of the world down to street level.
+- **Schedule: 8 episodes, Tuesdays, September 14 to November 2, 2027**, 46–55 minutes each. **TV-MA.**
+
+## PHASE 5 FILM #10: AVENGERS: TIME RUNS OUT (the Phase 5 finale)
+- **Characters:** **the Avengers** (led by Steve Rogers) vs. **the Illuminati** (led by Tony Stark), with **the Cabal**, **the Beyonders** and **Doom**.
+- **Why:** **the phase is named after it.** Hickman's *Avengers* #35–44 and *New Avengers* #24–33 (2015), plus ***Secret Wars* #1**: **Earth-616 and Earth-1610 collide, and everything dies.**
+- **Release date: Friday, December 17, 2027.** In-universe, **the multiverse ends at 11:59 p.m. the night before.**
+- **The final shot of Phase 5:** everything goes **white**, then ***"SECRET WARS."***
+
