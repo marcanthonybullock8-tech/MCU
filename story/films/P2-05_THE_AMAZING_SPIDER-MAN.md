@@ -1,6 +1,6 @@
 # FILM DOSSIER: THE AMAZING SPIDER-MAN
 ### Phase 2 · Film #5 (Saga Film #13)
-### Status: ✅ DOSSIER COMPLETE. ⏳ **Waiting on the showrunner's real-actor casting picks** (see Section 2).
+### Status: ✅ DOSSIER COMPLETE (awaiting showrunner lock)
 
 ---
 
@@ -22,18 +22,16 @@
 ## 2. OWNERSHIP
 | Field | Entry |
 |---|---|
-| **Whose film / franchise is this?** | **Spider-Man's actor** (a real actor, the showrunner's pick). The Spider-Man franchise is his. |
+| **Whose film / franchise is this?** | **TOM HOLLAND.** The Spider-Man franchise is his. |
 
-### Real-actor cast: ⏳ SHOWRUNNER'S PICKS
-*On 616 in 1962, Peter Parker is **15**. **Bold = recommended.** Ages are at release.*
-
-| Character | Options | Notes |
-|---|---|---|
-| **Peter Parker / Spider-Man** | **Tom Holland (17)** · Andrew Garfield (30) · Tobey Maguire (38) | Holland is the closest to 616's teenage Peter |
-| **Aunt May Parker** | **Rosemary Harris (86)** · Sally Field (67) · Marisa Tomei (49) | Harris matches 616's elderly, frail May |
-| **Uncle Ben Parker** | **Martin Sheen (73)** · *(Cliff Robertson died in 2011)* | |
-| **Flash Thompson** | **Joe Manganiello (37)** · Tony Revolori (18) | ⚠️ Manganiello is much older than the teenage Flash. Revolori is the right age but not the 616 jock type. Your call. |
-| **Betty Brant** | **Elizabeth Banks (40)** · Angourie Rice (13) | Banks fits Betty as the *Daily Bugle*'s secretary |
+### Real-actor cast: ✅ LOCKED (showrunner delegated the decision)
+| Character | Actor | Age at release | Why |
+|---|---|---|---|
+| **Peter Parker / Spider-Man** | **Tom Holland** | 17 | The closest to 616's 15-year-old Peter |
+| **Aunt May Parker** | **Rosemary Harris** | 86 | Matches 616's elderly, frail May |
+| **Uncle Ben Parker** | **Martin Sheen** | 73 | The only living option, and a perfect fit |
+| **Flash Thompson** | **Tony Revolori** | 18 | The right age. Flash is still written exactly as on 616: **the star of the football team and Peter's bully.** Revolori plays him as a cocky jock. |
+| **Betty Brant** | **Elizabeth Banks** | 40 | Fits Betty as the *Bugle*'s secretary |
 
 ### Fixed cast (one real actor each, or the fictional ensemble)
 | Character | Actor | Age at release |
@@ -158,4 +156,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ⏳ Real-actor casting picks
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ Real-actor casting locked

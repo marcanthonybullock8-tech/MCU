@@ -1,6 +1,6 @@
 # FILM DOSSIER: SILVER SURFER
 ### Phase 2 · Film #9 (Saga Film #17) · **PHASE 2 FINALE**
-### Status: ✅ DOSSIER COMPLETE. ⏳ **Waiting on the showrunner's Mephisto pick** (see Section 2).
+### Status: ✅ DOSSIER COMPLETE (awaiting showrunner lock)
 
 ---
 
@@ -35,10 +35,10 @@
 | **Adam Warlock** *(post-credit)* | Will Poulter | 22 |
 | **Thanos** | Josh Brolin | 47 |
 | **Death** | Aubrey Plaza | 31 |
-| **Mephisto** *(post-credit)* | ⏳ **Showrunner's pick:** **Ciarán Hinds (62)** · Peter Fonda (75) | – |
+| **Mephisto** *(post-credit)* | **Ciarán Hinds** *(✅ locked; plays Mephisto for the whole saga)* | 62 |
 | **Stan Lee** *(cameo: a man on a rooftop who shouts "Surf's up!")* | Stan Lee | 92 |
 
-*Mephisto note: Peter Fonda (as Mephistopheles, 2007) and Ciarán Hinds (as Roarke, 2011) have both played Marvel's Mephisto. **Hinds is recommended** because his version is the closer match to 616's Mephisto.*
+*Mephisto note: Peter Fonda (as Mephistopheles, 2007) and Ciarán Hinds (as Roarke, 2011) have both played Marvel's Mephisto. **Hinds was chosen** because his version is the closer match to 616's Mephisto, and he's young enough to carry the role through Phase 3.*
 
 ---
 
@@ -155,4 +155,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ FF cast · ⏳ Mephisto casting pick
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ FF cast · ✅ Mephisto cast

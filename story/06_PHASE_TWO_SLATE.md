@@ -7,7 +7,7 @@
 | 2 | **Thor: Stormbreaker** | **Friday, July 26, 2013** | Esther Smilley | ✅ [complete](films/P2-02_THOR_STORMBREAKER.md) |
 | 3 | **Fantastic Four** | **Friday, November 8, 2013** | The FF ensemble: Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach | ✅ [complete](films/P2-03_FANTASTIC_FOUR.md) |
 | 4 | **Captain America: The Winter Soldier** | **Friday, April 4, 2014** | Tyrese Avery | ✅ [complete](films/P2-04_CAPTAIN_AMERICA_THE_WINTER_SOLDIER.md) |
-| 5 | **The Amazing Spider-Man** | **Friday, May 2, 2014** | Spider-Man's actor (real actor, the showrunner's pick ⏳) | ✅ [complete](films/P2-05_THE_AMAZING_SPIDER-MAN.md) |
+| 5 | **The Amazing Spider-Man** | **Friday, May 2, 2014** | Tom Holland | ✅ [complete](films/P2-05_THE_AMAZING_SPIDER-MAN.md) |
 | 6 | **Guardians of the Galaxy** | **Friday, August 1, 2014** | The Guardians ensemble (Chris Pratt leads) | ✅ [complete](films/P2-06_GUARDIANS_OF_THE_GALAXY.md) |
 | 7 | **Avengers: Ultron Unlimited** | **Friday, May 1, 2015** | The ensemble (Tyrese Avery's Cap leads) | ✅ [complete](films/P2-07_AVENGERS_ULTRON_UNLIMITED.md) |
 | 8 | **Ant-Man and the Wasp: Yellowjacket** | **Friday, July 17, 2015** | Tyler Chapman (Elxa Bullock co-lead) | ✅ [complete](films/P2-08_ANT-MAN_AND_THE_WASP_YELLOWJACKET.md) |
