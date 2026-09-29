@@ -25,6 +25,8 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #15: Avengers: Ultron Unlimited](story/films/P2-07_AVENGERS_ULTRON_UNLIMITED.md)
   - [Film #16: Ant-Man and the Wasp: Yellowjacket](story/films/P2-08_ANT-MAN_AND_THE_WASP_YELLOWJACKET.md)
   - [Film #17: Silver Surfer](story/films/P2-09_SILVER_SURFER.md)
+- [Phase 3 Slate](story/07_PHASE_THREE_SLATE.md)
+  - [Film #18: Captain America: Civil War](story/films/P3-01_CAPTAIN_AMERICA_CIVIL_WAR.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
