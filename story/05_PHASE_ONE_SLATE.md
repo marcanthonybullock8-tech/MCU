@@ -9,7 +9,7 @@
 | 4 | **Ant-Man** *(with the Wasp; final title set in the dossier)* | **Friday, November 6, 2009** | Tyler Chapman 🔒 (Elxa Bullock co-lead 🔒) | ⏳ pending |
 | 5 | **Iron Man 2** | **Friday, May 7, 2010** | Marc-Anthony Bullock | ⏳ pending |
 | 6 | **Captain America** | **Friday, July 22, 2011** | Tyrese Avery 🔒 | ⏳ pending |
-| 7 | *TBD* | | | |
+| 7 | **X-Men** | **Friday, November 4, 2011** | The X-Men ensemble (real actors, showrunner's picks) · Grace Bullock 🔒 as the Scarlet Witch | ⏳ pending |
 | 8 | *TBD* | | | |
 
 ---
@@ -52,6 +52,17 @@
   3. **It sets up the Big Bad accurately to the comics.** The Red Skull's **Cosmic Cube** is the prize **Thanos went after first** in ***Captain Marvel* #27–33** (1973), before he ever went for the Gems. The Cube shows up in the Skull's hands in 1945, and Thanos will come for it.
 - **Release date: Friday, July 22, 2011.** It's the heart of summer, three weeks after Independence Day, and clear of *Transformers: Dark of the Moon* (June 29). Paramount distributes both films and wouldn't put them head to head. It also comes a week after the final *Harry Potter* (July 15), once that film's opening surge has passed.
 
+## FILM #7: X-MEN
+- **Characters:** the original X-Men: **Professor Charles Xavier** and his first students **Cyclops, Marvel Girl (Jean Grey), the Beast, Iceman and the Angel.** They face **Magneto** and the **Brotherhood of Evil Mutants**, including **the Scarlet Witch and Quicksilver.**
+- **Comics:** ***The X-Men* #1** (September 1963), Stan Lee & Jack Kirby. The Brotherhood, with Wanda and Pietro, first appears in ***X-Men* #4** (March 1964).
+- **Why seventh:**
+  1. **It's the Avengers' twin launch.** *The X-Men* #1 and *The Avengers* #1 both carry a **September 1963** cover date, from the same creators in the same month. Putting X-Men right before *The Avengers* matches how the comics started.
+  2. **We own them, and nobody gets left out.** In our reality no other studio has ever made an X-Men film. This is the world's first look at mutants, the X-gene and the dream of Charles Xavier.
+  3. **It brings in the Scarlet Witch the 616 way.** Wanda (Grace Bullock) and her brother Pietro debut as **reluctant members of Magneto's Brotherhood**. As of 2011 on 616, **Magneto is their father.** They leave him and reform, which sets up **"Cap's Kooky Quartet"** (*Avengers* #16) for Phase 2.
+  4. **It makes the world bigger.** After technology, gamma, gods, size-changing science and a super-soldier, the last kind of hero is **born, not made.** Mutants give the Avengers a world they share with a feared minority, and Marvel's biggest social theme.
+- **Release date: Friday, November 4, 2011.** It opens the holiday corridor again, fifteen weeks after *Captain America*. The competition is *Tower Heist* (the same day), and it comes two weeks ahead of *The Twilight Saga: Breaking Dawn – Part 1* (November 18).
+- **Casting note:** under the Casting Rules, the X-Men and Magneto are played by **real actors, and the showrunner picks** where more than one real actor played a role. Quicksilver is a showrunner's pick too. **Grace Bullock (Wanda) must be unlocked** before casting in 2010.
+
 ---
 ### Phase 1 so far: the founders come first
-By *Iron Man 2*, **four of the five founding Avengers** (Iron Man, Hulk, Thor, Ant-Man) plus the Wasp have been introduced. Slot #6 is **Captain America**, whom the Avengers find frozen in the ice as in 616. Slot #7 is still open, and **The Avengers** is Film #8 (2012).
+By *Iron Man 2*, **four of the five founding Avengers** (Iron Man, Hulk, Thor, Ant-Man) plus the Wasp have been introduced. Slot #6 is **Captain America**, whom the Avengers find frozen in the ice as in 616. Slot #7 is **X-Men**, the Avengers' twin launch from September 1963, and **The Avengers** is Film #8 (2012).
