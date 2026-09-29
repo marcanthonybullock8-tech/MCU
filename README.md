@@ -49,6 +49,9 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Series: Ms. Marvel (Disney+)](story/series/P4-S1_MS_MARVEL.md)
   - [Film #35: Thor: The Halls of Hel](story/films/P4-06_THOR_THE_HALLS_OF_HEL.md)
   - [Film #36: Black Panther: Doomwar](story/films/P4-07_BLACK_PANTHER_DOOMWAR.md)
+  - [Series: Daredevil: Born Again (Disney+)](story/series/P4-S2_DAREDEVIL_BORN_AGAIN.md)
+  - [Film #37: Eternals](story/films/P4-08_ETERNALS.md)
+  - [Film #38: Fantastic Four: Solve Everything](story/films/P4-09_FANTASTIC_FOUR_SOLVE_EVERYTHING.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs

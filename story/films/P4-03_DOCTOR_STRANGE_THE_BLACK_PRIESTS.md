@@ -71,7 +71,7 @@
 | Character | 616 powers & abilities | Shown in this film | Held back (why) | Match |
 |---|---|---|---|---|
 | **Doctor Strange (dark power)** | Sorcerer Supreme; **forbidden black magic** from the bargain | **Destroys an entire Earth**, and holds off the Great Society alone | – | ✅ 100% |
-| **The Great Society** | The Sun God (solar power, Superman-level); a Batman-type strategist; and the rest | They fight the Illuminati to a draw | – | ✅ 100% |
+| **The Great Society** | The Sun God (planet-level solar power); a Batman-type strategist; and the rest | They fight the Illuminati to a draw | – | ✅ 100% |
 | **Black Bolt** | **His voice**: a whisper can level a city; flight; energy manipulation | **Speaks one word** to stop the Sun God | – | ✅ 100% |
 | **The Black Priests** | **Masters of dark magic** from the dimension of the bargain | Hunt Strange | – | ✅ 100% |
 

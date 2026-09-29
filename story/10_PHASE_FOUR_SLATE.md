@@ -1,6 +1,6 @@
 # PHASE 4 SLATE (2021–2024): 9 FILMS + 2 DISNEY+ SERIES
 ### The Secret Wars Saga, Part One: **"Everything Dies"**
-### Status: being built. Dossiers are written automatically as each title is added.
+### Status: ✅ **All 9 films and 2 series are filled.**
 
 ## FILMS (the main story)
 | # | Title | Release date | Owner | Dossier |
@@ -12,14 +12,14 @@
 | 5 | **Spider-Man: Kraven's Last Hunt** | **Friday, December 16, 2022** | Tom Holland | ✅ [complete](films/P4-05_SPIDER-MAN_KRAVENS_LAST_HUNT.md) |
 | 6 | **Thor: The Halls of Hel** | **Friday, May 5, 2023** | Esther Smilley | ✅ [complete](films/P4-06_THOR_THE_HALLS_OF_HEL.md) |
 | 7 | **Black Panther: Doomwar** | **Friday, November 3, 2023** | Letitia Wright | ✅ [complete](films/P4-07_BLACK_PANTHER_DOOMWAR.md) |
-| 8 | *TBD* | | | |
-| 9 | *TBD* | | | |
+| 8 | **Eternals** | **Friday, May 3, 2024** | The Eternals ensemble (Richard Madden & Gemma Chan lead) | ✅ [complete](films/P4-08_ETERNALS.md) ⏳ 3 casting decisions |
+| 9 | **Fantastic Four: Solve Everything** | **Friday, November 1, 2024** | The FF ensemble (Pedro Pascal leads) | ✅ [complete](films/P4-09_FANTASTIC_FOUR_SOLVE_EVERYTHING.md) |
 
 ## DISNEY+ SERIES (limit: 2 this phase)
 | # | Title | Premiere | Owner | Dossier |
 |---|---|---|---|---|
 | S1 | **Ms. Marvel** (8 episodes) | **Wed, June 7 → Wed, July 26, 2023** (weekly) | Iman Vellani | ✅ [complete](series/P4-S1_MS_MARVEL.md) |
-| S2 | *TBD* | | | |
+| S2 | **Daredevil: Born Again** (9 episodes) | **Wed, March 6 → Wed, May 1, 2024** (weekly) | Charlie Cox | ✅ [complete](series/P4-S2_DAREDEVIL_BORN_AGAIN.md) |
 
 ---
 
@@ -69,3 +69,25 @@
 ## PHASE 4 FILM #7: BLACK PANTHER: DOOMWAR
 - **Release date: Friday, November 3, 2023.** Marvel's fall slot.
 - **Comics:** ***Doomwar*** (2010) and Shuri's *Black Panther* vol. 5 (2009). **Doom invades Wakanda**, and **Shuri makes Wakanda's vibranium inert** to stop him.
+
+## PHASE 4 SERIES #2: DAREDEVIL: BORN AGAIN (Disney+)
+- **Character:** **Matt Murdock / Daredevil.** First appearance: ***Daredevil* #1** (April 1964), Stan Lee & Bill Everett.
+- **Why he's the second series:**
+  1. **"Born Again" (1986) is one of the greatest Marvel stories ever told**, and it's **built for long-form television.**
+  2. It **launches the Bible's R-rated street-level label** (**TV-MA**), so street heroes are **never watered down.**
+  3. It brings **Cap down to street level**, where he starts seeing what the heroes at the top are hiding.
+- **Schedule: 9 episodes, Wednesdays, March 6 to May 1, 2024**, 52–60 minutes each.
+
+## PHASE 4 FILM #8: ETERNALS
+- **Characters:** **The Eternals.** First appearance: ***The Eternals* #1** (July 1976), Jack Kirby.
+- **Why eighth:**
+  1. **The Celestials** are the cosmic engineers the **Beyonders slaughter** on 616 (*Time Runs Out*). The audience has to **meet them before they die.**
+  2. **Thanos is an Eternal of Titan**, and this film brings in his brother **Eros (Starfox)** and **reawakens Thanos's story.**
+  3. It's **Jack Kirby's** great cosmic epic.
+- **Release date: Friday, May 3, 2024.** The first Friday in May.
+- **⏳ Casting:** Ajak, Makkari and Sprite are **male on 616**, and the only real actors to have played them are women. **Showrunner decision needed.**
+
+## PHASE 4 FILM #9: FANTASTIC FOUR: SOLVE EVERYTHING (Phase 4 finale)
+- **Characters:** **The Fantastic Four**, with **Franklin and Valeria**, and **Doom as an ally.**
+- **Why they end Phase 4:** on 616, **Hickman's *Fantastic Four* is the foundation of *Secret Wars***. **The Council of Reeds** shows the audience the **multiverse** and that **every universe is dying.** **Johnny's death** gives the phase an emotional ending. The **post-credit scene**, **Cap remembering**, starts ***Time Runs Out.***
+- **Release date: Friday, November 1, 2024.** Marvel's fall slot.
