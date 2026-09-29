@@ -57,7 +57,7 @@ real = sorted(A.tally(A.REAL), key=lambda x: (-len(x[1]), x[0]))
 
 out = ["# SAGA APPEARANCES: EVERY ACTOR, EVERY FILM",
        f"### Every MCU film so far: {len(A.films)} films, {len({p for p, _, _ in A.films})} phases",
-       "*Generated from the cast sections of the 29 film dossiers (`tools/build_appearances_doc.py`). Voice roles, cameos, and mid- and post-credit appearances all count.*",
+       f"*Generated from the cast sections of the {len(A.films)} film dossiers (`tools/build_appearances_doc.py`). Voice roles, cameos, and mid- and post-credit appearances all count.*",
        "", "---", "", "## FILM KEY", "| # | Film | Phase |", "|---|---|---|"]
 def nice(t):
     w = t.title().split(" ")

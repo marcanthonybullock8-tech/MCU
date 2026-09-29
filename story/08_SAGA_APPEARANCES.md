@@ -1,6 +1,6 @@
 # SAGA APPEARANCES: EVERY ACTOR, EVERY FILM
 ### Every MCU film so far: 30 films, 4 phases
-*Generated from the cast sections of the 29 film dossiers (`tools/build_appearances_doc.py`). Voice roles, cameos, and mid- and post-credit appearances all count.*
+*Generated from the cast sections of the 30 film dossiers (`tools/build_appearances_doc.py`). Voice roles, cameos, and mid- and post-credit appearances all count.*
 
 ---
 
