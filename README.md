@@ -17,6 +17,9 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #8: The Avengers](story/films/P1-08_THE_AVENGERS.md)
 - [Phase 2 Slate](story/06_PHASE_TWO_SLATE.md)
   - [Film #9: Iron Man 3](story/films/P2-01_IRON_MAN_3.md)
+  - [Film #10: Thor: Stormbreaker](story/films/P2-02_THOR_STORMBREAKER.md)
+  - [Film #11: Fantastic Four](story/films/P2-03_FANTASTIC_FOUR.md)
+  - [Film #12: Captain America: The Winter Soldier](story/films/P2-04_CAPTAIN_AMERICA_THE_WINTER_SOLDIER.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
