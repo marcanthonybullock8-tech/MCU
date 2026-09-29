@@ -65,6 +65,10 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #47: Thor: The God Butcher](story/films/P5-09_THOR_THE_GOD_BUTCHER.md)
   - [Series: Moon Knight (Disney+)](story/series/P5-S2_MOON_KNIGHT.md)
   - [Film #48: Avengers: Time Runs Out (Phase 5 finale)](story/films/P5-10_AVENGERS_TIME_RUNS_OUT.md)
+- [Phase 6 Slate](story/12_PHASE_SIX_SLATE.md)
+  - [Film #49: Old Man Logan](story/films/P6-01_OLD_MAN_LOGAN.md)
+  - [Film #50: Spider-Man: Renew Your Vows](story/films/P6-02_SPIDER-MAN_RENEW_YOUR_VOWS.md)
+  - [Series: Ghost Racers (Disney+)](story/series/P6-S1_GHOST_RACERS.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
