@@ -1,6 +1,6 @@
 # FILM DOSSIER: NAMOR THE SUB-MARINER
 ### Phase 4 · Film #2 (Saga Two, Film #2 · Overall Film #31)
-### Status: ✅ DOSSIER COMPLETE. ⏳ **One showrunner decision needed** (T'Challa; see Section 2).
+### Status: ✅ DOSSIER COMPLETE (awaiting showrunner lock)
 
 ---
 
@@ -36,7 +36,7 @@
 | **Okoye** *(post-credit)* | Danai Gurira | 43 |
 | **Doctor Doom** *(cameo)* | Robert Downey Jr. | 56 |
 
-*⚠️ **Real history (locked): Chadwick Boseman died on August 28, 2020.** Under the rule that real history is fixed, he died in our reality too, and nobody else has played T'Challa. **Showrunner decision:** (a) **honor him.** T'Challa dies in the MCU (off-screen, of illness, between films), and **Shuri becomes Black Panther**, as she did on 616 in *Black Panther* vol. 5 (2009); or (b) recast T'Challa. **This film is written for option (a), which is the recommendation.** The whole MCU, and the mockumentary, would honor him.*
+*⚠️ **Real history (locked): Chadwick Boseman died on August 28, 2020.** Under the rule that real history is fixed, he died in our reality too, and nobody else has played T'Challa. **Showrunner decision:** (a) **honor him.** T'Challa dies in the MCU (off-screen, of illness, between films), and **Shuri becomes Black Panther**, as she did on 616 in *Black Panther* vol. 5 (2009); or (b) recast T'Challa. ✅ **Locked by the showrunner: option (a).** T'Challa died in the MCU in **2020, off-screen, of illness.** **Shuri is Black Panther** and takes **her brother's seat among the Illuminati.** The whole MCU, and the mockumentary, honor Chadwick Boseman.*
 
 *A tribute to Stan Lee: a **mural in the Atlantean throne room** honors "the first Marvel hero," with Bill Everett's and Stan Lee's names carved beneath it.*
 
@@ -147,4 +147,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ⏳ T'Challa decision
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ T'Challa decision (option a)

@@ -36,4 +36,4 @@
 - **Character:** Namor McKenzie, the Sub-Mariner. First appearance: ***Marvel Comics* #1** (October 1939), Bill Everett. He's **the first Marvel superhero ever published**, older than Captain America.
 - **Why second:** **Namor is at the center of Hickman's saga.** He's the Illuminati member who **agrees to destroy other Earths** and **founds the Cabal** with Doom's knowledge. His grief and pride have to be established **before** the Incursions start. His film ends with **the first Incursion over Wakanda.**
 - **Release date: Friday, November 5, 2021.** Marvel's fall slot. Theaters have mostly recovered by now, so this is a **theatrical-exclusive release** with a 45-day window before Disney+.
-- **⚠️ Real history:** Chadwick Boseman died on August 28, 2020. The film is written so that **Shuri is Black Panther**, as she became on 616. The showrunner has to confirm.
+- **⚠️ Real history:** Chadwick Boseman died on August 28, 2020. ✅ **Locked:** T'Challa died in the MCU in 2020, off-screen, of illness. **Shuri (Letitia Wright) is Black Panther**, as on 616, and holds Wakanda's seat among the Illuminati.

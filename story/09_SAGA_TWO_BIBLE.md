@@ -44,6 +44,7 @@
 - **The Beyonders**, beings from beyond the multiverse, are **deliberately destroying it** (*Avengers*/*New Avengers*, 2015).
 - **The Molecule Man** (Owen Reece) is **the bomb they planted in every universe**, and **Doom's key to beating them** (*Secret Wars*, 2015).
 - **The Illuminati have to decide which worlds die**, and that drives them apart. **Black Panther** vs. **Namor.** **Cap** vs. **Tony.**
+- **In memory of Chadwick Boseman (1976–2020):** under the real-history rule, **T'Challa died in the MCU in 2020, off-screen, of illness.** **Shuri (Letitia Wright) is Black Panther** (616: *Black Panther* vol. 5, 2009) and takes **Wakanda's seat among the Illuminati.** The role Hickman wrote for T'Challa is hers.
 
 ---
 
