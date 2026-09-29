@@ -33,13 +33,13 @@ ROLES = {
  "Frank Grillo":"Crossbones","Martin Sheen":"Uncle Ben","Alfred Molina":"Doctor Octopus","Laura Harrier":"Liz Allan",
  "James Spader":"Ultron","Jeff Goldblum":"The Grandmaster","Walton Goggins":"The Ringmaster","Paul Rudd":"Scott Lang",
  "Julia Garner":"Shalla-Bal","Jon Bernthal":"The Punisher","Michael B. Jordan":"Killmonger","Lupita Nyong'o":"Nakia",
- "Danai Gurira":"Okoye","Letitia Wright":"Shuri","Angela Bassett":"Ramonda","Forest Whitaker":"Zuri","Daniel Kaluuya":"W'Kabi",
+ "Danai Gurira":"Okoye","Angela Bassett":"Ramonda","Forest Whitaker":"Zuri","Daniel Kaluuya":"W'Kabi",
  "Winston Duke":"M'Baku","John Kani":"T'Chaka","Chiwetel Ejiofor":"Baron Mordo","Tilda Swinton":"The Ancient One",
  "Charlize Theron":"Clea","Liam Neeson":"J'son","Michael Rooker":"Yondu","Sylvester Stallone":"Starhawk","Tao Okamoto":"Mariko Yashida",
  "Hiroyuki Sanada":"Shingen Yashida","Rila Fukushima":"Yukio","Clancy Brown":"Surtur","Karl Urban":"Skurge","Cate Blanchett":"Hela",
  "Taika Waititi":"Korg","Lashana Lynch":"Caiera","Mark Strong":"The Red King","Anson Mount":"Black Bolt","Chris Evans":"Mar-Vell",
  "Annette Bening":"Supreme Intelligence","Jude Law":"Yon-Rogg","Willem Dafoe":"Norman Osborn / Green Goblin","Emma Stone":"Gwen Stacy",
- "Dane DeHaan":"Harry Osborn","Denis Leary":"Capt. George Stacy","Zendaya":"Mary Jane Watson","Caleb Landry Jones":"Banshee","Blair Redford":"Thunderbird","Alexandra Shipp":"Storm","Daniel Cudmore":"Colossus","Kodi Smit-McPhee":"Nightcrawler",
+ "Dane DeHaan":"Harry Osborn","Denis Leary":"Capt. George Stacy","Zendaya":"Mary Jane Watson","Caleb Landry Jones":"Banshee","Blair Redford":"Thunderbird","Alexandra Shipp":"Storm","Daniel Cudmore":"Colossus","Kodi Smit-McPhee":"Nightcrawler","Ana de Armas":"Lady Dorma","Djimon Hounsou":"Attuma","Eva Green":"Llyra","Letitia Wright":"Shuri / Black Panther",
 }
 
 nums = {t: i + 1 for i, (_, t, _) in enumerate(A.films)}

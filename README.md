@@ -42,6 +42,7 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
 - [Saga Two Bible: The Secret Wars Saga](story/09_SAGA_TWO_BIBLE.md): Phases 4–6, Doctor Doom
 - [Phase 4 Slate](story/10_PHASE_FOUR_SLATE.md)
   - [Film #30: X-Men: Second Genesis](story/films/P4-01_X-MEN_SECOND_GENESIS.md)
+  - [Film #31: Namor the Sub-Mariner](story/films/P4-02_NAMOR_THE_SUB-MARINER.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
