@@ -43,6 +43,7 @@
 | **The Toad (Mortimer Toynbee)** | **Ray Park** | 37 |
 | **Mastermind (Jason Wyngarde)** | Fresh casting *(never played by a real actor)* | – |
 | **Dr. Bolivar Trask** | **Peter Dinklage** | 42 |
+| **Agent Jasper Sitwell** *(cameo)* | Maximiliano Hernández | 37 |
 | **Stan Lee** *(cameo: a man watering his lawn as the Blackbird passes overhead)* | Stan Lee | 88 |
 
 *Casting notes: Stewart and McKellen play 616's middle-aged teacher and his oldest friend. For McKellen's Magneto, the "de-aged, physically prime" 616 detail becomes **a man in his 70s with the strength of someone half his age**, since magnetism makes the body irrelevant. Sheridan and Turner are **true teenagers**, as the 1963 X-Men were. They're filmed under child-labor rules, with the Danger Room and fight sequences built around them.*

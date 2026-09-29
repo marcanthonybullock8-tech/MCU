@@ -39,6 +39,9 @@
 | **Loki** | Tom Hiddleston | 32 |
 | **Nick Fury** | Samuel L. Jackson | 64 |
 | **Taneleer Tivan, the Collector** *(post-credit)* | Benicio del Toro | 46 |
+| **Thanos** *(post-credit, voice only)* | Josh Brolin | 45 |
+| **The Wasp / Giant-Man** *(cameo, frozen Manhattan)* | **Elxa Bullock** / **Tyler Chapman** | 32 / 31 |
+| **Tony Stark** *(cameo, tracking Bill's ship)* | **Marc-Anthony Bullock** | 31 |
 | **Stan Lee** *(cameo: a New Yorker shoveling snow in July)* | Stan Lee | 90 |
 
 ---

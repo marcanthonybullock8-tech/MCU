@@ -38,6 +38,7 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #27: Warlock](story/films/P3-10_WARLOCK.md)
   - [Film #28: Avengers Forever](story/films/P3-11_AVENGERS_FOREVER.md)
   - [Film #29: The Amazing Spider-Man 2](story/films/P3-12_THE_AMAZING_SPIDER-MAN_2.md)
+- [Saga Appearances](story/08_SAGA_APPEARANCES.md): every actor's film and phase count
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs

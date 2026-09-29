@@ -32,6 +32,7 @@
 | **Pip the Troll** | Danny DeVito *(fresh casting: never played by a real actor)* | 74 |
 | **The Silver Surfer** | Doug Jones / Laurence Fishburne | 58 / 57 |
 | **Thanos** | Josh Brolin | 51 |
+| **Captain America / Iron Man / Thor** *(final scene, 2023)* | **Tyrese Avery** / **Marc-Anthony Bullock** / **Esther Smilley** | 37 / 37 / 36 |
 | **Mistress Death** | Aubrey Plaza | 34 |
 | **Stan Lee** *(cameo, filmed in 2018: a soul in the Soul World who says "It's not so bad in here!")* | Stan Lee (1922–2018) | – |
 

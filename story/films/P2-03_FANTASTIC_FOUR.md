@@ -35,6 +35,8 @@
 | **Alicia Masters** | **Kerry Washington** | 36 |
 | **Harvey Elder / the Mole Man** | **Paul Walter Hauser** | 27 |
 | **Uatu the Watcher** | **Jeffrey Wright** | 47 |
+| **Namor** *(cameo, watching Sue from the harbor)* | Tenoch Huerta | 32 |
+| **Captain America** *(voice cameo, the congratulations call)* | **Tyrese Avery** | 32 |
 
 *In our reality Robert Downey Jr. never played Tony Stark, so Doctor Doom is his signature Marvel role.*
 
