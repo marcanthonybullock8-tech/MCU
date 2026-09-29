@@ -39,7 +39,7 @@ ROLES = {
  "Hiroyuki Sanada":"Shingen Yashida","Rila Fukushima":"Yukio","Clancy Brown":"Surtur","Karl Urban":"Skurge","Cate Blanchett":"Hela",
  "Taika Waititi":"Korg","Lashana Lynch":"Caiera","Mark Strong":"The Red King","Anson Mount":"Black Bolt","Chris Evans":"Mar-Vell",
  "Annette Bening":"Supreme Intelligence","Jude Law":"Yon-Rogg","Willem Dafoe":"Norman Osborn / Green Goblin","Emma Stone":"Gwen Stacy",
- "Dane DeHaan":"Harry Osborn","Denis Leary":"Capt. George Stacy","Zendaya":"Mary Jane Watson","Caleb Landry Jones":"Banshee","Blair Redford":"Thunderbird","Alexandra Shipp":"Storm","Daniel Cudmore":"Colossus","Kodi Smit-McPhee":"Nightcrawler","Ana de Armas":"Lady Dorma","Djimon Hounsou":"Attuma","Eva Green":"Llyra","Letitia Wright":"Shuri / Black Panther",
+ "Dane DeHaan":"Harry Osborn","Denis Leary":"Capt. George Stacy","Zendaya":"Mary Jane Watson","Caleb Landry Jones":"Banshee","Blair Redford":"Thunderbird","Alexandra Shipp":"Storm","Daniel Cudmore":"Colossus","Kodi Smit-McPhee":"Nightcrawler","Ana de Armas":"Lady Dorma","Djimon Hounsou":"Attuma","Eva Green":"Llyra","Serinda Swan":"Medusa","Iwan Rheon":"Maximus","Ken Leung":"Karnak","Eme Ikwuakor":"Gorgon","Isabelle Cornish":"Crystal","Mike Moh":"Triton","Aaron Taylor-Johnson":"Kraven the Hunter","Letitia Wright":"Shuri / Black Panther",
 }
 
 nums = {t: i + 1 for i, (_, t, _) in enumerate(A.films)}
