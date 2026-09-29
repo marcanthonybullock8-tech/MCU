@@ -15,6 +15,8 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #6: Captain America](story/films/P1-06_CAPTAIN_AMERICA.md)
   - [Film #7: X-Men](story/films/P1-07_X-MEN.md)
   - [Film #8: The Avengers](story/films/P1-08_THE_AVENGERS.md)
+- [Phase 2 Slate](story/06_PHASE_TWO_SLATE.md)
+  - [Film #9: Iron Man 3](story/films/P2-01_IRON_MAN_3.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
