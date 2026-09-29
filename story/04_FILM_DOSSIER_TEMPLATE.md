@@ -34,6 +34,27 @@
 | **616 accuracy notes** | *(what's taken straight from the page, and how any sliding-timescale update is justified)* |
 | **Nerf check** | *(confirm that every hero and villain is shown at comic-accurate power levels)* |
 
+### 3A. COMIC ACCURACY REPORT (required)
+| Field | Entry |
+|---|---|
+| **Overall accuracy score** | *(a percentage, e.g. 98%, with one line explaining it)* |
+| **Straight from the page** | *(origins, costumes, dialogue, key scenes and relationships taken directly from 616)* |
+| **Changes and why** | *(every change, however small, and the reason. Sliding-timescale updates count as changes.)* |
+
+#### POWERS & ABILITIES: CHARACTER BY CHARACTER
+*(fill in one row for **every** powered or skilled character in the film, heroes and villains alike)*
+
+| Character | 616 powers & abilities (source issue) | Shown in this film | Held back for a later film (and why) | Power-level match |
+|---|---|---|---|---|
+| | *(full list, e.g. strength class, durability, speed, energy projection, skills, gear)* | *(what we actually see on screen)* | *(anything not shown yet; the reason can be story timing, but never a nerf)* | ✅ 100% / ⚠️ explain |
+
+**Power rules for every film:**
+1. **Strength, speed and durability match the 616 page.** If the Hulk can lift a mountain in the comics, he can lift a mountain on screen.
+2. **Characters grow into their powers only when the comics do it that way.** If the comic origin shows a power right away, the film shows it right away.
+3. **Nobody loses to make someone else look good.** Every loss comes from strategy, circumstance or a real mismatch, never from a character being written weaker.
+4. **Weaknesses are comic-accurate too.** Kryptonite-style shortcuts that aren't in the comics are banned.
+5. **The costume and the tech match the page**, adapted for real-world practicality only when a practical build requires it, and that change gets listed above.
+
 ### 4. STORY
 | Field | Entry |
 |---|---|
@@ -75,6 +96,7 @@
 
 ## CHECKLIST (all must be ✅ before a film is locked)
 - [ ] Comic(s) adapted
+- [ ] Comic Accuracy Report, including powers for every character
 - [ ] Real title and decoy title
 - [ ] What the movie is about
 - [ ] Villain / antagonist
