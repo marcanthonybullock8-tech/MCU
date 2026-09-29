@@ -9,7 +9,7 @@
 | Amond Baker | Bruce Banner / Hulk | *The Incredible Hulk* (June 13, 2008) | Thursday, Apr 12, 2007 |
 | Esther Smilley | Thor | *Thor* (May 1, 2009) | **Tuesday, May 13, 2008**, eleven days after *Iron Man* opens |
 | Tyler Chapman & Elxa Bullock | Hank Pym / Ant-Man & Janet van Dyne / Wasp | *Ant-Man* (Nov 6, 2009); **Elxa's first appearance is the gala cameo in *Iron Man*** | **Saturday, July 26, 2008**, Marvel's Hall H panel at San Diego Comic-Con |
-| Harmony Divine & Arianna Cummings | Black Widow & Claire Barton / Hawkeye | *Iron Man 2* (May 7, 2010) *(recommended; confirmed in the IM2 dossier)*. On 616 both debut as Iron Man antagonists: the Widow in *Tales of Suspense* #52, and Hawkeye, tricked by the Widow, in #57. | **Tuesday, March 10, 2009** |
+| Harmony Divine & Arianna Cummings | Black Widow & Claire Barton / Hawkeye | *Iron Man 2* (May 7, 2010) *(✅ confirmed)*. On 616 both debut as Iron Man antagonists: the Widow in *Tales of Suspense* #52, and Hawkeye, tricked by the Widow, in #57. | **Tuesday, March 10, 2009** |
 | Tyrese Avery | Steve Rogers / Captain America | *Captain America* (July 22, 2011) | **Tuesday, March 23, 2010** |
 | Grace Bullock | Wanda Maximoff / Scarlet Witch | *X-Men* (Nov 4, 2011) | **Saturday, July 24, 2010**, San Diego Comic-Con |
 
@@ -26,7 +26,8 @@
 2. **Every other Marvel character is played by the real-life actor who played them.** Samuel L. Jackson is Nick Fury (the one exception to the 616 rule on casting).
 3. **When more than one real actor played a role, the most iconic or longest-serving one gets it for the whole saga, and nobody is recast mid-saga.** Examples: **Don Cheadle** as James "Rhodey" Rhodes, **William Hurt** as Thunderbolt Ross, **Jon Favreau** as Happy Hogan, **Jeff Bridges** as Obadiah Stane.
 4. **Characters whose real-life portrayals came from films that don't exist in our reality** (Fox's X-Men and Fantastic Four, Sony's Spider-Man, and similar): **real actors play them, and the showrunner picks which actor when there was more than one.** They come in as each character enters the story.
-5. Even with real actors, **every character is still 100% Earth-616 and nobody is nerfed.** The actor is the only thing that comes from real life.
+5. **Showrunner picks (locked):** **Josh Brolin** is **Thanos**. The **X-Men** are Patrick Stewart (Xavier), Ian McKellen (Magneto), Tye Sheridan (Cyclops), Sophie Turner (Jean Grey), Nicholas Hoult (Beast), Shawn Ashmore (Iceman), Ben Hardy (Angel), Evan Peters (Quicksilver), Ray Park (Toad) and Peter Dinklage (Bolivar Trask).
+6. Even with real actors, **every character is still 100% Earth-616 and nobody is nerfed.** The actor is the only thing that comes from real life.
 
 ---
 

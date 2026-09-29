@@ -59,14 +59,15 @@
 - **Odin created the mortal Dr. Blake** so his proud, reckless heir would learn humility (*Thor* #159).
 - **Loki is imprisoned inside a tree** by Odin's magic, and escapes when **a single leaf falls** (*JiM* #85). This is the Silver Age detail, taken straight from the page.
 - **Loki is Laufey's son**, a Frost Giant child that Odin adopted (*JiM* #112–113).
-- **Jane Foster** is Dr. Blake's devoted nurse (*JiM* #84).
+- **Jane Foster** is Dr. Blake's devoted nurse (*JiM* #84), and **the love of Thor's life.** The Silver Age's central romance is kept as it was on 616, along with **Odin's disapproval** of his heir loving a mortal (*JiM* #88 on).
 - **Sif, the Warriors Three and Heimdall** guard the **Bifrost**, the Rainbow Bridge.
 - At the end, **Loki is exiled to the Isle of Silence**, which is exactly where he's plotting in the first panel of ***Avengers* #1.**
 
 **Changes and why:**
 | Change | Why |
 |---|---|
-| **Dr. Donald Blake** becomes **Dr. Donna Blake** | Thor has always been female in our universe, and the mortal identity follows. It's the only change that requires. |
+| **Dr. Donald Blake** becomes **Dr. Donna Blake** *(✅ locked by the showrunner)* | Thor has always been female in our universe, and the mortal identity follows. It's the only change that requires. |
+| **Thor & Jane Foster romance** *(✅ locked)* | Unchanged from 616. It stays the heart of the franchise, including Odin's disapproval. |
 | Thor's first battle with the Stone Men and her first fight with Loki (#83 and #85) happen in one film | Runtime |
 | Loki's heritage reveal (1965) moves into the first film | It gives Loki his motive from the start |
 
@@ -99,7 +100,7 @@
 - He sends **Mjolnir** too, disguised and hidden.
 
 **ACT ONE: THE CANE**
-- **Norway, Monday, February 16, 2009.** Dr. Blake is on a medical conference vacation with her nurse and closest friend, **Jane Foster**.
+- **Norway, Monday, February 16, 2009.** Dr. Blake is on a medical conference vacation with her nurse, **Jane Foster**. They've been falling for each other for months, and neither has said it.
 - The **Stone Men from Saturn**, a Kronan scouting party, land in the fjords.
 - Blake is caught alone and hides in a cave, where she finds **a gnarled old walking stick.** Trapped, she strikes it against the rock.
 - **THOOM.** Thunder. **Thor** stands where Blake was, holding **Mjolnir.**
@@ -117,7 +118,7 @@
 - In that moment she's **worthy**. Mjolnir tears itself free of Loki's spell and flies back to her hand, and her memory comes back.
 - Thor, the Warriors Three and Sif drive the Frost Giants back through the Bifrost and duel Loki above the **Rainbow Bridge.**
 - **Odin** sentences Loki to **exile on the Isle of Silence.**
-- Thor chooses to **keep her mortal life** as Blake and protect Midgard. Jane is there waiting for her.
+- Thor chooses to **keep her mortal life** as Blake and protect Midgard, **and Jane.** Odin makes his disapproval clear. Thor chooses her anyway. The last shot is Blake and Jane walking out of the hospital together, holding hands.
 
 ---
 

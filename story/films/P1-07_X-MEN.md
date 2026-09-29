@@ -1,6 +1,6 @@
 # FILM DOSSIER: X-MEN
 ### Phase 1 · Film #7
-### Status: ✅ DOSSIER COMPLETE. ⏳ **Waiting on the showrunner's real-actor casting picks** (see Section 2).
+### Status: ✅ DOSSIER COMPLETE (awaiting showrunner lock)
 
 ---
 
@@ -29,25 +29,23 @@
 |---|---|---|
 | **Wanda Maximoff / The Scarlet Witch** | **Grace Bullock** | 27 *(looks 22)* |
 
-### Real-actor cast: ⏳ SHOWRUNNER'S PICKS
-*The Casting Rules say the showrunner chooses when more than one real actor has played the role. On 616 in 1963, the five students were **teenagers** and Xavier and Magneto were **middle-aged**.*
+### Real-actor cast: ✅ LOCKED (the showrunner's picks)
+| Character | Actor | Age at release |
+|---|---|---|
+| **Professor Charles Xavier** | **Patrick Stewart** | 71 |
+| **Magneto (Max Eisenhardt)** | **Ian McKellen** | 72 |
+| **Cyclops (Scott Summers)** | **Tye Sheridan** | 14 |
+| **Marvel Girl (Jean Grey)** | **Sophie Turner** | 15 |
+| **The Beast (Hank McCoy)** | **Nicholas Hoult** | 21 |
+| **Iceman (Bobby Drake)** | **Shawn Ashmore** | 32 *(written as the "kid" who looks older)* |
+| **The Angel (Warren Worthington III)** | **Ben Hardy** | 20 |
+| **Quicksilver (Pietro Maximoff)** | **Evan Peters** | 24 |
+| **The Toad (Mortimer Toynbee)** | **Ray Park** | 37 |
+| **Mastermind (Jason Wyngarde)** | Fresh casting *(never played by a real actor)* | – |
+| **Dr. Bolivar Trask** | **Peter Dinklage** | 42 |
+| **Stan Lee** *(cameo: a man watering his lawn as the Blackbird passes overhead)* | Stan Lee | 88 |
 
-| Character | Option A | Option B | Notes |
-|---|---|---|---|
-| **Professor Charles Xavier** | **Patrick Stewart** (71) | James McAvoy (32) | Stewart fits 616's bald, middle-aged Xavier of 1963 |
-| **Magneto (Max Eisenhardt)** | **Ian McKellen** (72) | Michael Fassbender (34) | In 2011, 616 Magneto is a Holocaust survivor with a **de-aged, physically prime body**. Both options work. |
-| **Cyclops (Scott Summers)** | James Marsden (38) | **Tye Sheridan** (14) | Sheridan is closer to 616's teenage Scott |
-| **Marvel Girl (Jean Grey)** | Famke Janssen (46) | **Sophie Turner** (15) | Turner is closer to 616's teenage Jean |
-| **The Beast (Hank McCoy)** | Kelsey Grammer (56) | **Nicholas Hoult** (21) | Hoult fits the 1963 Beast, who is human-looking with huge hands and feet |
-| **Iceman (Bobby Drake)** | **Shawn Ashmore** (32) | – | ⚠️ The only real actor to play him. He's older than 616's youngest X-Man, so Bobby is written as the "kid" who looks older. |
-| **The Angel (Warren Worthington III)** | Ben Foster (31) | **Ben Hardy** (20) | |
-| **Quicksilver (Pietro Maximoff)** | **Evan Peters** (24) | Aaron Taylor-Johnson (21) | Peters is closer in age to Grace, who plays his **twin** |
-| **The Toad (Mortimer Toynbee)** | **Ray Park** (37) | – | The only real actor to play him |
-| **Mastermind (Jason Wyngarde)** | Fresh casting | – | Never played by a real actor |
-| **Dr. Bolivar Trask** | **Peter Dinklage** (42) | – | The only real actor to play him |
-| **Stan Lee** *(cameo: a man watering his lawn as the Blackbird passes overhead)* | Stan Lee (88) | – | – |
-
-*Bold = the recommended option, pending the showrunner's confirmation.*
+*Casting notes: Stewart and McKellen play 616's middle-aged teacher and his oldest friend. For McKellen's Magneto, the "de-aged, physically prime" 616 detail becomes **a man in his 70s with the strength of someone half his age**, since magnetism makes the body irrelevant. Sheridan and Turner are **true teenagers**, as the 1963 X-Men were. They're filmed under child-labor rules, with the Danger Room and fight sequences built around them.*
 
 ---
 
@@ -169,4 +167,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ⏳ Real-actor casting picks
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ Real-actor casting locked

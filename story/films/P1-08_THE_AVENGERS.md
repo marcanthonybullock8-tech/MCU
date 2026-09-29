@@ -41,7 +41,7 @@
 | **Nick Fury** | Samuel L. Jackson | 63 |
 | **Edwin Jarvis** | James D'Arcy *(the only real actor to have played him)* | 36 |
 | **Agent Jasper Sitwell** | Maximiliano Hernández | 38 |
-| **Thanos** *(post-credit; performance capture)* | ⏳ **Showrunner's pick** *(Damion Poitier and Josh Brolin have both played him)* | – |
+| **Thanos** *(post-credit; performance capture on set)* | **Josh Brolin** *(✅ the showrunner's pick; Brolin plays Thanos for the whole Infinity Saga)* | 44 |
 | **Stan Lee** *(cameo: a circus-goer who thinks Mechano is "a very convincing robot")* | Stan Lee | 89 |
 
 *Accuracy flag: 616's Jarvis is an older WWII veteran who has served the Starks since before Tony was born. D'Arcy (36) is the only real actor to have played him, so per the Casting Rules he keeps the role. Jarvis is written as a younger man who came to the Starks as a teenager and has served the family ever since.*
@@ -182,4 +182,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ⏳ Thanos casting pick
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ Thanos cast (Josh Brolin)
