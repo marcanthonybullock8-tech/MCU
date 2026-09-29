@@ -4,7 +4,8 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
 
 - [Franchise Bible](story/00_FRANCHISE_BIBLE.md): locked canon
 - [Chapter One (2007)](story/01_CHAPTER_ONE_2007.md)
-- [Cast Bible](story/02_CAST_BIBLE.md): 🔒 locked, not yet in the story
+- [Cast Bible](story/02_CAST_BIBLE.md): 🔒 locked
+- [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
 Every story document is also rendered as a PDF in [`pdf/`](pdf/). To regenerate them after editing or adding a chapter, run:
