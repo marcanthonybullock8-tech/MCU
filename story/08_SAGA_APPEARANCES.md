@@ -36,6 +36,7 @@
 | 27 | Warlock | 3 |
 | 28 | Avengers Forever | 3 |
 | 29 | The Amazing Spider-Man 2 | 3 |
+| 30 | X-Men: Second Genesis | 4 |
 
 ---
 
@@ -64,7 +65,7 @@
 | **Samuel L. Jackson** | Nick Fury | **11** | **3** | 4 | 3 | 4 | #1, #5, #6, #8, #10, #12, #15, #18, #25, #26, #28 |
 | **Maximiliano Hernández** | Jasper Sitwell | **9** | **2** | 7 | 2 | 0 | #1, #2, #3, #4, #5, #7, #8, #9, #12 |
 | **Pedro Pascal** | Reed Richards | **8** | **2** | 0 | 3 | 5 | #11, #13, #17, #18, #19, #24, #25, #28 |
-| **Ciarán Hinds** | Mephisto | **6** | **2** | 0 | 1 | 5 | #17, #18, #20, #21, #25, #28 |
+| **Ciarán Hinds** | Mephisto | **7** | **2** | 0 | 1 | 5 | #17, #18, #20, #21, #25, #28, #30 |
 | **Don Cheadle** | Rhodey / War Machine | **6** | **3** | 2 | 1 | 3 | #1, #5, #9, #18, #25, #28 |
 | **Evan Peters** | Quicksilver | **6** | **3** | 1 | 2 | 3 | #7, #15, #16, #18, #25, #28 |
 | **Joseph Quinn** | Johnny Storm | **6** | **2** | 0 | 3 | 3 | #11, #13, #17, #18, #25, #28 |
@@ -83,26 +84,28 @@
 | **Bradley Cooper** | Rocket (voice) | **4** | **2** | 0 | 1 | 3 | #14, #21, #25, #28 |
 | **Chris Pratt** | Star-Lord | **4** | **2** | 0 | 1 | 3 | #14, #21, #25, #28 |
 | **Dave Bautista** | Drax | **4** | **2** | 0 | 1 | 3 | #14, #21, #25, #28 |
+| **Hugh Jackman** | Logan / Wolverine | **4** | **1** | 0 | 0 | 3 | #22, #25, #28, #30 |
 | **Karen Gillan** | Nebula | **4** | **2** | 0 | 1 | 3 | #14, #21, #25, #28 |
+| **Patrick Stewart** | Charles Xavier | **4** | **2** | 1 | 0 | 2 | #7, #22, #24, #30 |
 | **Pom Klementieff** | Mantis | **4** | **2** | 0 | 1 | 3 | #14, #21, #25, #28 |
 | **Tom Hiddleston** | Loki | **4** | **3** | 2 | 1 | 1 | #3, #8, #10, #23 |
 | **Vin Diesel** | Groot | **4** | **2** | 0 | 1 | 3 | #14, #21, #25, #28 |
 | **Will Poulter** | Adam Warlock / Magus | **4** | **2** | 0 | 2 | 2 | #14, #17, #27, #28 |
 | **Anthony Hopkins** | Odin | **3** | **3** | 1 | 1 | 1 | #3, #10, #23 |
-| **Hugh Jackman** | Logan / Wolverine | **3** | **1** | 0 | 0 | 3 | #22, #25, #28 |
 | **Idris Elba** | Heimdall | **3** | **3** | 1 | 1 | 1 | #3, #10, #23 |
 | **Jaimie Alexander** | Sif | **3** | **3** | 1 | 1 | 1 | #3, #10, #23 |
 | **James D'Arcy** | Edwin Jarvis | **3** | **2** | 1 | 2 | 0 | #8, #15, #16 |
 | **Jon Favreau** | Happy Hogan | **3** | **2** | 2 | 1 | 0 | #1, #5, #9 |
 | **Michael Cera** | Rick Jones | **3** | **2** | 2 | 0 | 1 | #2, #8, #26 |
 | **Natalie Portman** | Jane Foster | **3** | **3** | 1 | 1 | 1 | #3, #10, #23 |
-| **Patrick Stewart** | Charles Xavier | **3** | **2** | 1 | 0 | 2 | #7, #22, #24 |
 | **Ray Stevenson** | Volstagg | **3** | **3** | 1 | 1 | 1 | #3, #10, #23 |
 | **Rene Russo** | Frigga | **3** | **3** | 1 | 1 | 1 | #3, #10, #23 |
+| **Robert Downey Jr.** | Doctor Doom | **3** | **2** | 0 | 1 | 1 | #11, #28, #30 |
 | **Rosemary Harris** | Aunt May | **3** | **2** | 0 | 1 | 2 | #13, #18, #29 |
 | **Tadanobu Asano** | Hogun | **3** | **3** | 1 | 1 | 1 | #3, #10, #23 |
 | **Zachary Levi** | Fandral | **3** | **3** | 1 | 1 | 1 | #3, #10, #23 |
 | **Andy Serkis** | Klaw | **2** | **2** | 0 | 1 | 1 | #15, #19 |
+| **Ben Hardy** | Angel | **2** | **1** | 1 | 0 | 0 | #7, #30 |
 | **Benedict Wong** | Wong | **2** | **1** | 0 | 0 | 2 | #20, #25 |
 | **Benicio del Toro** | The Collector | **2** | **1** | 0 | 2 | 0 | #10, #14 |
 | **Brie Larson** | Carol Danvers / Captain Marvel | **2** | **1** | 0 | 0 | 2 | #26, #28 |
@@ -114,19 +117,21 @@
 | **J.K. Simmons** | J. Jonah Jameson | **2** | **2** | 0 | 1 | 1 | #13, #29 |
 | **Jeffrey Wright** | Uatu the Watcher | **2** | **1** | 0 | 2 | 0 | #11, #17 |
 | **Kerry Washington** | Alicia Masters | **2** | **1** | 0 | 2 | 0 | #11, #17 |
+| **Nicholas Hoult** | Beast | **2** | **1** | 1 | 0 | 0 | #7, #30 |
 | **Paul Giamatti** | Egghead | **2** | **2** | 1 | 1 | 0 | #4, #16 |
 | **Ralph Ineson** | Galactus | **2** | **2** | 0 | 1 | 1 | #17, #28 |
-| **Robert Downey Jr.** | Doctor Doom | **2** | **2** | 0 | 1 | 1 | #11, #28 |
 | **Sean Gunn** | Rocket (performance) | **2** | **2** | 0 | 1 | 1 | #14, #21 |
+| **Shawn Ashmore** | Iceman | **2** | **1** | 1 | 0 | 0 | #7, #30 |
+| **Sophie Turner** | Jean Grey | **2** | **1** | 1 | 0 | 0 | #7, #30 |
 | **Terry Crews** | Beta Ray Bill | **2** | **2** | 0 | 1 | 1 | #10, #23 |
 | **Tony Leung** | The Mandarin | **2** | **2** | 1 | 1 | 0 | #5, #9 |
 | **Tony Revolori** | Flash Thompson | **2** | **2** | 0 | 1 | 1 | #13, #29 |
+| **Tye Sheridan** | Cyclops | **2** | **1** | 1 | 0 | 0 | #7, #30 |
 | **Adewale Akinnuoye-Agbaje** | Kurse | **1** | **1** | 0 | 1 | 0 | #10 |
 | **Alfred Molina** | Doctor Octopus | **1** | **1** | 0 | 1 | 0 | #13 |
 | **Angela Bassett** | Ramonda | **1** | **1** | 0 | 0 | 1 | #19 |
 | **Annette Bening** | Supreme Intelligence | **1** | **1** | 0 | 0 | 1 | #26 |
 | **Anson Mount** | Black Bolt | **1** | **1** | 0 | 0 | 1 | #24 |
-| **Ben Hardy** | Angel | **1** | **1** | 1 | 0 | 0 | #7 |
 | **Cate Blanchett** | Hela | **1** | **1** | 0 | 0 | 1 | #23 |
 | **Charlize Theron** | Clea | **1** | **1** | 0 | 0 | 1 | #20 |
 | **Chiwetel Ejiofor** | Baron Mordo | **1** | **1** | 0 | 0 | 1 | #20 |
@@ -168,7 +173,6 @@
 | **Michael B. Jordan** | Killmonger | **1** | **1** | 0 | 0 | 1 | #19 |
 | **Michael Rooker** | Yondu | **1** | **1** | 0 | 0 | 1 | #21 |
 | **Neal McDonough** | Dum Dum Dugan | **1** | **1** | 1 | 0 | 0 | #6 |
-| **Nicholas Hoult** | Beast | **1** | **1** | 1 | 0 | 0 | #7 |
 | **Paul Rudd** | Scott Lang | **1** | **1** | 0 | 1 | 0 | #16 |
 | **Paul Walter Hauser** | Mole Man | **1** | **1** | 0 | 1 | 0 | #11 |
 | **Peter Dinklage** | Bolivar Trask | **1** | **1** | 1 | 0 | 0 | #7 |
@@ -177,8 +181,6 @@
 | **Rila Fukushima** | Yukio | **1** | **1** | 0 | 0 | 1 | #22 |
 | **Sam Rockwell** | Justin Hammer | **1** | **1** | 1 | 0 | 0 | #5 |
 | **Shaun Toub** | Ho Yinsen | **1** | **1** | 1 | 0 | 0 | #1 |
-| **Shawn Ashmore** | Iceman | **1** | **1** | 1 | 0 | 0 | #7 |
-| **Sophie Turner** | Jean Grey | **1** | **1** | 1 | 0 | 0 | #7 |
 | **Stanley Tucci** | Dr. Erskine | **1** | **1** | 1 | 0 | 0 | #6 |
 | **Sylvester Stallone** | Starhawk | **1** | **1** | 0 | 0 | 1 | #21 |
 | **Taika Waititi** | Korg | **1** | **1** | 0 | 0 | 1 | #24 |
@@ -187,7 +189,6 @@
 | **Tim Blake Nelson** | Samuel Sterns | **1** | **1** | 1 | 0 | 0 | #2 |
 | **Tim Roth** | Abomination | **1** | **1** | 1 | 0 | 0 | #2 |
 | **Tommy Lee Jones** | Gen. Phillips | **1** | **1** | 1 | 0 | 0 | #6 |
-| **Tye Sheridan** | Cyclops | **1** | **1** | 1 | 0 | 0 | #7 |
 | **Tzi Ma** | Wong-Chu | **1** | **1** | 1 | 0 | 0 | #1 |
 | **Walton Goggins** | The Ringmaster | **1** | **1** | 0 | 1 | 0 | #16 |
 | **Willem Dafoe** | Norman Osborn / Green Goblin | **1** | **1** | 0 | 0 | 1 | #29 |
@@ -201,4 +202,4 @@
 - **146 actors** across **29 films.**
 - **Most appearances overall:** Stan Lee, in **all 29** (cameos).
 - **Most appearances by a fictional ensemble actor:** Marc-Anthony Bullock, **17 films.**
-- **In all three phases:** Marc-Anthony Bullock, Tyrese Avery, Elxa Bullock, Esther Smilley, Arianna Cummings, Harmony Divine, Tayia Boyd, Tyler Chapman, Amond Baker, Grace Bullock, Stan Lee, Aubrey Plaza, Josh Brolin, Samuel L. Jackson, Don Cheadle, Evan Peters, Sebastian Stan, Tenoch Huerta, Tom Hiddleston, Anthony Hopkins, Idris Elba, Jaimie Alexander, Natalie Portman, Ray Stevenson, Rene Russo, Tadanobu Asano, Zachary Levi.
+- **In all three phases:** Marc-Anthony Bullock, Tyrese Avery, Elxa Bullock, Esther Smilley, Arianna Cummings, Harmony Divine, Tayia Boyd, Tyler Chapman, Amond Baker, Grace Bullock, Stan Lee, Aubrey Plaza, Josh Brolin, Samuel L. Jackson, Ciarán Hinds, Don Cheadle, Evan Peters, Sebastian Stan, Tenoch Huerta, Patrick Stewart, Tom Hiddleston, Anthony Hopkins, Idris Elba, Jaimie Alexander, Natalie Portman, Ray Stevenson, Rene Russo, Robert Downey Jr., Tadanobu Asano, Zachary Levi.
