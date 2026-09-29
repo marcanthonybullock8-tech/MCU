@@ -25,7 +25,7 @@
 
 ## PHASE 3 FILM #2: BLACK PANTHER
 - **Character:** T'Challa / Black Panther. First appearance: ***Fantastic Four* #52** (July 1966), Stan Lee & Jack Kirby.
-- **Why second:** he was introduced in *Ultron Unlimited* and *Civil War*, and **Wakanda** has to be established before *The Infinity Gauntlet*. **"Panther's Rage"** was **Marvel's first graphic novel-length story**, and it's a king's epic.
+- **Why second:** he was introduced in *Ultron Unlimited* and *Civil War*, and **Wakanda** has to be established before *The Infinity Gauntlet*. **"Panther's Rage"** is often called **Marvel's first graphic novel**, and it's a king's epic.
 - **Release date: Friday, July 8, 2016.** Mid-summer, nine weeks after *Civil War*.
 
 ## PHASE 3 FILM #3: DOCTOR STRANGE
