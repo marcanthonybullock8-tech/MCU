@@ -454,7 +454,7 @@ times in the middle:
           movies anyway. We just make them
           in the same world. Same S.H.I.E.L.D.,
           same scientists, same timeline.
-          Tony's Arc reactor exists in the
+          Tony's repulsor tech exists in the
           Hulk movie. Nobody has to notice.
           Until they do.
 

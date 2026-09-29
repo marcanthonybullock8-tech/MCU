@@ -7,6 +7,7 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
 - [Cast Bible](story/02_CAST_BIBLE.md): 🔒 locked
 - [Film Dossier Template](story/04_FILM_DOSSIER_TEMPLATE.md): required fields for every MCU film
 - [Phase 1 Slate](story/05_PHASE_ONE_SLATE.md)
+  - [Film #1: Iron Man dossier](story/films/P1-01_IRON_MAN.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
