@@ -1,9 +1,17 @@
 # CAST BIBLE: THE ENSEMBLE
-### STATUS: 🔒 LOCKED. Each person enters the story only when the showrunner says so.
+### STATUS: 🔓 **UNLOCKED.** Every fictional actor and the whole Donohue–Bullock family are available to the story and the films. *(The Sealed Future Canon at the bottom stays sealed until its dates arrive.)*
 
-| In the story (as of Chapter One) | Still locked |
-|---|---|
-| Marc-Anthony Bullock (Tony Stark, cast Sept 2006) · Tayia Boyd (Pepper Potts, cast Jan 2007) · Amond Baker (Bruce Banner, announced Apr 12, 2007) | Tyrese Avery · Esther Smilley · Harmony Divine · Tyler Chapman · Elxa Bullock · Grace Bullock · Arianna Cummings · the Donohue–Bullock family |
+## CASTING ANNOUNCEMENT TIMELINE (canon)
+| Actor | Role | Film debut | Announced |
+|---|---|---|---|
+| Marc-Anthony Bullock | Tony Stark / Iron Man | *Iron Man* (May 2, 2008) | Friday, Sept 29, 2006 |
+| Tayia Boyd | Pepper Potts | *Iron Man* | January 2007 |
+| Amond Baker | Bruce Banner / Hulk | *The Incredible Hulk* (June 13, 2008) | Thursday, Apr 12, 2007 |
+| Esther Smilley | Thor | *Thor* (May 1, 2009) | **Tuesday, May 13, 2008**, eleven days after *Iron Man* opens |
+| Tyler Chapman & Elxa Bullock | Hank Pym / Ant-Man & Janet van Dyne / Wasp | *Ant-Man* (Nov 6, 2009); **Elxa's first appearance is the gala cameo in *Iron Man*** | **Saturday, July 26, 2008**, Marvel's Hall H panel at San Diego Comic-Con |
+| Harmony Divine & Arianna Cummings | Black Widow & Claire Barton / Hawkeye | *Iron Man 2* (May 7, 2010) *(recommended; confirmed in the IM2 dossier)*. On 616 both debut as Iron Man antagonists: the Widow in *Tales of Suspense* #52, and Hawkeye, tricked by the Widow, in #57. | **Tuesday, March 10, 2009** |
+| Tyrese Avery | Steve Rogers / Captain America | *Captain America* (July 22, 2011) | **Tuesday, March 23, 2010** |
+| Grace Bullock | Wanda Maximoff / Scarlet Witch | *X-Men* (Nov 4, 2011) | **Saturday, July 24, 2010**, San Diego Comic-Con |
 
 > **Canon rules for this cast**
 > - All of the people listed here are **fictional African American actors** living in a real, diverse Hollywood. In 2007 Hollywood is still mostly white, especially in the executive suites.

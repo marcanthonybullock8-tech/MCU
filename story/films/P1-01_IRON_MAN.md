@@ -38,7 +38,7 @@
 | **Wong-Chu** | Tzi Ma | June 10, 1962 | 45 |
 | **Agent Jasper Sitwell (S.H.I.E.L.D.)** | Maximiliano Hernández | Nov 12, 1973 | 34 |
 | **Nick Fury** *(post-credit)* | Samuel L. Jackson | Dec 21, 1948 | 59 |
-| **Janet van Dyne** *(cameo)* | 🔒 **Elxa Bullock**, *only if the showrunner unlocks her; otherwise the cameo is cut* | Aug 29, 1980 | 27 |
+| **Janet van Dyne** *(cameo)* | **Elxa Bullock** *(secret cameo, uncredited until Comic-Con, July 2008)* | Aug 29, 1980 | 27 |
 | **Stan Lee** *(cameo, mistaken for Hugh Hefner at the gala)* | Stan Lee | Dec 28, 1922 | 85 |
 
 *Casting note: Wong-Chu has never been played by a real-life actor, so this is an original casting of a real actor. Everyone else follows the Casting Rules.*
@@ -171,7 +171,7 @@
 | **S.H.I.E.L.D.** | Agent **Jasper Sitwell** keeps trying to debrief Tony. The acronym is said once in full: *Strategic Hazard Intervention Espionage Logistics Directorate.* | The post-credit scene, and every Phase 1 film |
 | **The Hulk** | A TV in Tony's workshop plays a news report: *"...an accident at the Army's gamma test site at **Desert Base, New Mexico**... General **Thaddeus Ross** declined to comment..."* | ***The Incredible Hulk*** (Film #2) |
 | **Hank Pym / Ant-Man** | Tony tosses a science journal onto his workbench. The cover story is **Dr. Henry Pym, "Pym Particles: Shrinking the Future."** Tony mutters: *"Show-off."* | Hank Pym's Phase 1 film |
-| **Janet van Dyne / The Wasp** | 🔒 *(only if Elxa is unlocked)* At the Maria Stark Foundation gala, a fashion designer in a black-and-yellow gown teases Tony about his tuxedo. Pepper introduces her as **"Janet van Dyne, the designer."** | Hank Pym's Phase 1 film / *The Avengers* |
+| **Janet van Dyne / The Wasp** | At the Maria Stark Foundation gala, a fashion designer in a black-and-yellow gown teases Tony about his tuxedo. Pepper introduces her as **"Janet van Dyne, the designer."** | Hank Pym's Phase 1 film / *The Avengers* |
 | **The Mandarin** | The mid-credit scene (see Section 7) | *Iron Man 2* |
 | **Rhodey in armor** | Rhodey looks at the empty Mark II and says, *"Next time, baby."* | *Iron Man 2* (616: *Iron Man* #169) |
 | **Avengers Mansion** | Tony's Fifth Avenue home is shown at length: the grand hall, the stairs, the portrait of Howard and Maria | *The Avengers* (Tony hands it over to the team, as in 616) |
@@ -211,7 +211,7 @@ The setup is deliberately hidden. A general audience won't catch it, but the com
 | S.H.I.E.L.D. / Jasper Sitwell | Every Phase 1 film |
 | Desert Base gamma accident, General Ross | *The Incredible Hulk* (Film #2, Friday June 13, 2008) |
 | The Pym journal ("Pym Particles") | Hank Pym's Phase 1 film *(slot TBD)* |
-| Janet van Dyne at the gala 🔒 | Hank Pym's film / *The Avengers* |
+| Janet van Dyne at the gala | Hank Pym's film / *The Avengers* |
 | The Mandarin and the ten rings | *Iron Man 2 (slot TBD)* |
 | "Next time, baby" (Rhodey's armor) | *Iron Man 2* |
 | Fury and "the Avengers Initiative" | *The Avengers* (Film #8) |

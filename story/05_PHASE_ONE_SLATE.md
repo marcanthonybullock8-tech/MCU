@@ -5,11 +5,11 @@
 |---|---|---|---|---|
 | 1 | **Iron Man** | **Friday, May 2, 2008** | Marc-Anthony Bullock | ✅ [complete](films/P1-01_IRON_MAN.md) |
 | 2 | **The Incredible Hulk** | **Friday, June 13, 2008** | Amond Baker | ⏳ pending |
-| 3 | **Thor** | **Friday, May 1, 2009** | Esther Smilley 🔒 | ⏳ pending |
-| 4 | **Ant-Man** *(with the Wasp; final title set in the dossier)* | **Friday, November 6, 2009** | Tyler Chapman 🔒 (Elxa Bullock co-lead 🔒) | ⏳ pending |
+| 3 | **Thor** | **Friday, May 1, 2009** | Esther Smilley | ⏳ pending |
+| 4 | **Ant-Man** *(with the Wasp; final title set in the dossier)* | **Friday, November 6, 2009** | Tyler Chapman (Elxa Bullock co-lead) | ⏳ pending |
 | 5 | **Iron Man 2** | **Friday, May 7, 2010** | Marc-Anthony Bullock | ⏳ pending |
-| 6 | **Captain America** | **Friday, July 22, 2011** | Tyrese Avery 🔒 | ⏳ pending |
-| 7 | **X-Men** | **Friday, November 4, 2011** | The X-Men ensemble (real actors, showrunner's picks) · Grace Bullock 🔒 as the Scarlet Witch | ⏳ pending |
+| 6 | **Captain America** | **Friday, July 22, 2011** | Tyrese Avery | ⏳ pending |
+| 7 | **X-Men** | **Friday, November 4, 2011** | The X-Men ensemble (real actors, showrunner's picks) · Grace Bullock as the Scarlet Witch | ⏳ pending |
 | 8 | **The Avengers** | **Friday, May 4, 2012** | The ensemble (Marc-Anthony Bullock top-billed) | ⏳ pending |
 
 ---
@@ -38,7 +38,7 @@
 - **Characters:** Dr. Hank Pym / Ant-Man, first appearing in ***Tales to Astonish* #27** (January 1962) and in costume in #35 (September 1962), and Janet van Dyne / the Wasp, first appearing in ***Tales to Astonish* #44** (June 1963). Stan Lee, Larry Lieber, H.E. Huebner & Jack Kirby.
 - **Why fourth:** Ant-Man and the Wasp are **two of the five founding Avengers**, and **the Wasp names the team.** One film brings in both, as the comics did, and pays off the Pym journal from *Iron Man*. It's sci-fi adventure at impossible scale, a fresh genre after armor, monster and myth.
 - **Release date: Friday, November 6, 2009.** It opens the holiday corridor with four more weeks of family audiences behind it.
-- **🔒 Casting note:** Tyler Chapman (Hank) and Elxa Bullock (Janet) have to be unlocked before this film goes into production, which means casting in 2008.
+- **Casting:** Tyler Chapman (Hank) and Elxa Bullock (Janet) are announced together at San Diego Comic-Con on July 26, 2008. Elxa has already appeared secretly as Janet in *Iron Man*.
 
 ## FILM #5: IRON MAN 2
 - **Character:** Tony Stark / Iron Man, the first sequel.
@@ -61,7 +61,7 @@
   3. **It brings in the Scarlet Witch the 616 way.** Wanda (Grace Bullock) and her brother Pietro debut as **reluctant members of Magneto's Brotherhood**. As of 2011 on 616, **Magneto is their father.** They leave him and reform, which sets up **"Cap's Kooky Quartet"** (*Avengers* #16) for Phase 2.
   4. **It makes the world bigger.** After technology, gamma, gods, size-changing science and a super-soldier, the last kind of hero is **born, not made.** Mutants give the Avengers a world they share with a feared minority, and Marvel's biggest social theme.
 - **Release date: Friday, November 4, 2011.** It opens the holiday corridor again, fifteen weeks after *Captain America*. The competition is *Tower Heist* (the same day), and it comes two weeks ahead of *The Twilight Saga: Breaking Dawn – Part 1* (November 18).
-- **Casting note:** under the Casting Rules, the X-Men and Magneto are played by **real actors, and the showrunner picks** where more than one real actor played a role. Quicksilver is a showrunner's pick too. **Grace Bullock (Wanda) must be unlocked** before casting in 2010.
+- **Casting note:** under the Casting Rules, the X-Men and Magneto are played by **real actors, and the showrunner picks** where more than one real actor played a role. Quicksilver is a showrunner's pick too. **Grace Bullock (Wanda)** is announced at San Diego Comic-Con on July 24, 2010.
 
 ## FILM #8: THE AVENGERS (Phase 1 finale)
 - **Comics:** ***The Avengers* #1** (September 1963, Lee & Kirby), the founding against Loki, and ***The Avengers* #4** (March 1964), where the team finds Captain America in the ice.

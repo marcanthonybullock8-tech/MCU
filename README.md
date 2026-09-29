@@ -4,7 +4,7 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
 
 - [Franchise Bible](story/00_FRANCHISE_BIBLE.md): locked canon
 - [Chapter One (2007)](story/01_CHAPTER_ONE_2007.md): mockumentary pilot draft (🔒 story not started)
-- [Cast Bible](story/02_CAST_BIBLE.md): 🔒 locked
+- [Cast Bible](story/02_CAST_BIBLE.md): 🔓 unlocked
 - [Film Dossier Template](story/04_FILM_DOSSIER_TEMPLATE.md): required fields for every MCU film
 - [Phase 1 Slate](story/05_PHASE_ONE_SLATE.md)
   - [Film #1: Iron Man dossier](story/films/P1-01_IRON_MAN.md)
