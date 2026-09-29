@@ -1,6 +1,6 @@
 # PHASE 6 SLATE (2028–2031): 11 FILMS + 2 DISNEY+ SERIES
 ### The Secret Wars Saga, Part Three: **"Secret Wars"**
-### Status: being built. Dossiers are written automatically as each title is added.
+### Status: ✅ SLATE COMPLETE (11 films + 2 series). All dossiers written. **The Secret Wars Saga is complete.**
 
 ## FILMS (the main story)
 | # | Title | Release date | Owner | Dossier |
@@ -21,7 +21,7 @@
 | # | Title | Premiere | Owner | Dossier |
 |---|---|---|---|---|
 | S1 | **Ghost Racers** (8 episodes) | **Tue, October 3 → Tue, November 21, 2028** (weekly) | Gabriel Luna (Nicolas Cage co-lead) | ✅ [complete](series/P6-S1_GHOST_RACERS.md) |
-| S2 | *TBD* | | | |
+| S2 | **Master of Kung Fu** (8 episodes) | **Tue, August 5 → Tue, September 23, 2031** (weekly) | Simu Liu | ✅ [complete](series/P6-S2_MASTER_OF_KUNG_FU.md) |
 
 ---
 
@@ -91,4 +91,9 @@
 - **Characters:** **Doctor Doom** and **Reed Richards**.
 - **Why:** ***Secret Wars* #9**: ***"You would have done better."*** **Reed rebuilds the multiverse, and heals Doom's face.** Earth-616 returns, with everyone. **The saga ends.**
 - **Release date: Friday, December 19, 2031.**
+
+## PHASE 6 SERIES #2: MASTER OF KUNG FU (Disney+)
+- **Character:** **Shang-Chi**, the Master of Kung Fu. First appearance: ***Special Marvel Edition* #15** (1973).
+- **Why:** **the greatest martial artist in the Marvel Universe** has never appeared in the MCU. His ***Secret Wars*** tie-in, ***Master of Kung Fu*** (2015), puts him in **the K'un-Lun domain**, in a **tournament** against **his tyrant father, Zheng Zu**, a story built for weekly TV. **Simu Liu** is the only real actor to have played him.
+- **Schedule: 8 episodes, Tuesdays, August 5 to September 23, 2031**, 45–55 minutes each. **TV-14.** It airs **between the two parts of the finale.**
 

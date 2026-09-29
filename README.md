@@ -77,6 +77,7 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Film #56: Black Panther: The Infinity Gauntlet](story/films/P6-08_BLACK_PANTHER_THE_INFINITY_GAUNTLET.md)
   - [Film #57: Captain Marvel and the Carol Corps](story/films/P6-09_CAPTAIN_MARVEL_AND_THE_CAROL_CORPS.md)
   - [Film #58: Avengers: God Emperor Doom (finale, Part One)](story/films/P6-10_AVENGERS_GOD_EMPEROR_DOOM.md)
+  - [Series: Master of Kung Fu (Disney+)](story/series/P6-S2_MASTER_OF_KUNG_FU.md)
   - [Film #59: Secret Wars (finale, Part Two)](story/films/P6-11_SECRET_WARS.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
