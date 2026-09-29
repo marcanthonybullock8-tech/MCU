@@ -165,3 +165,35 @@ Taken directly from Starlin's run, *The Thanos Quest* → *The Infinity Gauntlet
 - **No one outside Project Bullpen hears the word "universe."** Actor contracts carry **multi-picture options** described as "sequel protection."
 - Post-credit scenes are shot with **skeleton crews** under **fake slate names**, and the pages are handed out on set and collected afterward.
 - **The franchise has no name.** The press and fans will name it. Feige's standing order: *"When they name it, we'll know we've won."*
+
+---
+
+## 9. THE PREMIER TEAM: **THE AVENGERS**
+### "Earth's Mightiest Heroes"
+
+**Why the Avengers:** the Avengers are Marvel's flagship team, a group of heroes who each carry their own book and come together against threats no single hero can handle. That's the whole MCU model in one team. Every solo film builds toward them, and against Thanos in *The Infinity Gauntlet* they're Earth's front line. The Fantastic Four are Marvel's first family and the X-Men are their own world, and both are available to us, but only the Avengers are *built* out of other heroes' franchises.
+
+### THE FOUNDING ROSTER (*The Avengers* #1, Sept. 1963, Stan Lee & Jack Kirby)
+| Founder | Played by | 616 role on the team |
+|---|---|---|
+| **Iron Man** (Tony Stark) | Marc-Anthony Bullock | Bankroller. He gives the team his Manhattan mansion and pays for everything. |
+| **Thor** | Esther Smilley | The team's powerhouse and a literal god |
+| **The Hulk** (Bruce Banner) | Amond Baker | The strongest one there is, and the team's biggest risk |
+| **Ant-Man** (Dr. Hank Pym) | Tyler Chapman | Scientist and founder. He becomes Giant-Man in *Avengers* #2. |
+| **The Wasp** (Janet van Dyne) | Elxa Bullock | **She names the team.** In #1 she suggests calling them "the Avengers." |
+
+**How they form (616-accurate):** **Loki**, in exile, plans revenge on Thor. He makes the Hulk look like a rampaging menace. **Rick Jones** sends a radio call to the Fantastic Four for help, but Loki redirects it to Thor. Iron Man, Ant-Man and the Wasp pick up the signal too. The five heroes realize they were manipulated, beat Loki together, and decide to stay together.
+
+### THE 616 WAVES THAT FOLLOW (so nobody is left out)
+| Wave | Comic | Who joins | Played by |
+|---|---|---|---|
+| **The Sentinel of Liberty** | *Avengers* #4 (1964) | **Captain America**. The Avengers find him frozen in the ice and thaw him out. He becomes the team's leader. | Tyrese Avery |
+| **"Cap's Kooky Quartet"** | *Avengers* #16 (1965) | **Hawkeye**, **the Scarlet Witch**, and **Quicksilver**. Hawkeye and the twins all start out as villains before they reform. | Arianna Cummings (Claire Barton), Grace Bullock (Wanda), Quicksilver cast from real actors (showrunner's pick) |
+| **The Widow** | *Avengers* #111 (1973) | **Black Widow**. She starts as a Soviet spy against Iron Man (*Tales of Suspense* #52), becomes Hawkeye's partner, and defects. | Harmony Divine |
+
+**616 details we keep:**
+- The team's headquarters is **Avengers Mansion**, Tony's family home at 890 Fifth Avenue.
+- **Edwin Jarvis** is the team's human butler and the heart of the Mansion.
+- The rallying cry is **"Avengers Assemble!"**
+- The **Avengers charter** and a government liaison connect the team to S.H.I.E.L.D.
+- Line-ups keep changing, as they always have in the comics. The founders leave and come back.
