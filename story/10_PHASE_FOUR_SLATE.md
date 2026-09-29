@@ -12,7 +12,7 @@
 | 5 | **Spider-Man: Kraven's Last Hunt** | **Friday, December 16, 2022** | Tom Holland | ✅ [complete](films/P4-05_SPIDER-MAN_KRAVENS_LAST_HUNT.md) |
 | 6 | **Thor: The Halls of Hel** | **Friday, May 5, 2023** | Esther Smilley | ✅ [complete](films/P4-06_THOR_THE_HALLS_OF_HEL.md) |
 | 7 | **Black Panther: Doomwar** | **Friday, November 3, 2023** | Letitia Wright | ✅ [complete](films/P4-07_BLACK_PANTHER_DOOMWAR.md) |
-| 8 | **Eternals** | **Friday, May 3, 2024** | The Eternals ensemble (Richard Madden & Gemma Chan lead) | ✅ [complete](films/P4-08_ETERNALS.md) ⏳ 3 casting decisions |
+| 8 | **Eternals** | **Friday, May 3, 2024** | The Eternals ensemble (Richard Madden & Gemma Chan lead) | ✅ [complete](films/P4-08_ETERNALS.md) |
 | 9 | **Fantastic Four: Solve Everything** | **Friday, November 1, 2024** | The FF ensemble (Pedro Pascal leads) | ✅ [complete](films/P4-09_FANTASTIC_FOUR_SOLVE_EVERYTHING.md) |
 
 ## DISNEY+ SERIES (limit: 2 this phase)
@@ -85,7 +85,7 @@
   2. **Thanos is an Eternal of Titan**, and this film brings in his brother **Eros (Starfox)** and **reawakens Thanos's story.**
   3. It's **Jack Kirby's** great cosmic epic.
 - **Release date: Friday, May 3, 2024.** The first Friday in May.
-- **⏳ Casting:** Ajak, Makkari and Sprite are **male on 616**, and the only real actors to have played them are women. **Showrunner decision needed.**
+- **✅ Casting:** **Salma Hayek (Ajak), Lauren Ridloff (Makkari) and Lia McHugh (Sprite).** As with Thor and Hawkeye, **they're the same 616 characters, and have always been female.**
 
 ## PHASE 4 FILM #9: FANTASTIC FOUR: SOLVE EVERYTHING (Phase 4 finale)
 - **Characters:** **The Fantastic Four**, with **Franklin and Valeria**, and **Doom as an ally.**

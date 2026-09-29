@@ -16,6 +16,7 @@
 > **Canon rules for this cast**
 > - All of the people listed here are **fictional African American actors** living in a real, diverse Hollywood. In 2007 Hollywood is still mostly white, especially in the executive suites.
 > - **Thor and Hawkeye are women, and always have been.** Thor is still the Odinson of Asgard and Hawkeye is still the world's greatest marksman. Hawkeye's name is **Claire Barton.** Nothing else about either character changes.
+> - **The same rule applies to three Eternals (showrunner decision, 2024): Ajak (Salma Hayek), Makkari (Lauren Ridloff) and Sprite (Lia McHugh) are women, and always have been.** They're the same 616 characters. Nothing else changes.
 > - **"Black don't crack."** Everyone looks noticeably younger than their age. Each profile gives a **"Looks"** age next to the real one.
 > - Ages below are **as of Day One: Monday, March 12, 2007.**
 

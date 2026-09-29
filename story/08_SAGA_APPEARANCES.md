@@ -64,7 +64,7 @@
 
 ---
 
-## REAL-LIFE ACTORS (161 actors)
+## REAL-LIFE ACTORS (164 actors)
 | Actor | Role(s) | Films | Phases | P1 | P2 | P3 | P4 | Film #s |
 |---|---|---|---|---|---|---|---|---|
 | **Stan Lee** | Cameos | **29** | **3** | 8 | 9 | 12 | 0 | #1, #2, #3, #4, #5, #6, #7, #8, #9, #10, #11, #12, #13, #14, #15, #16, #17, #18, #19, #20, #21, #22, #23, #24, #25, #26, #27, #28, #29 |
@@ -198,6 +198,8 @@
 | **Kumail Nanjiani** | Kingo | **1** | **1** | 0 | 0 | 0 | 1 | #37 |
 | **Lashana Lynch** | Caiera | **1** | **1** | 0 | 0 | 1 | 0 | #24 |
 | **Laura Harrier** | Liz Allan | **1** | **1** | 0 | 1 | 0 | 0 | #13 |
+| **Lauren Ridloff** | Makkari | **1** | **1** | 0 | 0 | 0 | 1 | #37 |
+| **Lia McHugh** | Sprite | **1** | **1** | 0 | 0 | 0 | 1 | #37 |
 | **Liam Neeson** | J'son | **1** | **1** | 0 | 0 | 1 | 0 | #21 |
 | **Liv Tyler** | Betty Ross | **1** | **1** | 1 | 0 | 0 | 0 | #2 |
 | **Mads Mikkelsen** | Aleksander Lukin | **1** | **1** | 0 | 1 | 0 | 0 | #12 |
@@ -214,6 +216,7 @@
 | **Rebecca Hall** | Maya Hansen | **1** | **1** | 0 | 1 | 0 | 0 | #9 |
 | **Richard Madden** | Ikaris | **1** | **1** | 0 | 0 | 0 | 1 | #37 |
 | **Rila Fukushima** | Yukio | **1** | **1** | 0 | 0 | 1 | 0 | #22 |
+| **Salma Hayek** | Ajak | **1** | **1** | 0 | 0 | 0 | 1 | #37 |
 | **Sam Rockwell** | Justin Hammer | **1** | **1** | 1 | 0 | 0 | 0 | #5 |
 | **Serinda Swan** | Medusa | **1** | **1** | 0 | 0 | 0 | 1 | #33 |
 | **Shaun Toub** | Ho Yinsen | **1** | **1** | 1 | 0 | 0 | 0 | #1 |
@@ -232,7 +235,7 @@
 ---
 
 ## TOTALS
-- **171 actors** across **38 films.**
+- **174 actors** across **38 films.**
 - **Most appearances overall:** Stan Lee, in **29** films.
 - **Most appearances by a fictional ensemble actor:** Marc-Anthony Bullock, **21 films.**
 - **In three or more phases:** Marc-Anthony Bullock, Tyrese Avery, Esther Smilley, Elxa Bullock, Arianna Cummings, Harmony Divine, Tayia Boyd, Tyler Chapman, Amond Baker, Grace Bullock, Stan Lee, Aubrey Plaza, Josh Brolin, Pedro Pascal, Samuel L. Jackson, Ciarán Hinds, Tenoch Huerta, Evan Peters, Joseph Quinn, Robert Downey Jr., Chadwick Boseman, Don Cheadle, Ebon Moss-Bachrach, Tom Holland, Vanessa Kirby, Patrick Stewart, Sebastian Stan, Tom Hiddleston, Idris Elba, Jaimie Alexander, Natalie Portman, Ray Stevenson, Rene Russo, Rosemary Harris, Tadanobu Asano, Zachary Levi, Anthony Hopkins, Elizabeth Banks, J.K. Simmons, Terry Crews, Tony Revolori.

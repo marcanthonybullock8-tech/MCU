@@ -1,6 +1,6 @@
 # FILM DOSSIER: ETERNALS
 ### Phase 4 · Film #8 (Saga Two, Film #8 · Overall Film #37)
-### Status: ✅ DOSSIER COMPLETE. ⏳ **Three showrunner casting decisions needed** (see Section 2).
+### Status: ✅ DOSSIER COMPLETE (awaiting showrunner lock)
 
 ---
 
@@ -33,9 +33,9 @@
 | **Phastos** | Brian Tyree Henry | 42 |
 | **Druig** | Barry Keoghan | 31 |
 | **Gilgamesh ("the Forgotten One")** | Don Lee | 53 |
-| **Ajak** | ⚠️ *see decision 1* | – |
-| **Makkari** | ⚠️ *see decision 2* | – |
-| **Sprite** | ⚠️ *see decision 3* | – |
+| **Ajak** | Salma Hayek | 57 |
+| **Makkari** | Lauren Ridloff *(Deaf, like her character)* | 46 |
+| **Sprite** *(forever a child)* | Lia McHugh | 17 |
 | **Dane Whitman** | Kit Harington | 37 |
 | **Kro** *(Deviant warlord; voice and performance capture)* | Bill Skarsgård | 33 |
 | **Arishem the Judge** *(a Celestial)* | Voice (fresh casting) | – |
@@ -43,36 +43,28 @@
 | **Pip the Troll** *(post-credit)* | Danny DeVito | 79 |
 | **Thanos** *(post-credit)* | Josh Brolin | 56 |
 
-### ⚠️ SHOWRUNNER DECISIONS (616 gender)
-On 616, **Ajak, Makkari and Sprite are male.** The only real actors to have played them are **women**. Under the Casting Rules they'd get the roles, but that changes the characters' genders, and **only Thor and Hawkeye are authorized to change.** (For the same reason, Mar-Vell was made a casting exception.)
-
-| # | Character | Casting Rules pick | Keep the 616 gender (exception) |
-|---|---|---|---|
-| 1 | **Ajak** | Salma Hayek (57) | Fresh male casting |
-| 2 | **Makkari** | Lauren Ridloff (46), who, like her character in the real film, is **Deaf** | Fresh male casting |
-| 3 | **Sprite** *(forever a child)* | Lia McHugh (17) | Fresh male casting |
-
-**Recommendation:** **keep the 616 genders** with fresh male casting for all three, as with Mar-Vell. Nobody is changed except the characters you've authorized.
+### ✅ SHOWRUNNER DECISION (locked)
+**Ajak, Makkari and Sprite are played by Salma Hayek, Lauren Ridloff and Lia McHugh**, the real actors who played them. As with **Thor and Hawkeye**, **the characters are female, and always have been.** **Nothing else changes.** Their histories, powers, personalities and roles are **100% 616.**
 
 ---
 
 ## 3. SOURCE MATERIAL (EARTH-616)
 | Field | Entry |
 |---|---|
-| **Primary comic(s) adapted** | ***The Eternals* #1–19** (1976–78), Jack Kirby: the **Celestials** arrive for their **Fourth Host** to **judge Earth**, and the **Eternals** (Ikaris, Sersi, Thena, Makkari, Ajak, Sprite, Kingo, Phastos, Druig, Gilgamesh) face the **Deviants** (Kro). ***Eternals* #1–7** (2006), Neil Gaiman & John Romita Jr.: **Sprite** wiped the Eternals' memories because he **resents being a child forever.** |
+| **Primary comic(s) adapted** | ***The Eternals* #1–19** (1976–78), Jack Kirby: the **Celestials** arrive for their **Fourth Host** to **judge Earth**, and the **Eternals** (Ikaris, Sersi, Thena, Makkari, Ajak, Sprite, Kingo, Phastos, Druig, Gilgamesh) face the **Deviants** (Kro). ***Eternals* #1–7** (2006), Neil Gaiman & John Romita Jr.: **Sprite** wiped the Eternals' memories because she **resents being a child forever.** |
 | **Supporting comics** | ***Iron Man* #55** (1973), Jim Starlin: **Thanos is an Eternal of Titan**, and **Eros (Starfox)** is his brother · Hickman's *New Avengers* / *Avengers* (2015): **the Beyonders destroy the Celestials** (seeded) |
 | **Nerf check** | ✅ **The Celestials are above even the Eternals.** The Eternals **can't beat Arishem.** They win **by persuasion.** Ikaris is **at full strength**, with flight and cosmic eye-beams. |
 
 ### 3A. COMIC ACCURACY REPORT
 | Field | Entry |
 |---|---|
-| **Overall accuracy score** | **94%** *(96% if the 616 genders are kept)*. Kirby's cosmic story and Gaiman's memory twist are adapted closely. |
+| **Overall accuracy score** | **96%.** Kirby's cosmic story and Gaiman's memory twist are adapted closely. Ajak, Makkari and Sprite are the same 616 characters, and have always been female (a showrunner decision, like Thor and Hawkeye). |
 
 **Straight from the page:**
 - **A million years ago, the Celestials** experimented on early humans and created **the Eternals** (immortal and powerful) and **the Deviants** (monstrous and unstable) (*Eternals* #1).
 - **The Fourth Host**: the Celestials **return to judge Earth**, and **Arishem** stands in judgment for **fifty years** (*Eternals* #1–19).
 - **Kro**, the Deviant warlord (#1).
-- **Sprite**, eternally a child, **erased the Eternals' memories** so they'd live as ordinary humans (Gaiman #1–7).
+- **Sprite**, eternally a child, **erased the Eternals' memories** so they'd live as ordinary humans (Gaiman #1–7). She resents being a child forever.
 - **Thanos** is one of the **Eternals of Titan**, and **Eros/Starfox** is his brother (*Iron Man* #55).
 
 #### POWERS & ABILITIES
@@ -149,4 +141,4 @@ On 616, **Ajak, Makkari and Sprite are male.** The only real actors to have play
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ⏳ Three gender casting decisions
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup · [x] Whose franchise · [x] When and where in the timeline · ✅ Casting locked
