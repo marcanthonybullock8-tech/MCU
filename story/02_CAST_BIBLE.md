@@ -26,7 +26,7 @@
 2. **Every other Marvel character is played by the real-life actor who played them.** Samuel L. Jackson is Nick Fury (the one exception to the 616 rule on casting).
 3. **When more than one real actor played a role, the most iconic or longest-serving one gets it for the whole saga, and nobody is recast mid-saga.** Examples: **Don Cheadle** as James "Rhodey" Rhodes, **William Hurt** as Thunderbolt Ross, **Jon Favreau** as Happy Hogan, **Jeff Bridges** as Obadiah Stane.
 4. **Characters whose real-life portrayals came from films that don't exist in our reality** (Fox's X-Men and Fantastic Four, Sony's Spider-Man, and similar): **real actors play them, and the showrunner picks which actor when there was more than one.** They come in as each character enters the story.
-5. **Showrunner picks (locked):** **Josh Brolin** is **Thanos**. The **X-Men** are Patrick Stewart (Xavier), Ian McKellen (Magneto), Tye Sheridan (Cyclops), Sophie Turner (Jean Grey), Nicholas Hoult (Beast), Shawn Ashmore (Iceman), Ben Hardy (Angel), Evan Peters (Quicksilver), Ray Park (Toad) and Peter Dinklage (Bolivar Trask).
+5. **Showrunner picks (locked):** **Josh Brolin** is **Thanos**. **Aubrey Plaza** is **Mistress Death** (the only real actor to have played Marvel's Death), silent from *Iron Man* (2008) on. The **X-Men** are Patrick Stewart (Xavier), Ian McKellen (Magneto), Tye Sheridan (Cyclops), Sophie Turner (Jean Grey), Nicholas Hoult (Beast), Shawn Ashmore (Iceman), Ben Hardy (Angel), Evan Peters (Quicksilver), Ray Park (Toad) and Peter Dinklage (Bolivar Trask).
 6. Even with real actors, **every character is still 100% Earth-616 and nobody is nerfed.** The actor is the only thing that comes from real life.
 
 ---

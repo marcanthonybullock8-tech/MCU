@@ -37,6 +37,7 @@
 | **Pvt. Gabe Jones** | Derek Luke | 37 |
 | **Baron Heinrich Zemo** | Christoph Waltz *(fresh casting: never played by a real actor)* | 54 |
 | **Namor the Sub-Mariner** *(Invaders cameo)* | Tenoch Huerta | 30 |
+| **Mistress Death** *(uncredited; on the ice floe)* | Aubrey Plaza | 27 |
 | **Stan Lee** *(cameo: a general at the medal ceremony)* | Stan Lee | 88 |
 
 *Accuracy flag: on 616, Bucky is a teenager in 1941. Sebastian Stan (28) is the only real actor to have played him, so per the Casting Rules he keeps the role. Bucky is written as the oldest-looking 17-year-old in the Army, which is also how Ed Brubaker's modern 616 version frames him.*

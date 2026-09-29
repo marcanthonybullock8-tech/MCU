@@ -36,6 +36,7 @@
 | **Happy Hogan** | Jon Favreau | 46 |
 | **Bruce Banner** *(mid-credit cameo)* | **Amond Baker** | 31 |
 | **Agent Jasper Sitwell** | Maximiliano Hernández | 39 |
+| **Mistress Death** *(at Tony's cocoon)* | Aubrey Plaza | 28 |
 | **Stan Lee** *(cameo: a beauty-pageant judge in Austin)* | Stan Lee | 90 |
 
 ---

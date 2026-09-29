@@ -39,6 +39,7 @@
 | **Agent Jasper Sitwell (S.H.I.E.L.D.)** | Maximiliano Hernández | Nov 12, 1973 | 34 |
 | **Nick Fury** *(post-credit)* | Samuel L. Jackson | Dec 21, 1948 | 59 |
 | **Janet van Dyne** *(cameo)* | **Elxa Bullock** *(secret cameo, uncredited until Comic-Con, July 2008)* | Aug 29, 1980 | 27 |
+| **Mistress Death** *(uncredited; silent at Yinsen's death)* | Aubrey Plaza | June 26, 1984 | 23 |
 | **Stan Lee** *(cameo, mistaken for Hugh Hefner at the gala)* | Stan Lee | Dec 28, 1922 | 85 |
 
 *Casting note: Wong-Chu has never been played by a real-life actor, so this is an original casting of a real actor. Everyone else follows the Casting Rules.*

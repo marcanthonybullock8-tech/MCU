@@ -41,6 +41,7 @@
 | **Nick Fury** | Samuel L. Jackson | 63 |
 | **Edwin Jarvis** | James D'Arcy *(the only real actor to have played him)* | 36 |
 | **Agent Jasper Sitwell** | Maximiliano Hernández | 38 |
+| **Mistress Death** *(post-credit; first credited appearance)* | Aubrey Plaza | 27 |
 | **Thanos** *(post-credit; performance capture on set)* | **Josh Brolin** *(✅ the showrunner's pick; Brolin plays Thanos for the whole Infinity Saga)* | 44 |
 | **Stan Lee** *(cameo: a circus-goer who thinks Mechano is "a very convincing robot")* | Stan Lee | 89 |
 

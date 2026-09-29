@@ -1,5 +1,5 @@
 # PHASE 2 SLATE (2013–2015): 9 FILMS
-### Status: being built. Dossiers are written automatically as each film is added.
+### Status: ✅ all 9 slots filled. Dossiers written automatically.
 
 | # | Title | Release date | Owner | Dossier |
 |---|---|---|---|---|
@@ -7,11 +7,11 @@
 | 2 | **Thor: Stormbreaker** | **Friday, July 26, 2013** | Esther Smilley | ✅ [complete](films/P2-02_THOR_STORMBREAKER.md) |
 | 3 | **Fantastic Four** | **Friday, November 8, 2013** | The FF ensemble (real actors, the showrunner's picks ⏳) | ✅ [complete](films/P2-03_FANTASTIC_FOUR.md) |
 | 4 | **Captain America: The Winter Soldier** | **Friday, April 4, 2014** | Tyrese Avery | ✅ [complete](films/P2-04_CAPTAIN_AMERICA_THE_WINTER_SOLDIER.md) |
-| 5 | *TBD* | | | |
-| 6 | *TBD* | | | |
-| 7 | *TBD* | | | |
-| 8 | *TBD* | | | |
-| 9 | *TBD* | | | |
+| 5 | **The Amazing Spider-Man** | **Friday, May 2, 2014** | Spider-Man's actor (real actor, the showrunner's pick ⏳) | ✅ [complete](films/P2-05_THE_AMAZING_SPIDER-MAN.md) |
+| 6 | **Guardians of the Galaxy** | **Friday, August 1, 2014** | The Guardians ensemble (Chris Pratt leads) | ✅ [complete](films/P2-06_GUARDIANS_OF_THE_GALAXY.md) |
+| 7 | **Avengers: Ultron Unlimited** | **Friday, May 1, 2015** | The ensemble (Tyrese Avery's Cap leads) | ✅ [complete](films/P2-07_AVENGERS_ULTRON_UNLIMITED.md) |
+| 8 | **Ant-Man and the Wasp: Yellowjacket** | **Friday, July 17, 2015** | Tyler Chapman (Elxa Bullock co-lead) | ✅ [complete](films/P2-08_ANT-MAN_AND_THE_WASP_YELLOWJACKET.md) |
+| 9 | **Silver Surfer** | **Friday, November 6, 2015** | The Silver Surfer (Doug Jones / Laurence Fishburne) | ✅ [complete](films/P2-09_SILVER_SURFER.md) |
 
 ---
 
@@ -36,3 +36,40 @@
 ## PHASE 2 FILM #4: CAPTAIN AMERICA: THE WINTER SOLDIER
 - **Release date: Friday, April 4, 2014.** Early spring, with a clear runway before the summer season. It's Cap's first film set in the present day.
 - **Comics:** Ed Brubaker's "Winter Soldier," *Captain America* vol. 5 #1–14.
+
+## PHASE 2 FILM #5: THE AMAZING SPIDER-MAN
+- **Character:** Peter Parker / Spider-Man. First appearance: ***Amazing Fantasy* #15** (August 1962), Stan Lee & Steve Ditko.
+- **Why fifth:** he's **Marvel's flagship character**, and we own him. He hasn't appeared in the MCU yet. He meets the FF straight away, as on 616 (*ASM* #1), and he gives Phase 2 its first street-level hero.
+- **Release date: Friday, May 2, 2014.** Marvel's first-Friday-in-May slot, four weeks after *The Winter Soldier*.
+
+## PHASE 2 FILM #6: GUARDIANS OF THE GALAXY
+- **Characters:** Star-Lord, Gamora, Drax, Rocket, Groot, Mantis and **Adam Warlock**, from the 616 team of 2008.
+- **Why sixth:** **the Thanos Quest needs the cosmic side.** On 616, **Gamora** is Thanos's adopted daughter, **Nebula** is his "granddaughter," **Drax** was **created to kill him** (*Iron Man* #55), and **Adam Warlock holds the Soul Gem.** It's Thanos's own corner of the universe.
+- **Release date: Friday, August 1, 2014.** Late summer, clear of the July blockbusters.
+
+## PHASE 2 FILM #7: AVENGERS: ULTRON UNLIMITED
+- **Release date: Friday, May 1, 2015.** Marvel's first-Friday-in-May slot.
+- **Comics:** *Avengers* #16 (Cap's Kooky Quartet) and #54–58 (Ultron and the Vision).
+
+## PHASE 2 FILM #8: ANT-MAN AND THE WASP: YELLOWJACKET
+- **Release date: Friday, July 17, 2015.** Mid-summer, eleven weeks after *Ultron Unlimited*.
+- **Comics:** *Avengers* #59–60: Yellowjacket, and the wedding of Hank and Janet. On 616 it comes straight after Ultron, and so does ours.
+
+## PHASE 2 FILM #9: SILVER SURFER (Phase 2 finale)
+- **Character:** Norrin Radd / the Silver Surfer. First appearance: ***Fantastic Four* #48** (March 1966), Stan Lee & Jack Kirby.
+- **Why he closes Phase 2:**
+  1. **On 616 the Silver Surfer is a central hero of *The Infinity Gauntlet***. He's **the first to see Thanos coming**, and he fights beside Warlock. He has to be on the board before Phase 3.
+  2. **The Galactus Trilogy** is Marvel's greatest cosmic story, and the FF are set up for it.
+  3. **It closes the Thanos Quest**: the Gauntlet is complete, Death rejects him, and Mephisto arrives, exactly as in *The Thanos Quest* #2.
+- **Release date: Friday, November 6, 2015.** Marvel's fall slot, which makes it the most important November release in the saga so far.
+
+---
+### Phase 2: the Gauntlet
+| Film | Gem count |
+|---|---|
+| *Iron Man 3* | 0 (the Elders are revealed) |
+| *Thor: Stormbreaker* | **1** (the Collector) |
+| *Guardians of the Galaxy* | **2** (the Champion) |
+| *Avengers: Ultron Unlimited* | **3** (the Grandmaster) |
+| *Ant-Man and the Wasp: Yellowjacket* | **4** (the Gardener) |
+| *Silver Surfer* | **6** (the Runner, and the **Soul Gem from Warlock**). **Complete.** |

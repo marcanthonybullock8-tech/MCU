@@ -37,6 +37,7 @@
 | **Nick Fury** | Samuel L. Jackson | 65 |
 | **Agent Jasper Sitwell** | Maximiliano Hernández | 40 |
 | **Peggy Carter** *(elderly; a cameo in aging makeup)* | Hayley Atwell | 31 |
+| **Thanos** / **Mistress Death** *(post-credit)* | Josh Brolin / Aubrey Plaza | 46 / 29 |
 | **Stan Lee** *(cameo: a Smithsonian guard)* | Stan Lee | 91 |
 
 ---
