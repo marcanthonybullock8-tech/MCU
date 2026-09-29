@@ -52,6 +52,10 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
   - [Series: Daredevil: Born Again (Disney+)](story/series/P4-S2_DAREDEVIL_BORN_AGAIN.md)
   - [Film #37: Eternals](story/films/P4-08_ETERNALS.md)
   - [Film #38: Fantastic Four: Solve Everything](story/films/P4-09_FANTASTIC_FOUR_SOLVE_EVERYTHING.md)
+- [Phase 5 Slate](story/11_PHASE_FIVE_SLATE.md)
+  - [Film #39: Ant-Man and the Wasp: Rage of Ultron](story/films/P5-01_ANT-MAN_AND_THE_WASP_RAGE_OF_ULTRON.md)
+  - [Film #40: Captain Marvel: The Kree-Skrull War](story/films/P5-02_CAPTAIN_MARVEL_THE_KREE-SKRULL_WAR.md)
+  - [Film #41: Guardians of the Galaxy: The Thanos Imperative](story/films/P5-03_GUARDIANS_OF_THE_GALAXY_THE_THANOS_IMPERATIVE.md)
 - [Story Format Bible](story/03_STORY_FORMAT_BIBLE.md): format, structure, genre and rating for the real-world story (not started)
 
 ## PDFs
