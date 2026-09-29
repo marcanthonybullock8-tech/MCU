@@ -27,7 +27,8 @@
 | Character | Actor | Age at release |
 |---|---|---|
 | **Carol Danvers / Captain Marvel** | Brie Larson | 28 |
-| **Mar-Vell / Dr. Walter Lawson** | Annette Bening *(⚠️ see casting note)* | 60 |
+| **Mar-Vell / Dr. Walter Lawson** | **Chris Evans** *(✅ showrunner exception; see casting note)* | 37 |
+| **The Supreme Intelligence** *(ruler of the Kree)* | Annette Bening | 60 |
 | **Yon-Rogg** | Jude Law | 45 |
 | **Rick Jones** | Michael Cera | 30 |
 | **Thanos** | Josh Brolin | 50 |
@@ -35,7 +36,7 @@
 | **Nick Fury** | Samuel L. Jackson | 69 |
 | **Stan Lee** *(cameo: a man on a train, reading his lines for a movie)* | Stan Lee | 95 |
 
-*⚠️ Casting note: on 616, **Mar-Vell is a man**, the Kree captain whose alias is **Dr. Walter Lawson.** Under the Casting Rules, **Annette Bening**, the only real actor to have played Mar-Vell, gets the role. **Flagged for the showrunner:** keep Bening, or make an exception and cast a man so the 616 Mar-Vell is exact.*
+*✅ Casting decision: on 616, **Mar-Vell is a man**, the Kree captain whose alias is **Dr. Walter Lawson.** To keep that exact, the showrunner delegated the call, and **Mar-Vell is played by Chris Evans.** It's the saga's **second casting exception**, after Samuel L. Jackson. (In our reality Evans never played Captain America or the Human Torch, so this is his first Marvel role.) **Annette Bening**, who played Mar-Vell in the real world, plays **the Kree Supreme Intelligence**, a role she also played in the real world.*
 
 ---
 
@@ -49,7 +50,7 @@
 ### 3A. COMIC ACCURACY REPORT
 | Field | Entry |
 |---|---|
-| **Overall accuracy score** | **94%.** The origins and Starlin's *Death of Captain Marvel* are adapted closely. Mar-Vell's casting is flagged. |
+| **Overall accuracy score** | **97%.** The origins and Starlin's *Death of Captain Marvel* are adapted closely, with a male Mar-Vell as on 616. |
 
 **Straight from the page:**
 - **Carol Danvers**, a **U.S. Air Force officer**, runs security at a base where **Dr. Walter Lawson** works. He's really **Mar-Vell**, a Kree captain undercover on Earth (*CM* #18).
@@ -64,7 +65,6 @@
 |---|---|
 | **Nitro's nerve gas** comes from the **Stamford explosion** (*Civil War*) | MCU continuity. Mar-Vell was there investigating the New Warriors. |
 | **Carol's origin and Mar-Vell's death** happen in one film | It links the two, and it connects to the Infinity Saga (Thanos) |
-| Mar-Vell is played by a woman | The Casting Rules (flagged) |
 
 #### POWERS & ABILITIES
 | Character | 616 powers & abilities | Shown in this film | Held back (why) | Match |
@@ -87,7 +87,7 @@
 **ACT ONE: THE MAGNITRON**
 - **Monday, January 15, 2018.** **Col. Carol Danvers**, U.S. Air Force, runs security at a desert research base. **Dr. Walter Lawson**, a brilliant, quiet scientist, is hiding something.
 - Lawson is **Mar-Vell**, a **Kree captain** undercover on Earth for years, and a friend of **Rick Jones.**
-- **Yon-Rogg**, Mar-Vell's jealous Kree commander, comes to bring him home or kill him.
+- **Yon-Rogg**, Mar-Vell's jealous Kree commander, comes to bring him home or kill him, on the orders of the **Supreme Intelligence**, the vast living computer that rules the Kree.
 - In the fight, the **Psyche-Magnitron explodes.** **Carol is caught in the blast.**
 
 **ACT TWO: THE DIAGNOSIS**

@@ -1,6 +1,6 @@
 # FILM DOSSIER: THE AMAZING SPIDER-MAN 2
 ### Phase 3 · Film #12 (Saga Film #29) · **THE FINAL FILM OF THE INFINITY SAGA**
-### Status: ✅ DOSSIER COMPLETE. ⏳ **One casting pick needed** (Mary Jane Watson; see Section 2).
+### Status: ✅ DOSSIER COMPLETE (awaiting showrunner lock)
 
 ---
 
@@ -36,10 +36,10 @@
 | **Flash Thompson / Betty Brant** | Tony Revolori / Elizabeth Banks | 23 / 45 |
 | **Tony Stark** *(cameo)* | **Marc-Anthony Bullock** | 37 |
 | **Mistress Death** | Aubrey Plaza | 35 |
-| **Mary Jane Watson** *(final scene)* | ⏳ **Showrunner's pick:** Kirsten Dunst (37) · Zendaya (22) | – |
+| **Mary Jane Watson** *(final scene)* | **Zendaya** *(✅ showrunner's pick)* | 22 |
 | **Stan Lee** *(cameo, filmed in 2018: a man at Gwen's funeral who puts a hand on Peter's shoulder)* | Stan Lee (1922–2018) | – |
 
-*⚠️ Age flags: Emma Stone (30) and Dane DeHaan (33) are playing 20-year-olds. They're the Casting Rules picks. Mary Jane: Kirsten Dunst is the only real actor who has played **Mary Jane Watson** herself, but she'd be 37 playing 20. Zendaya is the right age, but her MCU character was **"MJ" (Michelle Jones)**, not Mary Jane. **Your call.***
+*⚠️ Age flags: Emma Stone (30) and Dane DeHaan (33) are playing 20-year-olds. They're the Casting Rules picks. ✅ **Mary Jane:** the showrunner cast **Zendaya** (22), who is the right age. In our reality she plays **Mary Jane Watson herself**, the 616 character, from her first line: "Face it, Tiger."*
 
 ---
 
@@ -147,4 +147,4 @@
 ---
 
 ## CHECKLIST
-- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup (the saga's last note) · [x] Whose franchise · [x] When and where in the timeline · ⏳ Mary Jane casting pick
+- [x] Comic(s) adapted · [x] Comic Accuracy Report + powers · [x] Real and decoy titles · [x] What it's about · [x] Villain · [x] Post-credit scenes · [x] The film's own world-building · [x] MCU world-building · [x] Big Bad setup (the saga's last note) · [x] Whose franchise · [x] When and where in the timeline · ✅ Mary Jane cast (Zendaya)
