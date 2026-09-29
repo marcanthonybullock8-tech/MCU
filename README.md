@@ -21,3 +21,7 @@ An alternate-history, real-world chronicle of the birth of the Marvel Cinematic 
 Every story document is also rendered as a PDF in [`pdf/`](pdf/). To regenerate them after editing or adding a chapter, run:
 
     pip install markdown && python3 tools/build_pdfs.py
+
+## Standing rules
+- Every story document gets a PDF in `pdf/`.
+- **Film dossiers are written automatically** as soon as a film is added to the slate, without asking first.

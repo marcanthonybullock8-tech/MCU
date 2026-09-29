@@ -1,7 +1,9 @@
 # FILM DOSSIER TEMPLATE
 ### 🔒 LOCKED. Every MCU film must have a completed dossier before it's written into the story.
 
-> **Rule:** no film enters the slate, the Codex or the story until **every field below** is filled in. The fields marked **FIRST FILM ONLY** apply only to film #1.
+> **Rule:** no film enters the slate, the Codex or the story until **every field below** is filled in.
+>
+> **Standing order (showrunner):** dossiers are written **automatically.** When a film is added to the slate, its full dossier is written right away, **without asking first.** The fields marked **FIRST FILM ONLY** apply only to film #1.
 
 ---
 
