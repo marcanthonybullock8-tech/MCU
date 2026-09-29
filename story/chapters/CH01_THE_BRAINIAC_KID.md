@@ -1125,9 +1125,14 @@ foil and talking to the CRAFT SERVICES GUY about his daughter.
           Marc? We're ready.
 
 He hands the burrito to the Craft Services Guy, wipes his hands,
-and walks onto the cave set. Somewhere between the table and
-the workbench his face changes. The crew along the back wall
-notices it. So does the camera.
+and walks onto the cave set. On the way, without breaking stride,
+he slips a pack of PEANUT BUTTER CRACKERS out of his pocket and
+tucks it behind the scrap pile on the workbench, where the
+cameras can't see it. Nobody notices except the documentary
+camera.
+
+Somewhere between the table and the workbench his face changes.
+The crew along the back wall notices it. So does the camera.
 
 Reading opposite him, off-camera as YINSEN, is TAYIA BOYD
 (24). Marc asked for her specifically. The casting director
@@ -1191,7 +1196,33 @@ Nobody says cut for four seconds.
                (finally)
           ...Cut.
 
-The casting director takes off her reading glasses.
+The casting director takes off her reading glasses. She looks
+down at the sides in her lap.
+
+                    CASTING DIRECTOR
+          "Talk about product testing."
+          That's not in the sides.
+
+                    MARC-ANTHONY
+          Oh — sorry. It just came out.
+
+                    FAVREAU
+          Don't be sorry. Keep it.
+               (writing in his notebook)
+          Keep everything that just comes
+          out.
+
+On the workbench, Marc reaches behind the scrap pile, finds
+his crackers, and eats one while Favreau is still writing.
+
+                    FAVREAU (CONT'D)
+               (not looking up)
+          Was that in the scene too?
+
+                    MARC-ANTHONY
+               (mouth full)
+          Tony hasn't eaten in three days.
+          It's motivated.
 
 ONE OF THE PARAMOUNT EXECUTIVES leans toward another and
 whispers something. We can't hear it. The documentary boom

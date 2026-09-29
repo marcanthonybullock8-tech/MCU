@@ -26,6 +26,13 @@
 
 ---
 
+### Running gags (locked)
+| Gag | Where it lives |
+|---|---|
+| **Marc's ad-libs** | Every set. The script says one thing and Marc says another. Directors learn to shoot **"one for Marc."** The ad-lib log grows chapter by chapter, and the best lines end up quoted on T-shirts. |
+| **Marc's hidden snacks** | Every set. Stashes behind flats, in props, and later inside his suits. Crew "snack hunts." Started at the *Iron Man* screen test (Chapter One: peanut butter crackers behind the scrap pile). |
+| **"Marc IS Tony"** | The press, the fans and the culture slowly stop telling them apart. It's his crown and his cage. |
+
 ## 2. SERIALIZED vs. STANDALONE
 
 ### The target: **80% SERIALIZED / 20% STANDALONE**

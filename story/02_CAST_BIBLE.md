@@ -134,6 +134,11 @@ His number-one goal, ahead of Oscars, money or anything else, is **a family. A b
 **The problem Iron Man ended (typecasting and a dry spell)**
 Before Marvel called, he went **14 months** without a greenlit project (July 2005 – September 2006). To the studios he's either *"the Brainiac kid"* or *"the Disney kid who curses now,"* so every script his agency sends is a comedy. He has turned down **eleven** of them. *The Long Way Home* proved he can do drama, but almost nobody saw it. He was too famous to be treated as a newcomer and too typecast to be taken seriously. **Iron Man is his shot at proving he can grow up on screen, and half of Hollywood is waiting for him to fail.**
 
+**🔒 SIGNATURE TRAITS (LOCKED CANON):**
+1. **He becomes synonymous with Tony Stark.** By the end of the Infinity Saga, the public can't separate them. Fans, the press and eventually the culture treat "Marc-Anthony" and "Tony Stark" as the same person. Kids dress as Tony and say they're dressing as Marc. When a real-world headline needs a genius billionaire, it reaches for his face. It starts on the day he's cast and never stops.
+2. **The improviser.** He ad-libs constantly, on every set, in every take. Some of Tony Stark's most famous lines are **his, not the script's.** Directors learn to shoot a scripted take and then **"one for Marc,"** and the "Marc take" is often the one that makes the movie. Writers learn to leave gaps for him, the way the *Brainiac* writers once did. Continuity supervisors keep a separate log of his ad-libs. It drives some co-stars crazy and makes others better, and it's all over the press tours and blooper reels.
+3. **The snack smuggler.** He **hides snacks all over every set**: in props, behind flats, inside workbench drawers, and eventually in his own suits. Crews find stashes months later. A Tony Stark scene where he's eating becomes a running in-joke, because very often the snack was his own and the eating wasn't in the script. Snack hunts become a set tradition, and prop masters start leaving him "legal" hiding spots.
+
 **Relationships:**
 - **Amond Baker:** best friend since the cereal commercial in 1987. Brother. Right-hand man.
 - **Grace Bullock:** his little sister and his ride-or-die.
