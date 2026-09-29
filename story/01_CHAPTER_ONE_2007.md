@@ -12,7 +12,7 @@
 | Jon Favreau | Oct 19, 1966 | **40** |
 | Robert Downey Jr. | Apr 4, 1965 | **41** (42 on Apr 4) |
 | Gwyneth Paltrow | Sept 27, 1972 | **34** |
-| Terrence Howard | Mar 11, 1969 | **38** (turned 38 yesterday) |
+| Don Cheadle | Nov 29, 1964 | **42** |
 | Jeff Bridges | Dec 4, 1949 | **57** |
 | Samuel L. Jackson | Dec 21, 1948 | **58** |
 | Stan Lee | Dec 28, 1922 | **84** |
@@ -47,7 +47,7 @@
 > lol ok. B-list hero, a guy nobody's hired since Ally McBeal, and a studio that's never made a movie. See you at the $90M opening. Domestic TOTAL.
 
 > **Rhodey4WarMachine** — *Mar 12 2007, 10:31 AM*
-> Terrence Howard as Rhodey. Pay attention to him. Mark my words, we see the silver suit by the sequel.
+> Don Cheadle as Rhodey. Hotel Rwanda Don Cheadle. Pay attention to him. Mark my words, we see the silver suit by the sequel.
 
 > **ExcelsiorFaithful** — *Mar 12 2007, 11:47 AM*
 > Only thing I care about: IS IT COMIC ACCURATE? Stane better BE Iron Monger. Don't give me some made-up villain.
@@ -389,11 +389,11 @@ he spent all day shooting.
 
                     FAVREAU
                (laughing)
-          Terrence's birthday was
-          yesterday.
+          Don's birthday is in November.
 
                     FEIGE (V.O.)
-          Then it's authentic.
+          Then nobody will think it's real.
+          Perfect.
 ```
 
 ---
